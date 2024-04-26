@@ -1,0 +1,17 @@
+[11:05:01] [main/INFO]: Setting user: bobbyjanks
+[11:05:02] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:05:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[11:05:18] [Sound Library Loader/INFO]: Sound engine started
+[11:05:19] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[11:05:19] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[11:05:19] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[11:05:21] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[11:05:28] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[11:05:28] [Sound Library Loader/INFO]: Sound engine started
+[11:05:36] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:05:36] [Server thread/INFO]: Generating keypair
+[11:05:37] [Server thread/INFO]: Preparing start region for level 0
+[11:05:38] [Server thread/INFO]: Preparing spawn area: 62%
+[11:05:38] [Server thread/INFO]: Changing view distance to 16, from 10
+[11:05:40] [Server thread/INFO]: bobbyjanks[local:E:21be4af1] logged in with entity id 0 at (-786.1542213332109, 77.73016628412186, -1633.3482591591435)
+[11:05:40] [Server thread/INFO]: bobbyjanks joined the game

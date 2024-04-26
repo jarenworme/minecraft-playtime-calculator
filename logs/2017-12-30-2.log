@@ -1,0 +1,31 @@
+[22:53:46] [main/INFO]: Setting user: bobbyjanks
+[22:53:47] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:53:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[22:53:56] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[22:53:56] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[22:53:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[22:53:57] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[22:53:59] [Sound Library Loader/INFO]: Sound engine started
+[22:54:00] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[22:54:01] [Sound Library Loader/INFO]: Sound engine started
+[22:54:18] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:54:18] [Server thread/INFO]: Generating keypair
+[22:54:19] [Server thread/INFO]: Preparing start region for level 0
+[22:54:20] [Server thread/INFO]: Changing view distance to 16, from 10
+[22:54:21] [Server thread/INFO]: bobbyjanks[local:E:15a2dd78] logged in with entity id 5 at (-705.2211755613589, 97.99231714472718, -1241.8070598778195)
+[22:54:21] [Server thread/INFO]: bobbyjanks joined the game
+[23:30:13] [Client thread/INFO]: [CHAT] §dFirst position set to (-977.0, 64.0, -1436.0).
+[23:30:34] [Client thread/INFO]: [CHAT] §dFirst position set to (-977.0, 64.0, -1447.0).
+[23:30:40] [Client thread/INFO]: [CHAT] §dSecond position set to (-977.0, 67.0, -1432.0) (64).
+[23:30:44] [Client thread/INFO]: [CHAT] §d62 block(s) have been changed.
+[23:44:31] [Server thread/INFO]: Saving and pausing game...
+[23:44:31] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[23:44:31] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[23:44:31] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[23:44:32] [Server thread/INFO]: Stopping server
+[23:44:32] [Server thread/INFO]: Saving players
+[23:44:32] [Server thread/INFO]: Saving worlds
+[23:44:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[23:44:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[23:44:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[23:44:33] [Client thread/INFO]: Stopping!

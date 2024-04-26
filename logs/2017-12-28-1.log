@@ -1,0 +1,18 @@
+[15:42:42] [main/INFO]: Setting user: bobbyjanks
+[15:42:43] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:42:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[15:42:52] [Sound Library Loader/INFO]: Sound engine started
+[15:42:52] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[15:42:52] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[15:42:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[15:42:53] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[15:42:56] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[15:42:56] [Sound Library Loader/INFO]: Sound engine started
+[15:43:37] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:43:37] [Server thread/INFO]: Generating keypair
+[15:43:38] [Server thread/INFO]: Preparing start region for level 0
+[15:43:39] [Server thread/INFO]: Preparing spawn area: 76%
+[15:43:39] [Server thread/INFO]: Changing view distance to 16, from 10
+[15:43:40] [Server thread/INFO]: bobbyjanks[local:E:39b6817e] logged in with entity id 5 at (-555.5669653529471, 90.27325922592729, -1268.5910829795325)
+[15:43:40] [Server thread/INFO]: bobbyjanks joined the game
+[15:43:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2485ms behind, skipping 49 tick(s)

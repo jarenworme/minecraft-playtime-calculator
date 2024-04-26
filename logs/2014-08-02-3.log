@@ -1,0 +1,218 @@
+[13:00:19] [main/INFO]: Setting user: bobbyjanks
+[13:00:19] [main/INFO]: (Session ID is token:c76426615a5e4f94a71de7e50310a946:e8537636227e40beaf7a9d3e3b7e9748)
+[13:00:19] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:00:19] [Client thread/INFO]: Reloading ResourceManager: Default, Soartex_Fanver.zip
+[13:00:20] [Sound Library Loader/INFO]: Sound engine started
+[13:00:23] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[13:00:23] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[13:00:27] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:00:27] [Server thread/INFO]: Generating keypair
+[13:00:27] [Server thread/INFO]: Preparing start region for level 0
+[13:00:28] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:00:28] [Server thread/INFO]: bobbyjanks[local:E:237fefa6] logged in with entity id 242 at (-447.96418791413726, 112.11212620410093, -401.24763693764146)
+[13:00:28] [Server thread/INFO]: bobbyjanks joined the game
+[13:01:16] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[13:01:22] [Server thread/INFO]: [bobbyjanks: Set own game mode to Survival Mode]
+[13:01:22] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[13:01:26] [Server thread/INFO]: Saving and pausing game...
+[13:01:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:01:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:01:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:03:09] [Server thread/INFO]: [bobbyjanks: Given 99999999 experience to bobbyjanks]
+[13:03:09] [Client thread/INFO]: [CHAT] Given 99999999 experience to bobbyjanks
+[13:03:30] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[13:03:35] [Server thread/INFO]: [bobbyjanks: Set own game mode to Creative Mode]
+[13:03:35] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[13:05:08] [Server thread/INFO]: [bobbyjanks: Cleared the inventory of bobbyjanks, removing 40 items]
+[13:05:08] [Client thread/INFO]: [CHAT] Cleared the inventory of bobbyjanks, removing 40 items
+[13:17:17] [Server thread/INFO]: [bobbyjanks: Set the time to 1]
+[13:17:17] [Client thread/INFO]: [CHAT] Set the time to 1
+[13:48:04] [Server thread/INFO]: [bobbyjanks: Set the time to 1]
+[13:48:04] [Client thread/INFO]: [CHAT] Set the time to 1
+[13:50:18] [Server thread/INFO]: Saving and pausing game...
+[13:50:18] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:18] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:18] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:21] [Server thread/INFO]: Saving and pausing game...
+[13:50:21] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:21] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:21] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:26] [Server thread/INFO]: Saving and pausing game...
+[13:50:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:27] [Server thread/INFO]: Saving and pausing game...
+[13:50:27] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:27] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:27] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:28] [Server thread/INFO]: Saving and pausing game...
+[13:50:28] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:28] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:28] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:30] [Server thread/INFO]: Saving and pausing game...
+[13:50:30] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:30] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:30] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:31] [Server thread/INFO]: Saving and pausing game...
+[13:50:31] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:31] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:31] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:36] [Server thread/INFO]: Saving and pausing game...
+[13:50:36] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:36] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:36] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:38] [Server thread/INFO]: Saving and pausing game...
+[13:50:38] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:38] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:38] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:41] [Server thread/INFO]: Saving and pausing game...
+[13:50:41] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:41] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:41] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:44] [Server thread/INFO]: Saving and pausing game...
+[13:50:44] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:45] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:45] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:47] [Server thread/INFO]: Saving and pausing game...
+[13:50:47] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:47] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:47] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:50:49] [Server thread/INFO]: Saving and pausing game...
+[13:50:49] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:50:49] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:50:49] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:54:40] [Server thread/INFO]: Saving and pausing game...
+[13:54:40] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:54:40] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:54:40] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:54:42] [Server thread/INFO]: Saving and pausing game...
+[13:54:42] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:54:42] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:54:42] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:54:46] [Server thread/INFO]: Saving and pausing game...
+[13:54:46] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:54:46] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:54:46] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:54:55] [Server thread/INFO]: Saving and pausing game...
+[13:54:55] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:54:55] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:54:55] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:55:01] [Server thread/INFO]: Saving and pausing game...
+[13:55:01] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:55:01] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:55:01] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:57:22] [Server thread/INFO]: Saving and pausing game...
+[13:57:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:57:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:57:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:57:40] [Server thread/INFO]: Saving and pausing game...
+[13:57:40] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:57:40] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:57:40] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:58:03] [Server thread/INFO]: Saving and pausing game...
+[13:58:03] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:58:03] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:58:03] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:59:22] [Server thread/INFO]: Saving and pausing game...
+[13:59:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:59:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:59:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[13:59:26] [Server thread/INFO]: Saving and pausing game...
+[13:59:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[13:59:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[13:59:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:02:22] [Server thread/INFO]: Saving and pausing game...
+[14:02:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:02:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:02:22] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:02:24] [Server thread/INFO]: Saving and pausing game...
+[14:02:24] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:02:24] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:02:24] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:03:51] [Server thread/INFO]: Saving and pausing game...
+[14:03:51] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:03:51] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:03:51] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:03:53] [Server thread/INFO]: Saving and pausing game...
+[14:03:53] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:03:53] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:03:53] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:07:23] [Server thread/INFO]: Saving and pausing game...
+[14:07:23] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:07:23] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:07:23] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:07:26] [Server thread/INFO]: Saving and pausing game...
+[14:07:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:07:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:07:26] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:07:27] [Server thread/INFO]: Saving and pausing game...
+[14:07:27] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:07:27] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:07:27] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:07:34] [Server thread/INFO]: Saving and pausing game...
+[14:07:34] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:07:34] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:07:34] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:08:32] [Server thread/INFO]: Saving and pausing game...
+[14:08:32] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:08:32] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:08:32] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:08:34] [Server thread/INFO]: Saving and pausing game...
+[14:08:34] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:08:34] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:08:34] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:08:50] [Server thread/INFO]: Saving and pausing game...
+[14:08:50] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:08:50] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:08:50] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:09:08] [Server thread/INFO]: Saving and pausing game...
+[14:09:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:09:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:09:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:09:29] [Server thread/INFO]: Saving and pausing game...
+[14:09:29] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:09:29] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:09:29] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:09:53] [Server thread/INFO]: Saving and pausing game...
+[14:09:53] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:09:53] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:09:53] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:10:08] [Server thread/INFO]: Saving and pausing game...
+[14:10:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:10:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:10:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:10:32] [Server thread/INFO]: Saving and pausing game...
+[14:10:32] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:10:32] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:10:32] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:10:59] [Server thread/INFO]: Saving and pausing game...
+[14:10:59] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:10:59] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:10:59] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:13:54] [Server thread/INFO]: Saving and pausing game...
+[14:13:54] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:13:54] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:13:54] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:13:56] [Server thread/INFO]: Saving and pausing game...
+[14:13:56] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:13:56] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:13:56] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:14:06] [Server thread/INFO]: Saving and pausing game...
+[14:14:06] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:14:06] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:14:06] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:14:08] [Server thread/INFO]: Saving and pausing game...
+[14:14:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:14:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:14:08] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:19:48] [Server thread/INFO]: Saving and pausing game...
+[14:19:48] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:19:48] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:19:48] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:19:49] [Server thread/INFO]: Stopping server
+[14:19:49] [Server thread/INFO]: Saving players
+[14:19:49] [Server thread/INFO]: Saving worlds
+[14:19:49] [Server thread/INFO]: Saving chunks for level 'Creative World'/Overworld
+[14:19:49] [Server thread/INFO]: Saving chunks for level 'Creative World'/Nether
+[14:19:49] [Server thread/INFO]: Saving chunks for level 'Creative World'/The End
+[14:19:50] [Client thread/INFO]: Stopping!

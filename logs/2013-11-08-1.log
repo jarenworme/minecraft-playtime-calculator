@@ -1,0 +1,14 @@
+[17:44:42] [main/INFO]: Setting user: bobbyjanks
+[17:44:42] [main/INFO]: (Session ID is token:2d377b004e22473db5f3959b460a160c:e8537636227e40beaf7a9d3e3b7e9748)
+[17:44:42] [Client thread/INFO]: LWJGL Version: 2.9.0
+[17:44:43] [Client thread/INFO]: Reloading ResourceManager: Default
+[17:44:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:44:43] [Sound Library Loader/INFO]: Sound engine started
+[17:44:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:44:49] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:music.menu
+[17:44:53] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[17:44:53] [Server thread/INFO]: Generating keypair
+[17:44:53] [Server thread/INFO]: Preparing start region for level 0
+[17:44:54] [Server thread/INFO]: bobbyjanks[local:E:6c55bac7] logged in with entity id 160 at (-1140.4712844470546, 64.0, 517.2694119174628)
+[17:44:54] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:music.menu
+[17:44:54] [Server thread/INFO]: bobbyjanks joined the game

@@ -1,0 +1,13 @@
+[23:47:16] [main/INFO]: Setting user: bobbyjanks
+[23:47:16] [main/INFO]: (Session ID is token:3a880690bcef48cd8f4986d3ee604904:e8537636227e40beaf7a9d3e3b7e9748)
+[23:47:16] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:47:17] [Client thread/INFO]: Reloading ResourceManager: Default
+[23:47:18] [Sound Library Loader/INFO]: Sound engine started
+[23:47:18] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:47:18] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:47:20] [Server thread/INFO]: Starting integrated minecraft server version 1.7.4
+[23:47:20] [Server thread/INFO]: Generating keypair
+[23:47:20] [Server thread/INFO]: Preparing start region for level 0
+[23:47:21] [Server thread/INFO]: Changing view distance to 8, from 10
+[23:47:21] [Server thread/INFO]: bobbyjanks[local:E:01046293] logged in with entity id 43 at (-454.9571201911068, 66.1116330269739, -232.35805797451283)
+[23:47:21] [Server thread/INFO]: bobbyjanks joined the game

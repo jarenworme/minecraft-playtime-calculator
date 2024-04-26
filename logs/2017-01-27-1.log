@@ -1,0 +1,111 @@
+[21:17:56] [main/INFO]: Setting user: bobbyjanks
+[21:17:57] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:18:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[21:18:02] [Sound Library Loader/INFO]: Sound engine started
+[21:18:06] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[21:18:08] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[21:18:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[21:18:08] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[21:18:08] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[21:18:09] [Sound Library Loader/INFO]: Sound engine started
+[21:18:19] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:18:19] [Server thread/INFO]: Generating keypair
+[21:18:20] [Server thread/INFO]: Preparing start region for level 0
+[21:18:21] [Server thread/INFO]: Preparing spawn area: 74%
+[21:18:21] [Server thread/INFO]: Changing view distance to 15, from 10
+[21:18:22] [Server thread/INFO]: bobbyjanks[local:E:005800e7] logged in with entity id 0 at (-589.0490726699819, 98.72990812624478, -2000.7740930240445)
+[21:18:22] [Server thread/INFO]: bobbyjanks joined the game
+[21:18:57] [Server thread/INFO]: Saving and pausing game...
+[21:18:57] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[21:18:57] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[21:18:57] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[21:19:46] [Server thread/INFO]: Saving and pausing game...
+[21:19:46] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[21:19:46] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[21:19:46] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[21:22:30] [Client thread/INFO]: [CHAT] §dFirst position set to (-626.0, 69.0, -1946.0).
+[21:22:32] [Client thread/INFO]: [CHAT] §dSecond position set to (-617.0, 69.0, -1946.0) (10).
+[21:23:27] [Server thread/INFO]: [bobbyjanks: Set the time to 1]
+[21:23:27] [Client thread/INFO]: [CHAT] Set the time to 1
+[21:23:43] [Client thread/INFO]: [CHAT] §dFirst position set to (-627.0, 74.0, -1946.0) (66).
+[21:24:03] [Client thread/INFO]: [CHAT] §dSecond position set to (-598.0, 74.0, -1946.0) (30).
+[21:24:12] [Client thread/INFO]: [CHAT] §d28 block(s) have been changed.
+[21:25:28] [Server thread/INFO]: Saving and pausing game...
+[21:25:28] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[21:25:28] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[21:25:28] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[21:26:38] [Client thread/INFO]: [CHAT] §dFirst position set to (-627.0, 74.0, -1925.0) (660).
+[21:26:41] [Client thread/INFO]: [CHAT] §dSecond position set to (-627.0, 74.0, -1946.0) (22).
+[21:27:28] [Client thread/INFO]: [CHAT] §dFirst position set to (-627.0, 69.0, -1925.0) (132).
+[21:27:32] [Client thread/INFO]: [CHAT] §dSecond position set to (-617.0, 69.0, -1946.0) (242).
+[21:27:40] [Client thread/INFO]: [CHAT] §d210 block(s) have been changed.
+[21:27:55] [Client thread/INFO]: [CHAT] §dFirst position set to (-617.0, 69.0, -1925.0) (22).
+[21:28:00] [Client thread/INFO]: [CHAT] §dSecond position set to (-584.0, 69.0, -1942.0) (612).
+[21:28:04] [Client thread/INFO]: [CHAT] §d550 block(s) have been changed.
+[21:29:46] [Client thread/INFO]: [CHAT] §dFirst position set to (-627.0, 74.0, -1925.0) (4752).
+[21:29:50] [Client thread/INFO]: [CHAT] §dSecond position set to (-599.0, 74.0, -1946.0) (638).
+[21:29:51] [Client thread/INFO]: [CHAT] §dSecond position set to (-598.0, 74.0, -1946.0) (660).
+[21:29:55] [Client thread/INFO]: [CHAT] §d604 block(s) have been changed.
+[21:31:24] [Client thread/INFO]: [CHAT] §dFirst position set to (-626.0, 73.0, -1942.0) (290).
+[21:31:29] [Client thread/INFO]: [CHAT] §dSecond position set to (-598.0, 70.0, -1942.0) (116).
+[21:31:36] [Client thread/INFO]: [CHAT] §d84 block(s) have been changed.
+[21:35:11] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[21:35:21] [Client thread/INFO]: [CHAT] §dFirst position set to (-620.0, 73.0, -1942.0) (92).
+[21:35:22] [Client thread/INFO]: [CHAT] §dSecond position set to (-614.0, 70.0, -1942.0) (28).
+[21:35:25] [Client thread/INFO]: [CHAT] §d28 block(s) have been changed.
+[21:38:40] [Server thread/INFO]: Saving and pausing game...
+[21:38:40] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[21:38:40] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[21:38:40] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[22:28:31] [Client thread/INFO]: [CHAT] §dFirst position set to (-626.0, 73.0, -1941.0) (104).
+[22:28:35] [Client thread/INFO]: [CHAT] §dSecond position set to (-626.0, 70.0, -1926.0) (64).
+[22:28:43] [Client thread/INFO]: [CHAT] §d59 block(s) have been changed.
+[22:32:42] [Client thread/INFO]: [CHAT] §dFirst position set to (-616.0, 63.0, -1960.0) (3080).
+[22:32:43] [Client thread/INFO]: [CHAT] §dSecond position set to (-624.0, 63.0, -1961.0) (18).
+[22:32:47] [Client thread/INFO]: [CHAT] §dSecond position set to (-626.0, 63.0, -1961.0) (22).
+[22:32:53] [Client thread/INFO]: [CHAT] §d22 block(s) have been changed.
+[22:32:58] [Client thread/INFO]: [CHAT] §d22 block(s) have been changed.
+[22:33:05] [Client thread/INFO]: [CHAT] §d22 block(s) have been changed.
+[22:52:47] [Server thread/INFO]: Saving and pausing game...
+[22:52:47] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[22:52:47] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[22:52:47] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[22:59:34] [Client thread/INFO]: [CHAT] §dFirst position set to (-619.0, 63.0, -1943.0) (152).
+[22:59:46] [Client thread/INFO]: [CHAT] §dSecond position set to (-619.0, 60.0, -1927.0) (68).
+[22:59:54] [Client thread/INFO]: [CHAT] §dSecond position set to (-619.0, 60.0, -1923.0) (84).
+[23:00:03] [Client thread/INFO]: [CHAT] §dSecond position set to (-619.0, 60.0, -1919.0) (100).
+[23:00:07] [Client thread/INFO]: [CHAT] §dSecond position set to (-619.0, 60.0, -1918.0) (104).
+[23:00:18] [Client thread/INFO]: [CHAT] §dFirst position set to (-626.0, 63.0, -1918.0) (32).
+[23:00:26] [Client thread/INFO]: [CHAT] §dFirst position set to (-620.0, 60.0, -1943.0) (52).
+[23:00:37] [Client thread/INFO]: [CHAT] §dSecond position set to (-625.0, 63.0, -1918.0) (624).
+[23:00:44] [Client thread/INFO]: [CHAT] §d586 block(s) have been changed.
+[23:00:51] [Client thread/INFO]: [CHAT] §dFirst position set to (-619.0, 63.0, -1943.0) (182).
+[23:01:01] [Client thread/INFO]: [CHAT] §dSecond position set to (-619.0, 60.0, -1918.0) (104).
+[23:01:11] [Client thread/INFO]: [CHAT] §d104 block(s) have been changed.
+[23:01:20] [Client thread/INFO]: [CHAT] §dFirst position set to (-620.0, 62.0, -1944.0) (162).
+[23:01:21] [Client thread/INFO]: [CHAT] §dSecond position set to (-625.0, 60.0, -1944.0) (18).
+[23:01:24] [Client thread/INFO]: [CHAT] §d18 block(s) have been changed.
+[23:02:04] [Client thread/INFO]: [CHAT] §dFirst position set to (-626.0, 66.0, -1945.0) (28).
+[23:02:08] [Client thread/INFO]: [CHAT] §dSecond position set to (-626.0, 60.0, -1918.0) (196).
+[23:02:17] [Client thread/INFO]: [CHAT] §d193 block(s) have been changed.
+[23:02:33] [Client thread/INFO]: [CHAT] §dFirst position set to (-619.0, 63.0, -1918.0) (32).
+[23:02:42] [Client thread/INFO]: [CHAT] §dSecond position set to (-625.0, 59.0, -1918.0) (35).
+[23:02:44] [Client thread/INFO]: [CHAT] §dSecond position set to (-625.0, 60.0, -1918.0) (28).
+[23:02:47] [Client thread/INFO]: [CHAT] §d24 block(s) have been changed.
+[23:03:00] [Client thread/INFO]: [CHAT] §dFirst position set to (-620.0, 60.0, -1918.0) (6).
+[23:03:04] [Client thread/INFO]: [CHAT] §dSecond position set to (-625.0, 60.0, -1944.0) (162).
+[23:03:08] [Client thread/INFO]: [CHAT] §d150 block(s) have been changed.
+[23:04:54] [Client thread/INFO]: [CHAT] §dFirst position set to (-620.0, 63.0, -1943.0) (48).
+[23:04:57] [Client thread/INFO]: [CHAT] §dSecond position set to (-625.0, 61.0, -1919.0) (450).
+[23:05:03] [Client thread/INFO]: [CHAT] §d450 block(s) have been changed.
+[23:20:32] [Server thread/INFO]: Saving and pausing game...
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[23:20:32] [Server thread/INFO]: Stopping server
+[23:20:32] [Server thread/INFO]: Saving players
+[23:20:32] [Server thread/INFO]: Saving worlds
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[23:20:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[23:20:34] [Client thread/INFO]: Stopping!

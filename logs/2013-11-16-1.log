@@ -1,0 +1,24 @@
+[07:36:17] [main/INFO]: Setting user: bobbyjanks
+[07:36:17] [main/INFO]: (Session ID is token:7ff6bbbd67b647dfb6b952c8b3fc8c9b:e8537636227e40beaf7a9d3e3b7e9748)
+[07:36:18] [Client thread/INFO]: LWJGL Version: 2.9.0
+[07:36:20] [Client thread/INFO]: Reloading ResourceManager: Default
+[07:36:21] [Sound Library Loader/INFO]: Sound engine started
+[07:36:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[07:36:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[07:36:26] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[07:36:26] [Server thread/INFO]: Generating keypair
+[07:36:26] [Server thread/INFO]: Preparing start region for level 0
+[07:36:27] [Server thread/INFO]: bobbyjanks[local:E:fb6b02cb] logged in with entity id 161 at (-1064.2253002978532, 60.0, 559.361000097171)
+[07:36:27] [Server thread/INFO]: bobbyjanks joined the game
+[07:53:59] [Server thread/INFO]: Saving and pausing game...
+[07:53:59] [Server thread/INFO]: Saving chunks for level 'Battlezone 1'/Overworld
+[07:53:59] [Server thread/INFO]: Saving chunks for level 'Battlezone 1'/Nether
+[07:53:59] [Server thread/INFO]: Saving chunks for level 'Battlezone 1'/The End
+[07:53:59] [Server thread/INFO]: Stopping server
+[07:53:59] [Server thread/INFO]: Saving players
+[07:53:59] [Server thread/INFO]: Saving worlds
+[07:53:59] [Server thread/INFO]: Saving chunks for level 'Battlezone 1'/Overworld
+[07:53:59] [Server thread/INFO]: Saving chunks for level 'Battlezone 1'/Nether
+[07:53:59] [Server thread/INFO]: Saving chunks for level 'Battlezone 1'/The End
+[07:54:00] [Client thread/WARN]: Unable to play empty soundEvent: minecraft:music.menu
+[07:54:01] [Client thread/INFO]: Stopping!

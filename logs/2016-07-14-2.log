@@ -1,0 +1,217 @@
+[16:59:23] [main/INFO]: Setting user: SilverPigeon
+[16:59:24] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:59:27] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[16:59:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:59:28] [Sound Library Loader/INFO]: Sound engine started
+[16:59:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:59:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[16:59:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:59:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:59:29] [Sound Library Loader/INFO]: Sound engine started
+[16:59:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[16:59:39] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[16:59:41] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[16:59:42] [Sound Library Loader/INFO]: Sound engine started
+[16:59:49] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:59:49] [Server thread/INFO]: Generating keypair
+[16:59:50] [Server thread/INFO]: Preparing start region for level 0
+[16:59:51] [Server thread/INFO]: Preparing spawn area: 68%
+[16:59:51] [Server thread/INFO]: Changing view distance to 6, from 10
+[16:59:51] [Server thread/INFO]: SilverPigeon[local:E:173cd70d] logged in with entity id 1 at (-567.1704573553063, 78.91616652253052, -1216.374922759488)
+[16:59:51] [Server thread/INFO]: SilverPigeon joined the game
+[17:02:08] [Server thread/INFO]: Saving and pausing game...
+[17:02:08] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[17:02:08] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[17:02:08] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[17:02:54] [Texture Downloader #1/ERROR]: Couldn't download http texture
+java.net.UnknownHostException: textures.minecraft.net
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.7.0_55]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.7.0_55]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.7.0_55]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.7.0_55]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[?:1.7.0_55]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[?:1.7.0_55]
+	at net.minecraft.client.renderer.ThreadDownloadImageData$1.run(SourceFile:109) [bps.class:?]
+[17:02:57] [Server thread/INFO]: SilverPigeon has just earned the achievement [Taking Inventory]
+[17:02:57] [Client thread/INFO]: [CHAT] SilverPigeon has just earned the achievement [Taking Inventory]
+[17:10:49] [Server thread/INFO]: Saving and pausing game...
+[17:10:49] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[17:10:49] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[17:10:49] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[17:10:58] [Server thread/INFO]: Changing view distance to 15, from 6
+[17:13:28] [Server thread/INFO]: [SilverPigeon: Teleported SilverPigeon to 5.5,80.5,-474.5]
+[17:13:28] [Client thread/INFO]: [CHAT] Teleported SilverPigeon to 5.5,80.5,-474.5
+[17:16:29] [Client thread/INFO]: [CHAT] §dFirst position set to (144.0, 3.0, -476.0).
+[17:17:24] [Server thread/INFO]: [SilverPigeon: Teleported SilverPigeon to 140.5,80.5,-1174.5]
+[17:17:24] [Client thread/INFO]: [CHAT] Teleported SilverPigeon to 140.5,80.5,-1174.5
+[17:18:06] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 2.0, -1151.0) (6760).
+[17:18:12] [Client thread/INFO]: [CHAT] §d6760 block(s) have been changed.
+[17:18:13] [Client thread/INFO]: Warning: Clientside chunk ticking took 111 ms
+[17:18:54] [Client thread/INFO]: [CHAT] That player could not be found
+[17:19:10] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 50 to SilverPigeon for 100 seconds]
+[17:19:10] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 50 to SilverPigeon for 100 seconds
+[17:19:23] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 50 seconds]
+[17:19:23] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 50 seconds
+[17:19:52] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 1 seconds]
+[17:19:52] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 1 seconds
+[17:21:04] [Client thread/INFO]: [CHAT] §dFirst position set to (140.0, 3.0, -475.0) (1354).
+[17:21:10] [Client thread/INFO]: [CHAT] §dUndo successful.
+[17:21:16] [Client thread/INFO]: [CHAT] §d1353 block(s) have been changed.
+[17:21:16] [Client thread/INFO]: Warning: Clientside chunk ticking took 129 ms
+[17:21:26] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:21:26] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:22:01] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:22:01] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:22:28] [Client thread/INFO]: [CHAT] §dFirst position set to (140.0, 4.0, -423.0) (2187).
+[17:22:47] [Client thread/INFO]: [CHAT] §dSecond position set to (-15.0, 4.0, -423.0) (156).
+[17:22:56] [Client thread/INFO]: [CHAT] §d156 block(s) have been changed.
+[17:23:16] [Client thread/INFO]: [CHAT] §dFirst position set to (140.0, 4.0, -424.0) (312).
+[17:23:19] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:23:19] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:23:29] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -1151.0) (728).
+[17:23:33] [Client thread/INFO]: [CHAT] §d728 block(s) have been changed.
+[17:23:52] [Client thread/INFO]: [CHAT] §dFirst position set to (140.0, 2.0, -1153.0) (9).
+[17:24:02] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 62.0, -1153.0) (61).
+[17:24:06] [Client thread/INFO]: [CHAT] §d59 block(s) have been changed.
+[17:24:07] [Client thread/INFO]: [CHAT] §dFirst position set to (141.0, 62.0, -1152.0) (4).
+[17:24:12] [Client thread/INFO]: [CHAT] §dSecond position set to (141.0, 3.0, -1152.0) (60).
+[17:24:14] [Client thread/INFO]: [CHAT] §d59 block(s) have been changed.
+[17:24:16] [Client thread/INFO]: [CHAT] §dFirst position set to (140.0, 5.0, -1151.0) (12).
+[17:24:24] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 62.0, -1151.0) (58).
+[17:24:29] [Client thread/INFO]: [CHAT] §d58 block(s) have been changed.
+[17:24:56] [Client thread/INFO]: [CHAT] §dFirst position set to (139.0, 62.0, -1152.0) (4).
+[17:24:59] [Client thread/INFO]: [CHAT] §dSecond position set to (139.0, 3.0, -1152.0) (60).
+[17:25:02] [Client thread/INFO]: [CHAT] §d59 block(s) have been changed.
+[17:25:35] [Client thread/INFO]: [CHAT] §dFirst position set to (141.0, 3.0, -1144.0) (27).
+[17:25:39] [Client thread/INFO]: [CHAT] §dSecond position set to (150.0, 2.0, -1151.0) (160).
+[17:25:43] [Client thread/INFO]: [CHAT] §d160 block(s) have been changed.
+[17:25:49] [Client thread/INFO]: [CHAT] §dFirst position set to (141.0, 4.0, -1151.0) (30).
+[17:25:51] [Client thread/INFO]: [CHAT] §dFirst position set to (141.0, 4.0, -1152.0) (60).
+[17:25:55] [Client thread/INFO]: [CHAT] §dSecond position set to (151.0, 4.0, -1143.0) (110).
+[17:25:59] [Client thread/INFO]: [CHAT] §d110 block(s) have been changed.
+[17:26:03] [Client thread/INFO]: [CHAT] §dFirst position set to (141.0, 5.0, -1143.0) (22).
+[17:26:06] [Client thread/INFO]: [CHAT] §dSecond position set to (151.0, 5.0, -1152.0) (110).
+[17:26:10] [Client thread/INFO]: [CHAT] §d109 block(s) have been changed.
+[17:26:45] [Client thread/INFO]: [CHAT] §dFirst position set to (151.0, 4.0, -1142.0) (22).
+[17:26:47] [Client thread/INFO]: [CHAT] §dSecond position set to (141.0, 4.0, -1142.0) (11).
+[17:26:50] [Client thread/INFO]: [CHAT] §d11 block(s) have been changed.
+[17:26:52] [Client thread/INFO]: [CHAT] §dFirst position set to (152.0, 4.0, -1143.0) (24).
+[17:26:58] [Client thread/INFO]: [CHAT] §dSecond position set to (152.0, 4.0, -1152.0) (10).
+[17:26:59] [Client thread/INFO]: [CHAT] §d10 block(s) have been changed.
+[17:27:01] [Client thread/INFO]: [CHAT] §dFirst position set to (151.0, 4.0, -1153.0) (4).
+[17:27:03] [Client thread/INFO]: [CHAT] §dSecond position set to (141.0, 4.0, -1153.0) (11).
+[17:27:04] [Client thread/INFO]: [CHAT] §d11 block(s) have been changed.
+[17:28:38] [Client thread/INFO]: [CHAT] §dFirst position set to (139.0, 1.0, -1149.0) (60).
+[17:28:43] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:28:43] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:30:45] [Client thread/INFO]: [CHAT] §dSecond position set to (141.0, 3.0, -585.0) (5085).
+[17:31:01] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -522.0) (1256).
+[17:32:23] [Client thread/INFO]: [CHAT] §dSecond position set to (141.0, 3.0, -516.0) (5706).
+[17:32:25] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -514.0) (5088).
+[17:32:32] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -586.0) (1128).
+[17:32:33] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -588.0) (1124).
+[17:32:33] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -590.0) (1120).
+[17:32:33] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -592.0) (1116).
+[17:32:33] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -594.0) (1112).
+[17:32:33] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -596.0) (1108).
+[17:32:34] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -599.0) (1102).
+[17:32:34] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -601.0) (1098).
+[17:32:34] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -603.0) (1094).
+[17:32:34] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -605.0) (1090).
+[17:32:34] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -607.0) (1086).
+[17:32:35] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -609.0) (1082).
+[17:32:35] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -612.0) (1076).
+[17:32:35] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -614.0) (1072).
+[17:32:35] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -616.0) (1068).
+[17:32:35] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -618.0) (1064).
+[17:32:36] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -620.0) (1060).
+[17:32:36] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -623.0) (1054).
+[17:32:36] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -625.0) (1050).
+[17:32:36] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -627.0) (1046).
+[17:32:36] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -629.0) (1042).
+[17:32:37] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -631.0) (1038).
+[17:32:37] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -634.0) (1032).
+[17:32:37] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -636.0) (1028).
+[17:32:37] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -638.0) (1024).
+[17:32:37] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -640.0) (1020).
+[17:32:38] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -642.0) (1016).
+[17:32:38] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -644.0) (1012).
+[17:32:38] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -647.0) (1006).
+[17:32:38] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -649.0) (1002).
+[17:32:38] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -651.0) (998).
+[17:32:39] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -653.0) (994).
+[17:32:39] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -655.0) (990).
+[17:32:39] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -657.0) (986).
+[17:32:39] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -660.0) (980).
+[17:32:39] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -662.0) (976).
+[17:32:40] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -664.0) (972).
+[17:32:40] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -666.0) (968).
+[17:32:40] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -668.0) (964).
+[17:32:40] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -671.0) (958).
+[17:32:42] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -665.0) (970).
+[17:32:42] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -663.0) (974).
+[17:32:42] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -662.0) (976).
+[17:32:43] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -660.0) (980).
+[17:32:43] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -658.0) (984).
+[17:32:43] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -656.0) (988).
+[17:32:43] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -654.0) (992).
+[17:32:43] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -652.0) (996).
+[17:32:44] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -649.0) (1002).
+[17:32:46] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -648.0) (1004).
+[17:32:46] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -649.0) (1002).
+[17:32:46] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -650.0) (1000).
+[17:32:46] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -651.0) (998).
+[17:32:47] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -652.0) (996).
+[17:32:47] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -653.0) (994).
+[17:32:47] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 1.0, -654.0) (992).
+[17:32:48] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -653.0) (3976).
+[17:32:54] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -707.0) (3544).
+[17:33:04] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -806.0) (2752).
+[17:33:06] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -825.0) (2600).
+[17:33:08] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -843.0) (2456).
+[17:33:09] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -861.0) (2312).
+[17:33:11] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -879.0) (2168).
+[17:33:13] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -898.0) (2016).
+[17:33:55] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:33:55] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:34:02] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -871.0) (2232).
+[17:34:02] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -832.0) (2544).
+[17:34:09] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 4.0, -605.0) (4360).
+[17:34:14] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:34:14] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:34:20] [Client thread/INFO]: [CHAT] §dSecond position set to (139.0, 1.0, -424.0) (726).
+[17:34:29] [Client thread/INFO]: [CHAT] §d726 block(s) have been changed.
+[17:34:29] [Client thread/INFO]: Warning: Clientside chunk ticking took 122 ms
+[17:34:41] [Client thread/INFO]: [CHAT] §dFirst position set to (139.0, 1.0, -424.0) (1).
+[17:35:01] [Client thread/INFO]: [CHAT] §dSecond position set to (-17.0, 1.0, -424.0) (157).
+[17:35:03] [Client thread/INFO]: [CHAT] §d157 block(s) have been changed.
+[17:39:57] [Client thread/INFO]: [CHAT] §dFirst position set to (-17.0, 2.0, -423.0) (4).
+[17:40:22] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 2.0, -423.0) (158).
+[17:40:28] [Client thread/INFO]: [CHAT] §d157 block(s) have been changed.
+[17:40:37] [Client thread/INFO]: [CHAT] §dFirst position set to (140.0, 2.0, -424.0) (2).
+[17:40:41] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:40:41] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:40:59] [Client thread/INFO]: [CHAT] §dSecond position set to (140.0, 2.0, -1147.0) (724).
+[17:41:02] [Client thread/INFO]: [CHAT] §d724 block(s) have been changed.
+[17:41:05] [Server thread/INFO]: [SilverPigeon: Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds]
+[17:41:05] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 100 to SilverPigeon for 15 seconds
+[17:41:24] [Client thread/INFO]: [CHAT] §dSecond position set to (141.0, 1.0, -423.0) (8).
+[17:50:32] [Server thread/INFO]: Saving and pausing game...
+[17:50:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[17:50:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[17:50:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[17:50:33] [Server thread/INFO]: Stopping server
+[17:50:33] [Server thread/INFO]: Saving players
+[17:50:33] [Server thread/INFO]: Saving worlds
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[17:50:33] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[17:50:34] [Client thread/INFO]: Stopping!

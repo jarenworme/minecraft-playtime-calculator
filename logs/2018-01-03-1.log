@@ -1,0 +1,27 @@
+[00:07:29] [Client thread/INFO]: [CHAT] §dFirst position set to (-806.0, 63.0, -1625.0).
+[00:07:35] [Client thread/INFO]: [CHAT] §dFirst position set to (-800.0, 63.0, -1625.0).
+[00:07:40] [Client thread/INFO]: [CHAT] §dSecond position set to (-802.0, 63.0, -1661.0) (111).
+[00:07:48] [Client thread/INFO]: [CHAT] §d111 block(s) have been changed.
+[00:16:48] [Client thread/INFO]: [CHAT] §dFirst position set to (-810.0, 63.0, -1632.0) (270).
+[00:16:51] [Client thread/INFO]: [CHAT] §dSecond position set to (-818.0, 63.0, -1625.0) (72).
+[00:16:55] [Client thread/INFO]: [CHAT] §d72 block(s) have been changed.
+[00:36:38] [Client thread/INFO]: [CHAT] §dFirst position set to (-820.0, 68.0, -1633.0) (162).
+[00:36:42] [Client thread/INFO]: [CHAT] §dSecond position set to (-820.0, 63.0, -1624.0) (60).
+[00:36:47] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[00:36:53] [Client thread/INFO]: [CHAT] §d60 block(s) were copied.
+[00:36:57] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-822.0, 64.0, -1620.0)
+[00:49:09] [Server thread/INFO]: Saving and pausing game...
+[00:49:09] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[00:49:09] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[00:49:09] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[00:56:16] [Server thread/INFO]: Saving and pausing game...
+[00:56:16] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[00:56:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[00:56:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[00:56:17] [Server thread/INFO]: Stopping server
+[00:56:17] [Server thread/INFO]: Saving players
+[00:56:17] [Server thread/INFO]: Saving worlds
+[00:56:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[00:56:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[00:56:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[00:56:18] [Client thread/INFO]: Stopping!

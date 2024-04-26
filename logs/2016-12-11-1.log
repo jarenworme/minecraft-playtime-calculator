@@ -1,0 +1,36 @@
+[11:12:27] [main/INFO]: Setting user: bobbyjanks
+[11:12:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[11:12:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[11:12:32] [Sound Library Loader/INFO]: Sound engine started
+[11:12:32] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:12:32] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:12:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit
+[11:12:33] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[11:12:33] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[11:12:34] [Sound Library Loader/INFO]: Sound engine started
+[11:12:41] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[11:12:41] [Server thread/INFO]: Generating keypair
+[11:12:42] [Server thread/INFO]: Preparing start region for level 0
+[11:12:43] [Server thread/INFO]: Preparing spawn area: 56%
+[11:12:43] [Server thread/INFO]: Changing view distance to 15, from 10
+[11:12:43] [Server thread/INFO]: bobbyjanks[local:E:d10223b5] logged in with entity id 0 at (-524.8354627439358, 91.93831171457671, -1897.4802059744015)
+[11:12:43] [Server thread/INFO]: bobbyjanks joined the game
+[11:12:48] [Server thread/INFO]: Saving and pausing game...
+[11:12:48] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[11:12:48] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[11:12:48] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[11:12:52] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[11:12:56] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[11:12:59] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[11:13:01] [Sound Library Loader/INFO]: Sound engine started
+[11:14:58] [Server thread/INFO]: Saving and pausing game...
+[11:14:58] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[11:14:58] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[11:14:58] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[11:14:59] [Server thread/INFO]: Stopping server
+[11:14:59] [Server thread/INFO]: Saving players
+[11:14:59] [Server thread/INFO]: Saving worlds
+[11:14:59] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[11:14:59] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[11:14:59] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[11:15:01] [Client thread/INFO]: Stopping!

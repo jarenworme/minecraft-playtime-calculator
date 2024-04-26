@@ -1,0 +1,2475 @@
+[14:02:01] [main/INFO]: Setting user: bobbyjanks
+[14:02:01] [main/INFO]: (Session ID is token:0402c820ad9b4055a61187a8450963b2:e8537636227e40beaf7a9d3e3b7e9748)
+[14:02:01] [Client thread/INFO]: LWJGL Version: 2.9.1
+[14:02:01] [Client thread/INFO]: Reloading ResourceManager: Default, Soartex_Fanver.zip
+[14:02:02] [Sound Library Loader/INFO]: Sound engine started
+[14:02:05] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[14:02:05] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[14:02:08] [Client thread/INFO]: Connecting to us.mcgamer.net, 25565
+[14:02:10] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:02:11] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:02:11] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[14:02:11] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[14:02:18] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:02:19] [Client thread/INFO]: [CHAT] [124]bobbyjanks has joined.
+[14:02:19] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 57!
+[14:02:19] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[14:02:19] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[14:02:19] [Client thread/INFO]: [CHAT]                          
+[14:02:22] [Client thread/INFO]: [CHAT] [80]AleStex has joined.
+[14:02:23] [Client thread/INFO]: [CHAT] [53]Swifty_PvP has joined.
+[14:02:24] [Client thread/INFO]: [CHAT] [100]tristanwow18 has joined.
+[14:02:25] [Client thread/INFO]: [CHAT] [529]LucasVilla111 has joined.
+[14:02:25] [Client thread/INFO]: [CHAT] [96]ToteKongs has joined.
+[14:02:27] [Client thread/INFO]: [CHAT] [399]BrandontheMCKing has joined.
+[14:02:28] [Client thread/INFO]: [CHAT] [37]Sprads100 has joined.
+[14:02:28] [Client thread/INFO]: [CHAT] [0]RobiiHD has joined.
+[14:02:28] [Client thread/INFO]: [CHAT] [61]xXAngryKillerXx has joined.
+[14:02:30] [Client thread/INFO]: [CHAT] [61]KillerM0ng00se has joined.
+[14:02:30] [Client thread/INFO]: [CHAT] [657]iHersheyPvP has joined.
+[14:02:32] [Client thread/INFO]: [CHAT] [0]RobiiHD has left.
+[14:02:32] [Client thread/INFO]: [CHAT] [100]otterwolf15 has joined.
+[14:02:32] [Client thread/INFO]: [CHAT] [77]StoneKillerBop has joined.
+[14:02:32] [Client thread/INFO]: [CHAT] [54]siahguy has joined.
+[14:02:33] [Client thread/INFO]: [CHAT] [100]maridoco has joined.
+[14:02:33] [Client thread/INFO]: [CHAT] [101]nievuscas11 has joined.
+[14:02:35] [Client thread/INFO]: [CHAT] [683]matt0889 has joined.
+[14:02:35] [Client thread/INFO]: [CHAT] [19]Lily6261 has joined.
+[14:02:37] [Client thread/INFO]: [CHAT] [529]LucasVilla111: 1
+[14:02:40] [Client thread/INFO]: [CHAT] [657]iHersheyPvP: lol
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: The Survival Games 2
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 3 Votes | 100% Chance | The Survival Games 4
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | Enchanted Forest
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Excavation Zero
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[14:02:41] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Origins (Requiem v2.0)
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] [2] minutes until lobby ends!
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: The Survival Games 2
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 100% Chance | The Survival Games 4
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | Enchanted Forest
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Excavation Zero
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[14:02:45] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Origins (Requiem v2.0)
+[14:02:48] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [6] votes.
+[14:02:56] [Client thread/INFO]: [CHAT] [53]Swifty_PvP: bajian is on lobby!
+[14:03:01] [Client thread/INFO]: [CHAT] [657]iHersheyPvP: lies
+[14:03:03] [Client thread/INFO]: [CHAT] [19]Lily6261 has left.
+[14:03:03] [Client thread/INFO]: [CHAT] [113]Iwnacupquake has joined.
+[14:03:04] [Client thread/INFO]: [CHAT] [53]Swifty_PvP: Lol
+[14:03:13] [Client thread/INFO]: [CHAT] [54]siahguy: team
+[14:03:15] [Client thread/INFO]: [CHAT] [77]StoneKillerBop has left.
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [23/24]. Game requires [12] to play.
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: The Survival Games 2
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 7 Votes | 50% Chance | The Survival Games 4
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 5 Votes | 35.71% Chance | Enchanted Forest
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 1 Votes | 7.14% Chance | Excavation Zero
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[14:03:15] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 7.14% Chance | Origins (Requiem v2.0)
+[14:03:19] [Client thread/INFO]: [CHAT] [100]conqueror3000 has joined.
+[14:03:19] [Client thread/INFO]: [CHAT] [100]conqueror3000 has left.
+[14:03:19] [Client thread/INFO]: [CHAT] [224]MRCNE123 has joined.
+[14:03:20] [Client thread/INFO]: [CHAT] [54]siahguy: team
+[14:03:28] [Client thread/INFO]: [CHAT] [53]Swifty_PvP: Somone pls levae!
+[14:03:30] [Client thread/INFO]: [CHAT] [224]MRCNE123: anyone skype team
+[14:03:38] [Client thread/INFO]: [CHAT] [*] Check out our website at http://www.mcgamer.net!
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: The Survival Games 2
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 7 Votes | 50% Chance | The Survival Games 4
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 5 Votes | 35.71% Chance | Enchanted Forest
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 1 Votes | 7.14% Chance | Excavation Zero
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[14:03:45] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 7.14% Chance | Origins (Requiem v2.0)
+[14:03:51] [Client thread/INFO]: [CHAT] [114]logher575: team
+[14:03:52] [Client thread/INFO]: [CHAT] [80]AleStex: vote 5
+[14:03:54] [Client thread/INFO]: [CHAT] [53]Swifty_PvP has left.
+[14:03:56] [Client thread/INFO]: [CHAT] [54]siahguy: team
+[14:03:57] [Client thread/INFO]: [CHAT] [113]Iwnacupquake:  gagag
+[14:03:59] [Client thread/INFO]: [CHAT] [100]tristanwow18 has left.
+[14:04:03] [Client thread/INFO]: [CHAT] [113]Iwnacupquake:  gaga
+[14:04:07] [Client thread/INFO]: [CHAT] [114]logher575: iwnacup team
+[14:04:07] [Client thread/INFO]: [CHAT] [124]bobbyjanks: vote 2
+[14:04:08] [Client thread/INFO]: [CHAT] [96]ToteKongs: sa dasnbdhbsaj.d mjnbsamn ,f,.dasd
+[14:04:11] [Client thread/INFO]: [CHAT] [61]KillerM0ng00se: team
+[14:04:13] [Client thread/INFO]: [CHAT] [138]LDTRx has joined.
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [23/24]. Game requires [12] to play.
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: The Survival Games 2
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 7 Votes | 38.89% Chance | The Survival Games 4
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 5 Votes | 27.78% Chance | Enchanted Forest
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 1 Votes | 5.56% Chance | Excavation Zero
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[14:04:15] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 5 Votes | 27.78% Chance | Origins (Requiem v2.0)
+[14:04:16] [Client thread/INFO]: [CHAT] [96]ToteKongs: qui parla catala
+[14:04:16] [Client thread/INFO]: [CHAT] [100]painth0rse has joined.
+[14:04:17] [Client thread/INFO]: [CHAT] [100]painth0rse has left.
+[14:04:17] [Client thread/INFO]: [CHAT] [417]kosota has joined.
+[14:04:20] [Client thread/INFO]: [CHAT] [114]logher575: alianza
+[14:04:20] [Client thread/INFO]: [CHAT] [100]maridoco: yo
+[14:04:23] [Client thread/INFO]: [CHAT] [148]XxLegitManxX: first to say "I" gets a 500 subscriber youtube channel!!!
+[14:04:25] [Client thread/INFO]: [CHAT] [138]LDTRx has left.
+[14:04:25] [Client thread/INFO]: [CHAT] [1,304]takumin1098 has joined.
+[14:04:27] [Client thread/INFO]: [CHAT] [96]ToteKongs: maridoco parlas catala
+[14:04:28] [Client thread/INFO]: [CHAT] [80]AleStex: quien habla español?
+[14:04:29] [Client thread/INFO]: [CHAT] [113]Iwnacupquake: oK logher575 skype add me mackenziegoesmoo2
+[14:04:30] [Client thread/INFO]: [CHAT] [683]matt0889 has left.
+[14:04:30] [Client thread/INFO]: [CHAT] [1,706]largoodie has joined.
+[14:04:34] [Client thread/INFO]: [CHAT] [148]XxLegitManxX: first to say "I" gets a 500 subscriber youtube channel!!!!
+[14:04:35] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[14:04:35] [Client thread/INFO]: [CHAT] [100]maridoco: no xd
+[14:04:39] [Client thread/INFO]: [CHAT] [100]2gordonboys: team maridoco??///
+[14:04:40] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[14:04:41] [Client thread/INFO]: [CHAT] [96]ToteKongs: maridoco parlas catal a nobs
+[14:04:41] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[14:04:41] [Client thread/INFO]: [CHAT] [657]iHersheyPvP has left.
+[14:04:42] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[14:04:42] [Client thread/INFO]: [CHAT] [100]2gordonboys: ??
+[14:04:43] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[14:04:44] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[14:04:45] [Client thread/INFO]: [CHAT] [122]atora0407 has joined.
+[14:04:46] [Client thread/INFO]: [CHAT] [MCSG] Map name: The Survival Games 4
+[14:04:46] [Client thread/INFO]: [CHAT] [MCSG] Map author: Team Vareide
+[14:04:46] [Client thread/INFO]: [CHAT] [MCSG] Map link: https://twitter.com/vareide
+[14:04:46] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[14:04:46] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[14:04:53] [Client thread/INFO]: [CHAT] [0]9|2gordonboys: team nievuscas11?
+[14:04:58] [Client thread/INFO]: [CHAT] [0]1|largoodie: team cuz i phan
+[14:05:06] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[14:05:09] [Client thread/INFO]: [CHAT] [0]11|siahguy: team
+[14:05:11] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[14:05:12] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[14:05:12] [Client thread/INFO]: [CHAT] [0]7|FewNeck1990: im noob
+[14:05:13] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[14:05:13] [Client thread/INFO]: [CHAT] [0]9|2gordonboys: me
+[14:05:14] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[14:05:15] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[14:05:16] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[14:05:17] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[14:05:40] [Client thread/INFO]: [CHAT] [MCSG] Only [23] tributes remain!
+[14:05:40] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:05:40] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:06:25] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[14:06:25] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:06:25] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:06:29] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[14:06:29] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:06:29] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:06:33] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[14:06:33] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:06:33] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:06:33] [Client thread/INFO]: [CHAT] [58]KillerM0ng00se has left.
+[14:06:36] [Client thread/INFO]: [CHAT] [52]siahguy has left.
+[14:06:41] [Client thread/INFO]: [CHAT] [58]xXAngryKillerXx has left.
+[14:06:45] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[14:06:45] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:06:45] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:06:46] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[14:06:46] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:06:46] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:06:52] [Client thread/INFO]: [CHAT] [108]Iwnacupquake has left.
+[14:06:52] [Client thread/INFO]: [CHAT] [110]otterwolf15 has left.
+[14:06:52] [Client thread/INFO]: [CHAT] [100]Electro234 has joined.
+[14:06:52] [Client thread/INFO]: [CHAT] [100]Electro234 has left.
+[14:06:59] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[14:06:59] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:06:59] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:07:07] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[14:07:07] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[14:07:07] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:07:08] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:07:08] [Client thread/INFO]: [CHAT] [MCSG] You've lost [6] points for dying!
+[14:07:17] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:07:18] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:07:18] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[14:07:18] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[14:07:26] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:07:26] [Client thread/INFO]: [CHAT] [118]bobbyjanks has joined.
+[14:07:26] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 31!
+[14:07:26] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[14:07:26] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[14:07:26] [Client thread/INFO]: [CHAT]                          
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [7/24]. Game requires [12] to play.
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Dracarys
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 20% Chance | The Survival Games 3
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 20% Chance | Origins (Requiem v2.0)
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 20% Chance | Turbulence
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 20% Chance | Alaskan Village
+[14:07:31] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 20% Chance | Valleyside University
+[14:07:32] [Client thread/INFO]: [CHAT] [413]cronochaos has joined.
+[14:07:33] [Client thread/INFO]: [CHAT] [569]AdamLau has joined.
+[14:07:35] [Client thread/INFO]: [CHAT] [190]Toma0216 has joined.
+[14:07:35] [Client thread/INFO]: [CHAT] [22]ThankfulSquir49 has joined.
+[14:07:36] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [1] votes.
+[14:07:37] [Client thread/INFO]: [CHAT] [190]Toma0216 has left.
+[14:07:37] [Client thread/INFO]: [CHAT] [35]bloodfusion191 has joined.
+[14:07:37] [Client thread/INFO]: [CHAT] [79]childers8866 has joined.
+[14:07:37] [Client thread/INFO]: [CHAT] [138]rayxerset has joined.
+[14:07:37] [Client thread/INFO]: [CHAT] [117]ShadowDiggerMC has joined.
+[14:07:38] [Client thread/INFO]: [CHAT] [326]The_Slime1 has joined.
+[14:07:38] [Client thread/INFO]: [CHAT] [190]Toma0216 has joined.
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [16/24]. Game requires [12] to play.
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Dracarys
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | The Survival Games 3
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 50% Chance | Origins (Requiem v2.0)
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Turbulence
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 50% Chance | Alaskan Village
+[14:07:40] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Valleyside University
+[14:07:40] [Client thread/INFO]: [CHAT] [142]Kei1Koh2 has joined.
+[14:07:42] [Client thread/INFO]: [CHAT] [1,244]JayHawkMC has joined.
+[14:07:42] [Client thread/INFO]: [CHAT] [35]bloodfusion191 has left.
+[14:07:42] [Client thread/INFO]: [CHAT] [665]Exalious has joined.
+[14:07:42] [Client thread/INFO]: [CHAT] [80]EXPLOSIVES9 has joined.
+[14:07:43] [Client thread/INFO]: [CHAT] [24]King_of_Smaug has joined.
+[14:07:43] [Client thread/INFO]: [CHAT] [24]King_of_Smaug has left.
+[14:07:43] [Client thread/INFO]: [CHAT] [109]logher575 has joined.
+[14:07:44] [Client thread/INFO]: [CHAT] [313]KILLER_ASPECT99 has joined.
+[14:07:46] [Client thread/INFO]: [CHAT] [694]drcherrycoke has joined.
+[14:07:46] [Client thread/INFO]: [CHAT] [644]xFiction has joined.
+[14:07:47] [Client thread/INFO]: [CHAT] [248]crystalbeachpaul has joined.
+[14:07:48] [Client thread/INFO]: [CHAT] [234]SLbutters132: who else likes peanut butter puncakes
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] [2] minutes until lobby ends!
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Dracarys
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | The Survival Games 3
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 25% Chance | Origins (Requiem v2.0)
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 1 Votes | 25% Chance | Turbulence
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 2 Votes | 50% Chance | Alaskan Village
+[14:07:49] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Valleyside University
+[14:07:53] [Client thread/INFO]: [CHAT] [644]xFiction has left.
+[14:07:55] [Client thread/INFO]: [CHAT] [569]AdamLau has left.
+[14:07:57] [Client thread/INFO]: [CHAT] [22]TheDiamondLord16 has joined.
+[14:07:58] [Client thread/INFO]: [CHAT] [760]firebal2011 has joined.
+[14:07:58] [Client thread/INFO]: [CHAT] [22]ThankfulSquir49: tengo hambre
+[14:07:59] [Client thread/INFO]: [CHAT] [760]firebal2011 has left.
+[14:07:59] [Client thread/INFO]: [CHAT] [364]amandalynnx has joined.
+[14:08:01] [Client thread/INFO]: [CHAT] [118]bobbyjanks: vote 4
+[14:08:02] [Client thread/INFO]: [CHAT] [22]TheDiamondLord16 has left.
+[14:08:02] [Client thread/INFO]: [CHAT] [0]vnguy20 has joined.
+[14:08:05] [Client thread/INFO]: [CHAT] [105]Lake902Gamer: yo tanbien
+[14:08:06] [Client thread/INFO]: [CHAT] [0]vnguy20 has left.
+[14:08:06] [Client thread/INFO]: [CHAT] [266]pechugasHD: ThankfulSquir49 team?
+[14:08:07] [Client thread/INFO]: [CHAT] [0]julian615 has joined.
+[14:08:11] [Client thread/INFO]: [CHAT] [3,660]XxnightmareXx90 has left.
+[14:08:13] [Client thread/INFO]: [CHAT] [22]TheDiamondLord16 has joined.
+[14:08:14] [Client thread/INFO]: [CHAT] [22]ThankfulSquir49: Si
+[14:08:19] [Client thread/INFO]: [CHAT] [266]pechugasHD: vale :3
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Dracarys
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | The Survival Games 3
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 9.09% Chance | Origins (Requiem v2.0)
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 1 Votes | 9.09% Chance | Turbulence
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 4 Votes | 36.36% Chance | Alaskan Village
+[14:08:19] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 5 Votes | 45.45% Chance | Valleyside University
+[14:08:28] [Client thread/INFO]: [CHAT] [22]TheDiamondLord16 has left.
+[14:08:28] [Client thread/INFO]: [CHAT] [1,264]takumin1098 has joined.
+[14:08:37] [Client thread/INFO]: [CHAT] [190]Toma0216: ShadowDiggerMC
+[14:08:38] [Client thread/INFO]: [CHAT] [*] Join our TeamSpeak server - ts.mcgamer.net!
+[14:08:41] [Client thread/INFO]: [CHAT] [190]Toma0216: ShadowDiggerMC f you
+[14:08:48] [Client thread/INFO]: [CHAT] [117]ShadowDiggerMC: aw love u too
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Dracarys
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | The Survival Games 3
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 4.55% Chance | Origins (Requiem v2.0)
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 9.09% Chance | Turbulence
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 4 Votes | 18.18% Chance | Alaskan Village
+[14:08:49] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 15 Votes | 68.18% Chance | Valleyside University
+[14:08:51] [Client thread/INFO]: [CHAT] [266]pechugasHD: hey teneis skype?
+[14:08:51] [Client thread/INFO]: [CHAT] [117]ShadowDiggerMC: aw love u too
+[14:08:59] [Client thread/INFO]: [CHAT] [190]Toma0216: ShadowDiggerMC I gonna kill you when game starts sh!t
+[14:09:00] [Client thread/INFO]: [CHAT] [22]ThankfulSquir49: nop :(
+[14:09:02] [Client thread/INFO]: [CHAT] [326]The_Slime1: do /lobby stats to check your ingame stats
+[14:09:02] [Client thread/INFO]: [CHAT] [266]pechugasHD: :c
+[14:09:02] [Client thread/INFO]: [CHAT] [248]crystalbeachpaul has left.
+[14:09:02] [Client thread/INFO]: [CHAT] [416]joshcp3 has joined.
+[14:09:04] [Client thread/INFO]: [CHAT] [138]rayxerset has left.
+[14:09:07] [Client thread/INFO]: [CHAT] [22]TheDiamondLord16 has joined.
+[14:09:07] [Client thread/INFO]: [CHAT] [117]ShadowDiggerMC: try me
+[14:09:09] [Client thread/INFO]: [CHAT] [694]drcherrycoke: xRespect
+[14:09:10] [Client thread/INFO]: [CHAT] [665]Exalious: Toma0216 enjoy ban
+[14:09:11] [Client thread/INFO]: [CHAT] [326]The_Slime1: do /lobby stats to check your ingame stats
+[14:09:14] [Client thread/INFO]: [CHAT] [266]pechugasHD: bueno quedamos en spawm vale?
+[14:09:16] [Client thread/INFO]: [CHAT] [105]Lake902Gamer: HI
+[14:09:18] [Client thread/INFO]: [CHAT] [665]Exalious: its called targeting but
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Dracarys
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | The Survival Games 3
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 3.7% Chance | Origins (Requiem v2.0)
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 7.41% Chance | Turbulence
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 9 Votes | 33.33% Chance | Alaskan Village
+[14:09:19] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 15 Votes | 55.56% Chance | Valleyside University
+[14:09:23] [Client thread/INFO]: [CHAT] [364]amandalynnx: c:
+[14:09:27] [Client thread/INFO]: [CHAT] [105]Lake902Gamer: HI
+[14:09:32] [Client thread/INFO]: [CHAT] [364]amandalynnx: Hi.
+[14:09:36] [Client thread/INFO]: [CHAT] [234]SLbutters132: hyeeeeee
+[14:09:39] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[14:09:41] [Client thread/INFO]: [CHAT] [109]logher575: te voy a reportar
+[14:09:41] [Client thread/INFO]: [CHAT] [22]TheDiamondLord16 has left.
+[14:09:41] [Client thread/INFO]: [CHAT] [294]Niightz_ has joined.
+[14:09:43] [Client thread/INFO]: [CHAT] [694]drcherrycoke has left.
+[14:09:43] [Client thread/INFO]: [CHAT] [1,488]_BRICKSMASHER_ has joined.
+[14:09:44] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Dracarys
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | The Survival Games 3
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 3.7% Chance | Origins (Requiem v2.0)
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 7.41% Chance | Turbulence
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 9 Votes | 33.33% Chance | Alaskan Village
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 15 Votes | 55.56% Chance | Valleyside University
+[14:09:45] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[14:09:46] [Client thread/INFO]: [CHAT] [313]KILLER_ASPECT99 has left.
+[14:09:46] [Client thread/INFO]: [CHAT] [120]meowmeowjazzy has joined.
+[14:09:46] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[14:09:47] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[14:09:48] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[14:09:48] [Client thread/INFO]: [CHAT] [234]SLbutters132: tots
+[14:09:50] [Client thread/INFO]: [CHAT] [MCSG] Map name: Valleyside University
+[14:09:50] [Client thread/INFO]: [CHAT] [MCSG] Map author: Kosmish
+[14:09:50] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://bit.ly/11F5grX
+[14:09:50] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[14:09:50] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[14:09:58] [Client thread/INFO]: [CHAT] [0]5|SLbutters132: pots guys pots
+[14:09:59] [Client thread/INFO]: [CHAT] [0]7|ShadowDiggerMC: yaaay this map
+[14:10:05] [Client thread/INFO]: [CHAT] [0]2|Exalious: kosmish is life
+[14:10:06] [Client thread/INFO]: [CHAT] [0]1|pechugasHD: al edificio de la a vale?
+[14:10:07] [Client thread/INFO]: [CHAT] [0]2|Exalious: and lovelights
+[14:10:10] [Client thread/INFO]: [CHAT] [0]5|SLbutters132: i dont like you
+[14:10:10] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[14:10:11] [Client thread/INFO]: [CHAT] [0]6|ThankfulSquir49: vale
+[14:10:15] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[14:10:16] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[14:10:17] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[14:10:18] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[14:10:19] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[14:10:20] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[14:10:21] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[14:10:33] [Client thread/INFO]: [CHAT] [MCSG] Only [23] tributes remain!
+[14:10:33] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:10:33] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:10:36] [Client thread/INFO]: [CHAT] [1,414]_BRICKSMASHER_ has left.
+[14:10:36] [Client thread/INFO]: [CHAT] [107]tresion has joined.
+[14:10:37] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[14:10:37] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:10:37] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:10:47] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[14:10:47] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:10:47] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:10:51] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[14:10:51] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:10:51] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:10:52] [Client thread/INFO]: [CHAT] [181]Toma0216 has left.
+[14:10:55] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[14:10:55] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:10:55] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:10:58] [Client thread/INFO]: [CHAT] [715]ExeQileToMo has joined.
+[14:10:58] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[14:10:58] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[14:10:58] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:11:02] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[14:11:02] [Client thread/INFO]: [CHAT] [MCSG] There are [7] spectators watching the game.
+[14:11:02] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:11:04] [Client thread/INFO]: [CHAT] [319]The_Slime1 has left.
+[14:11:08] [Client thread/INFO]: [CHAT] [253]pechugasHD has left.
+[14:11:11] [Client thread/INFO]: [CHAT] [1,182]JayHawkMC has left.
+[14:11:12] [Client thread/INFO]: [CHAT] [21]ThankfulSquir49 has left.
+[14:11:37] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[14:11:37] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:11:37] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:11:40] [Client thread/INFO]: [CHAT] [80]EXPLOSIVES9 has left.
+[14:11:48] [Client thread/INFO]: [CHAT] [24]Raxer69 has joined.
+[14:11:53] [Client thread/INFO]: [CHAT] [MCSG] Only [15] tributes remain!
+[14:11:53] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:11:53] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:12:00] [Client thread/INFO]: [CHAT] [120]Raven7555 has left.
+[14:12:03] [Client thread/INFO]: [CHAT] [MCSG] Only [14] tributes remain!
+[14:12:03] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:12:03] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:12:10] [Client thread/INFO]: [CHAT] [24]Raxer69 has left.
+[14:12:10] [Client thread/INFO]: [CHAT] [19]Kyii_Miner has left.
+[14:12:12] [Client thread/INFO]: [CHAT] [MCSG] Only [13] tributes remain!
+[14:12:12] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:12:12] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:12:55] [Client thread/INFO]: [CHAT] [MCSG] Only [12] tributes remain!
+[14:12:55] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:12:55] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:13:00] [Client thread/INFO]: [CHAT] [0]julian615 has left.
+[14:13:03] [Client thread/INFO]: [CHAT] [MCSG] Only [11] tributes remain!
+[14:13:03] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:13:03] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:13:04] [Client thread/INFO]: [CHAT] [105]Lake902Gamer has left.
+[14:13:08] [Client thread/INFO]: [CHAT] [234]SLbutters132 has left.
+[14:13:10] [Client thread/INFO]: [CHAT] [107]tresion has left.
+[14:13:13] [Client thread/INFO]: [CHAT] [MCSG] Only [10] tributes remain!
+[14:13:13] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:13:13] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:13:15] [Client thread/INFO]: [CHAT] [MCSG] Only [9] tributes remain!
+[14:13:15] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:13:15] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:13:33] [Client thread/INFO]: [CHAT] [MCSG] Only [8] tributes remain!
+[14:13:33] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:13:33] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:13:35] [Client thread/INFO]: [CHAT] [MCSG] Only [7] tributes remain!
+[14:13:35] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[14:13:35] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:13:35] [Client thread/INFO]: [CHAT] [357]amandalynnx has left.
+[14:13:36] [Client thread/INFO]: [CHAT] [MCSG] Only [6] tributes remain!
+[14:13:36] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[14:13:36] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:13:38] [Client thread/INFO]: [CHAT] [*] Visit http://shop.mcgamer.net for information on premium upgrades.
+[14:13:38] [Client thread/INFO]: [CHAT] [649]Exalious has left.
+[14:13:39] [Client thread/INFO]: [CHAT] [393]cronochaos has left.
+[14:13:58] [Client thread/INFO]: [CHAT] [140]Kei1Koh2 has left.
+[14:15:13] [Client thread/INFO]: [CHAT] [MCSG] Only [5] tributes remain!
+[14:15:13] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:15:13] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:15:15] [Client thread/INFO]: [CHAT] [76]childers8866 has left.
+[14:15:21] [Client thread/INFO]: [CHAT] [MCSG] [25] minutes until deathmatch!
+[14:15:27] [Client thread/INFO]: [CHAT] [715]ExeQileToMo has left.
+[14:15:54] [Client thread/INFO]: [CHAT] [MCSG] Only [4] tributes remain!
+[14:15:54] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:15:54] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:15:59] [Client thread/INFO]: [CHAT] [100]erik75226 has joined.
+[14:16:37] [Client thread/INFO]: [CHAT] [100]erik75226 has left.
+[14:17:24] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[14:17:24] [Client thread/INFO]: [CHAT] [MCSG] Only [3] tributes remain!
+[14:17:24] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:17:24] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:17:24] [Client thread/INFO]: [CHAT] [MCSG] You've lost [5] points for dying!
+[14:17:25] [Client thread/INFO]: [CHAT] [MCSG] Teleporting to xRespect.
+[14:17:26] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until deathmatch!
+[14:17:39] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:17:39] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:17:39] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[14:17:39] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[14:17:40] [Client thread/INFO]: [CHAT] [5]XtremeBanana: where are you
+[14:17:40] [Client thread/INFO]: [CHAT] [1007]THE_TUNNEL_TROLL: FlixoYT i fan
+[14:17:42] [Client thread/INFO]: [CHAT] [MCGamer] That server is full!
+[14:17:43] [Client thread/INFO]: [CHAT] [902]FlixoYT: Thanks
+[14:17:51] [Client thread/INFO]: [CHAT] [151]BallisticPvper: hasent come through yet
+[14:17:55] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:17:56] [Client thread/INFO]: [CHAT] [113]bobbyjanks has joined.
+[14:17:56] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 14!
+[14:17:56] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[14:17:56] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[14:17:56] [Client thread/INFO]: [CHAT]                          
+[14:17:57] [Client thread/INFO]: [CHAT] [567]Sylvia_ has joined.
+[14:17:57] [Client thread/INFO]: [CHAT] [183]TheWinjaMC has joined.
+[14:17:57] [Client thread/INFO]: [CHAT] [70]ashley14723 has joined.
+[14:17:57] [Client thread/INFO]: [CHAT] [183]TheWinjaMC has left.
+[14:17:58] [Client thread/INFO]: [CHAT] [842]xDiegoMc has joined.
+[14:17:58] [Client thread/INFO]: [CHAT] [1,748]ByNachitoMC has joined.
+[14:17:58] [Client thread/INFO]: [CHAT] [66]Mcsuspended has joined.
+[14:17:59] [Client thread/INFO]: [CHAT] [370]TheLuvbugg has left.
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [17/24]. Game requires [12] to play.
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Turbulence
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 2 Votes | 20% Chance | Fortress Pyke
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | Hub Games
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Teweran Survival Games
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 7 Votes | 70% Chance | Winds of Change
+[14:17:59] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 10% Chance | Teweran Survival Games 3: Futuristic City
+[14:18:00] [Client thread/INFO]: [CHAT] [122]kaleighdilo has joined.
+[14:18:01] [Client thread/INFO]: [CHAT] [55]camo03 has joined.
+[14:18:02] [Client thread/INFO]: [CHAT] [1,390]mizinko123 has joined.
+[14:18:09] [Client thread/INFO]: [CHAT] [30]fialisa05 has joined.
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [21/24]. Game requires [12] to play.
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Turbulence
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 2 Votes | 18.18% Chance | Fortress Pyke
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 9.09% Chance | Hub Games
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Teweran Survival Games
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 7 Votes | 63.64% Chance | Winds of Change
+[14:18:10] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 9.09% Chance | Teweran Survival Games 3: Futuristic City
+[14:18:11] [Client thread/INFO]: [CHAT] [1,390]mizinko123 has left.
+[14:18:11] [Client thread/INFO]: [CHAT] [137]GwnSteveNL has joined.
+[14:18:11] [Client thread/INFO]: [CHAT] [66]Mcsuspended: team im gonna record
+[14:18:13] [Client thread/INFO]: [CHAT] [332]bluecoat44 has joined.
+[14:18:13] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [8] votes.
+[14:18:17] [Client thread/INFO]: [CHAT] [104]hlmgamer has joined.
+[14:18:18] [Client thread/INFO]: [CHAT] [112]PolkaGuest has joined.
+[14:18:20] [Client thread/INFO]: [CHAT] [104]hlmgamer: Skype team anyone say 123
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Turbulence
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 3 Votes | 20% Chance | Fortress Pyke
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 2 Votes | 13.33% Chance | Hub Games
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Teweran Survival Games
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 8 Votes | 53.33% Chance | Winds of Change
+[14:18:21] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 2 Votes | 13.33% Chance | Teweran Survival Games 3: Futuristic City
+[14:18:22] [Client thread/INFO]: [CHAT] [137]GwnSteveNL: nl skype?
+[14:18:26] [Client thread/INFO]: [CHAT] [122]kaleighdilo: say 123
+[14:18:26] [Client thread/INFO]: [CHAT] [461]ElementalDonut: 123
+[14:18:28] [Client thread/INFO]: [CHAT] [30]fialisa05: team in coke roome
+[14:18:30] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[14:18:31] [Client thread/INFO]: [CHAT] [1748]ByNachitoMC: thevichohd
+[14:18:34] [Client thread/INFO]: [CHAT] [754]TheVichoHD: que
+[14:18:35] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[14:18:36] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[14:18:37] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[14:18:37] [Client thread/INFO]: [CHAT] [104]hlmgamer: ElementalDonut wuts ur skype
+[14:18:38] [Client thread/INFO]: [CHAT] [*] Want to start your own Minecraft server? Check out this link to get 15% off at CubedHost! https://cubedhost.org/mcsg
+[14:18:38] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[14:18:38] [Client thread/INFO]: [CHAT] [1748]ByNachitoMC: hola xD
+[14:18:39] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[14:18:39] [Client thread/INFO]: [CHAT] [30]fialisa05: team in coke roome
+[14:18:40] [Client thread/INFO]: [CHAT] [MCSG] ACHIEVEMENT GET! District 12 - Represent District 12 in a round. (5 points)
+[14:18:40] [Client thread/INFO]: [CHAT] [MCSG] Map name: Winds of Change
+[14:18:40] [Client thread/INFO]: [CHAT] [MCSG] Map author: ninetailefox92
+[14:18:40] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://www.planetminecraft.com/project/winds-of-change/
+[14:18:40] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[14:18:41] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[14:18:42] [Client thread/INFO]: [CHAT] [0]4|xDiegoMc: hi
+[14:18:44] [Client thread/INFO]: [CHAT] [0]1|fialisa05: team
+[14:18:47] [Client thread/INFO]: [CHAT] [0]12|ElementalDonut: youarea.#@%&
+[14:18:51] [Client thread/INFO]: [CHAT] [0]1|fialisa05: team
+[14:18:52] [Client thread/INFO]: [CHAT] [0]2|hlmgamer: :o
+[14:18:53] [Client thread/INFO]: [CHAT] [0]4|ByNachitoMC: holis
+[14:18:54] [Client thread/INFO]: [CHAT] [0]4|ByNachitoMC: <3
+[14:18:54] [Client thread/INFO]: [CHAT] [0]1|fialisa05: team
+[14:18:59] [Client thread/INFO]: [CHAT] [0]2|hlmgamer: Ok...
+[14:19:01] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[14:19:01] [Client thread/INFO]: [CHAT] [0]7|Minecragy: Team!
+[14:19:02] [Client thread/INFO]: [CHAT] [0]9|Mcsuspended: .
+[14:19:03] [Client thread/INFO]: [CHAT] [0]4|ByNachitoMC: TheVichoHD pasa skype
+[14:19:05] [Client thread/INFO]: [CHAT] [0]3|GwnSteveNL: Exothermite team?
+[14:19:06] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[14:19:06] [Client thread/INFO]: [CHAT] [0]1|fialisa05: team any 1
+[14:19:07] [Client thread/INFO]: [CHAT] [122]kaleighdilo has left.
+[14:19:07] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[14:19:08] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[14:19:09] [Client thread/INFO]: [CHAT] [0]7|Minecragy: me
+[14:19:09] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[14:19:10] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[14:19:10] [Client thread/INFO]: [CHAT] [0]7|TheVichoHD: no agrego
+[14:19:11] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[14:19:12] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[14:19:19] [Client thread/INFO]: [CHAT] [39]velociraptorrrrr has joined.
+[14:19:33] [Client thread/INFO]: [CHAT] [39]velociraptorrrrr has left.
+[14:19:43] [Client thread/INFO]: [CHAT] [45]Audaii_xD has joined.
+[14:19:47] [Client thread/INFO]: [CHAT] [45]Audaii_xD has left.
+[14:20:03] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[14:20:03] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:20:03] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:20:06] [Client thread/INFO]: [CHAT] [67]ashley14723 has left.
+[14:20:09] [Client thread/INFO]: [CHAT] [148]Iron_Bison_50 has joined.
+[14:20:18] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[14:20:18] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:20:18] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:20:19] [Client thread/INFO]: [CHAT] [148]Iron_Bison_50 has left.
+[14:20:21] [Client thread/INFO]: [CHAT] [1,661]ByNachitoMC has left.
+[14:20:31] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[14:20:31] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[14:20:31] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:20:31] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:20:31] [Client thread/INFO]: [CHAT] [MCSG] Teleporting to fialisa05.
+[14:20:31] [Client thread/INFO]: [CHAT] [MCSG] You've lost [5] points for dying!
+[14:20:35] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[14:20:35] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:20:35] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:20:50] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[14:20:50] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:20:50] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:20:54] [Client thread/INFO]: Connecting to us.mcgamer.net, 25565
+[14:20:55] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:20:56] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:20:56] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[14:20:56] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[14:21:17] [Client thread/INFO]: [CHAT] [MCGamer] You cannot enter this area.
+[14:21:18] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:21:19] [Client thread/INFO]: [CHAT] [113]bobbyjanks has joined.
+[14:21:19] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 50!
+[14:21:19] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[14:21:19] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[14:21:19] [Client thread/INFO]: [CHAT]                          
+[14:21:20] [Client thread/INFO]: [CHAT] [269]MarcoSebastian1 has left.
+[14:21:20] [Client thread/INFO]: [CHAT] [181]fishkabob77 has joined.
+[14:21:20] [Client thread/INFO]: [CHAT] [107]knuckles_44 has joined.
+[14:21:22] [Client thread/INFO]: [CHAT] [330]Syreptic has left.
+[14:21:23] [Client thread/INFO]: [CHAT] [110]charley1102 has joined.
+[14:21:23] [Client thread/INFO]: [CHAT] [56]AdamKhattak has left.
+[14:21:23] [Client thread/INFO]: [CHAT] [103]Eingrid has joined.
+[14:21:24] [Client thread/INFO]: [CHAT] [420]Floater_4 has joined.
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [23/24]. Game requires [12] to play.
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Avaricia
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 2 Votes | 22.22% Chance | Survival Games Highway
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 4 Votes | 44.44% Chance | Icarus
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 1 Votes | 11.11% Chance | Winds of Change
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Alaskan Village
+[14:21:25] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 2 Votes | 22.22% Chance | Holiday Resort
+[14:21:25] [Client thread/INFO]: [CHAT] [114]djpitcher has joined.
+[14:21:26] [Client thread/INFO]: [CHAT] [38]malberto2904: Dabdo50 is my team!
+[14:21:31] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [5] votes.
+[14:21:31] [Client thread/INFO]: [CHAT] [114]djpitcher has left.
+[14:21:33] [Client thread/INFO]: [CHAT] [33]Legit_Killz132 has joined.
+[14:21:43] [Client thread/INFO]: [CHAT] [100]Byggmester7: wil someone team pls!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Avaricia
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 23.53% Chance | Survival Games Highway
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 6 Votes | 35.29% Chance | Icarus
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 11.76% Chance | Winds of Change
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 5.88% Chance | Alaskan Village
+[14:21:48] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 4 Votes | 23.53% Chance | Holiday Resort
+[14:21:58] [Client thread/INFO]: [CHAT] [64]pawndestroyer has left.
+[14:21:58] [Client thread/INFO]: [CHAT] [428]Xx_DiEtCoKe_Xx has joined.
+[14:21:59] [Client thread/INFO]: [CHAT] [38]malberto2904: xD
+[14:22:03] [Client thread/INFO]: [CHAT] [144]diamondman11: me
+[14:22:09] [Client thread/INFO]: [CHAT] [38]malberto2904: Diagold386!!
+[14:22:11] [Client thread/INFO]: [CHAT] [38]malberto2904: hola
+[14:22:15] [Client thread/INFO]: [CHAT] [101]Dabdo50: hola Diagold386
+[14:22:16] [Client thread/INFO]: [CHAT] [100]Byggmester7: yes!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Avaricia
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 23.53% Chance | Survival Games Highway
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 6 Votes | 35.29% Chance | Icarus
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 11.76% Chance | Winds of Change
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 5.88% Chance | Alaskan Village
+[14:22:18] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 4 Votes | 23.53% Chance | Holiday Resort
+[14:22:22] [Client thread/INFO]: [CHAT] [428]mrsfunacceptable has left.
+[14:22:36] [Client thread/INFO]: [CHAT] [551]flamesword1203: hey baby
+[14:22:40] [Client thread/INFO]: [CHAT] [46]pugwithamustache has joined.
+[14:22:48] [Client thread/INFO]: [CHAT] [107]knuckles_44: hi bae
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Avaricia
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 22.22% Chance | Survival Games Highway
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 7 Votes | 38.89% Chance | Icarus
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 11.11% Chance | Winds of Change
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 5.56% Chance | Alaskan Village
+[14:22:48] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 4 Votes | 22.22% Chance | Holiday Resort
+[14:22:53] [Client thread/INFO]: [CHAT] [38]malberto2904: hola
+[14:22:54] [Client thread/INFO]: [CHAT] [170]Diagold386: malberto2904!
+[14:22:56] [Client thread/INFO]: [CHAT] [551]flamesword1203: anyone who wants some say hi
+[14:23:00] [Client thread/INFO]: [CHAT] [170]Diagold386: voy a grabar
+[14:23:02] [Client thread/INFO]: [CHAT] [38]malberto2904: team?
+[14:23:04] [Client thread/INFO]: [CHAT] [82]bunnylover555777: So you cheating on me huh
+[14:23:04] [Client thread/INFO]: [CHAT] [170]Diagold386: ok
+[14:23:07] [Client thread/INFO]: [CHAT] [170]Diagold386: pero skype no
+[14:23:08] [Client thread/INFO]: [CHAT] [551]flamesword1203: yes
+[14:23:08] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[14:23:09] [Client thread/INFO]: [CHAT] [38]malberto2904: esta bien
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Avaricia
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 22.22% Chance | Survival Games Highway
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 7 Votes | 38.89% Chance | Icarus
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 11.11% Chance | Winds of Change
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 5.56% Chance | Alaskan Village
+[14:23:09] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 4 Votes | 22.22% Chance | Holiday Resort
+[14:23:13] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[14:23:14] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[14:23:15] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[14:23:16] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[14:23:17] [Client thread/INFO]: [CHAT] [46]pugwithamustache: team
+[14:23:17] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[14:23:19] [Client thread/INFO]: [CHAT] [MCSG] Map name: Survival Games Highway
+[14:23:19] [Client thread/INFO]: [CHAT] [MCSG] Map author: static_nightmare
+[14:23:19] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://www.minecraftsurvivalgames.com/threads/survival-games-highway.46387/
+[14:23:19] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[14:23:20] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[14:23:25] [Client thread/INFO]: [CHAT] [0]10|Dabdo50: Diagold386, soy team
+[14:23:34] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:23:34] [Client thread/INFO]: [CHAT] [0]8|bunnylover555777: Flame you stole my man
+[14:23:39] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[14:23:41] [Client thread/INFO]: [CHAT] [0]9|Diagold386: malberto2904 y Dabdo50 me siguen
+[14:23:43] [Client thread/INFO]: [CHAT] [0]9|Diagold386: ?
+[14:23:43] [Client thread/INFO]: [CHAT] [0]5|knuckles_44: lol cx
+[14:23:44] [Client thread/INFO]: [CHAT] [0]8|pugwithamustache: lol
+[14:23:44] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[14:23:45] [Client thread/INFO]: [CHAT] [0]6|malberto2904: ok
+[14:23:45] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[14:23:46] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[14:23:47] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[14:23:48] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[14:23:49] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[14:23:50] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[14:24:21] [Client thread/INFO]: [CHAT] [MCSG] Only [23] tributes remain!
+[14:24:21] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:24:21] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:24:23] [Client thread/INFO]: [CHAT] [916]kev542 has left.
+[14:24:33] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[14:24:33] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:24:33] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:24:34] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[14:24:34] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:24:34] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:24:37] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[14:24:37] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:24:37] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:24:38] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[14:24:38] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:24:38] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:24:42] [Client thread/INFO]: [CHAT] [105]charley1102 has left.
+[14:24:48] [Client thread/INFO]: [CHAT] [98]Eingrid has left.
+[14:25:02] [Client thread/INFO]: [CHAT] [98]Eingrid has joined.
+[14:25:07] [Client thread/INFO]: [CHAT] [98]Eingrid has left.
+[14:25:43] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[14:25:43] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:25:43] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:25:45] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[14:25:45] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:25:45] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:25:46] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[14:25:46] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[14:25:46] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:25:46] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:25:46] [Client thread/INFO]: [CHAT] [574]flamesword1203 has left.
+[14:25:46] [Client thread/INFO]: [CHAT] [MCSG] You've lost [5] points for dying!
+[14:25:52] [Client thread/INFO]: [CHAT] [MCSG] Only [15] tributes remain!
+[14:25:52] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:25:52] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:25:52] [Client thread/INFO]: [CHAT] [0]9|Diagold386: hey
+[14:25:52] [Client thread/INFO]: [CHAT] [399]Floater_4 has left.
+[14:25:55] [Client thread/INFO]: [CHAT] [0]9|Diagold386: donde estan?
+[14:25:56] [Client thread/INFO]: [CHAT] [MCSG] Only [14] tributes remain!
+[14:25:56] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:25:56] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:25:59] [Client thread/INFO]: [CHAT] [102]SPEC|knuckles_44: bunnylover555777
+[14:25:59] [Client thread/INFO]: [CHAT] [0]10|Dabdo50: bajando
+[14:25:59] [Client thread/INFO]: [CHAT] [32]Legit_Killz132 has left.
+[14:26:03] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:26:04] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:26:04] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[14:26:04] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[14:26:13] [Client thread/INFO]: [CHAT] [76]Thatchicken01: hhhh
+[14:26:18] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:26:18] [Client thread/INFO]: [CHAT] [108]bobbyjanks has joined.
+[14:26:18] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 37!
+[14:26:18] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[14:26:18] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[14:26:18] [Client thread/INFO]: [CHAT]                          
+[14:26:20] [Client thread/INFO]: [CHAT] [228]Exothermite has joined.
+[14:26:20] [Client thread/INFO]: [CHAT] [389]emmanuelpro777 has joined.
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [5/24]. Game requires [12] to play.
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Teweran Survival Games
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 20% Chance | Holiday Resort
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 20% Chance | Turbulence
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 20% Chance | Lobby Games
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 20% Chance | MoonBase9
+[14:26:23] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 20% Chance | The Survival Games
+[14:26:25] [Client thread/INFO]: [CHAT] [318]Scinion has joined.
+[14:26:26] [Client thread/INFO]: [CHAT] [156]Camo2604 has joined.
+[14:26:27] [Client thread/INFO]: [CHAT] [84]Directioner_5 has joined.
+[14:26:28] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [2] votes.
+[14:26:28] [Client thread/INFO]: [CHAT] [142]Mamasome has joined.
+[14:26:29] [Client thread/INFO]: [CHAT] [1,090]Eriebear10 has joined.
+[14:26:29] [Client thread/INFO]: [CHAT] [73]GratefulGold has joined.
+[14:26:29] [Client thread/INFO]: [CHAT] [499]andbaglin has joined.
+[14:26:31] [Client thread/INFO]: [CHAT] [880]link92688 has joined.
+[14:26:31] [Client thread/INFO]: [CHAT] [49]billybilly154 has joined.
+[14:26:31] [Client thread/INFO]: [CHAT] [240]Rory_Maester has joined.
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [15/24]. Game requires [12] to play.
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Teweran Survival Games
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 3 Votes | 60% Chance | Holiday Resort
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 2 Votes | 40% Chance | Turbulence
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Lobby Games
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | MoonBase9
+[14:26:33] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Survival Games
+[14:26:33] [Client thread/INFO]: [CHAT] [87]bigsharkteeth has joined.
+[14:26:34] [Client thread/INFO]: [CHAT] [87]bigsharkteeth has left.
+[14:26:37] [Client thread/INFO]: [CHAT] [61]camusom has joined.
+[14:26:37] [Client thread/INFO]: [CHAT] [61]camusom has left.
+[14:26:37] [Client thread/INFO]: [CHAT] [615]mojhito5 has joined.
+[14:26:38] [Client thread/INFO]: [CHAT] [60]Ronshaud has joined.
+[14:26:39] [Client thread/INFO]: [CHAT] [304]Rychart6_MC has joined.
+[14:26:39] [Client thread/INFO]: [CHAT] [85]iBeaturscore has joined.
+[14:26:39] [Client thread/INFO]: [CHAT] [85]leolpico has joined.
+[14:26:40] [Client thread/INFO]: [CHAT] [96]prettyinpink16 has joined.
+[14:26:40] [Client thread/INFO]: [CHAT] [134]Camikat has joined.
+[14:26:41] [Client thread/INFO]: [CHAT] [556]silverjake2001 has joined.
+[14:26:41] [Client thread/INFO]: [CHAT] [90]Jooa__ has joined.
+[14:26:42] [Client thread/INFO]: [CHAT] [304]Rychart6_MC has left.
+[14:26:45] [Client thread/INFO]: [CHAT] [100]JayJayJay175 has joined.
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] [2] minutes until lobby ends!
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Teweran Survival Games
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 40% Chance | Holiday Resort
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 2 Votes | 20% Chance | Turbulence
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Lobby Games
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 4 Votes | 40% Chance | MoonBase9
+[14:26:46] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Survival Games
+[14:26:46] [Client thread/INFO]: [CHAT] [615]mojhito5 has left.
+[14:26:51] [Client thread/INFO]: [CHAT] [98]Tiffykdful has joined.
+[14:26:52] [Client thread/INFO]: [CHAT] [1090]Eriebear10: hi
+[14:26:55] [Client thread/INFO]: [CHAT] [389]emmanuelpro777 has left.
+[14:26:55] [Client thread/INFO]: [CHAT] [896]cookiedodo has joined.
+[14:27:03] [Client thread/INFO]: [CHAT] [85]iBeaturscore has left.
+[14:27:05] [Client thread/INFO]: [CHAT] [880]link92688 has left.
+[14:27:05] [Client thread/INFO]: [CHAT] [896]cookiedodo has left.
+[14:27:06] [Client thread/INFO]: [CHAT] [85]leolpico has left.
+[14:27:11] [Client thread/INFO]: [CHAT] [137]diamondman11 has joined.
+[14:27:11] [Client thread/INFO]: [CHAT] [98]Tiffykdful has left.
+[14:27:15] [Client thread/INFO]: [CHAT] [191]BaccaBatman has joined.
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [21/24]. Game requires [12] to play.
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Teweran Survival Games
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 25% Chance | Holiday Resort
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 7 Votes | 43.75% Chance | Turbulence
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Lobby Games
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 5 Votes | 31.25% Chance | MoonBase9
+[14:27:16] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Survival Games
+[14:27:28] [Client thread/INFO]: [CHAT] [358]Herp_Te_Derp has joined.
+[14:27:30] [Client thread/INFO]: [CHAT] [25]Assasin01789 has joined.
+[14:27:31] [Client thread/INFO]: [CHAT] [191]BaccaBatman: http://www.youtube.com/baccabatman
+[14:27:34] [Client thread/INFO]: [CHAT] [134]AD76MN has joined.
+[14:27:37] [Client thread/INFO]: [CHAT] [25]Assasin01789 has left.
+[14:27:38] [Client thread/INFO]: [CHAT] [56]gotmatt9 has joined.
+[14:27:40] [Client thread/INFO]: [CHAT] [1090]Eriebear10: u idiot really justin0223
+[14:27:43] [Client thread/INFO]: [CHAT] [191]BaccaBatman: Come sub and watch my first vid going up today.
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Teweran Survival Games
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 6 Votes | 30% Chance | Holiday Resort
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 8 Votes | 40% Chance | Turbulence
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Lobby Games
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 6 Votes | 30% Chance | MoonBase9
+[14:27:46] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Survival Games
+[14:27:50] [Client thread/INFO]: [CHAT] [358]Herp_Te_Derp: no you stink
+[14:27:50] [Client thread/INFO]: [CHAT] [134]AD76MN: no teams please they just to op
+[14:27:57] [Client thread/INFO]: [CHAT] [191]BaccaBatman: I do Herp?
+[14:27:58] [Client thread/INFO]: [CHAT] [351]justin0223: congrats Eriebear10 :P
+[14:28:02] [Client thread/INFO]: [CHAT] [358]Herp_Te_Derp: yes
+[14:28:03] [Client thread/INFO]: [CHAT] [56]gotmatt9 has left.
+[14:28:03] [Client thread/INFO]: [CHAT] [223]jmibt12 has joined.
+[14:28:11] [Client thread/INFO]: [CHAT] [134]AD76MN has left.
+[14:28:11] [Client thread/INFO]: [CHAT] [776]ToeHair45 has joined.
+[14:28:12] [Client thread/INFO]: [CHAT] [358]Herp_Te_Derp: you cant earn your own views
+[14:28:12] [Client thread/INFO]: [CHAT] [351]justin0223: AD76MN thats not gonna stop anyone from doing it :P
+[14:28:15] [Client thread/INFO]: [CHAT] [191]BaccaBatman: Alright you can tell your self that LD
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Teweran Survival Games
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 6 Votes | 25% Chance | Holiday Resort
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 12 Votes | 50% Chance | Turbulence
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Lobby Games
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 6 Votes | 25% Chance | MoonBase9
+[14:28:16] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Survival Games
+[14:28:17] [Client thread/INFO]: [CHAT] [100]JayJayJay175: http://www.youtube.com/user/flammablesports ;P
+[14:28:20] [Client thread/INFO]: [CHAT] [358]Herp_Te_Derp: you have to advertise
+[14:28:25] [Client thread/INFO]: [CHAT] [100]JayJayJay175: ;P
+[14:28:30] [Client thread/INFO]: [CHAT] [100]JayJayJay175: I only did it cause he did xD
+[14:28:33] [Client thread/INFO]: [CHAT] [191]BaccaBatman: So did all the famous youtubers at one point
+[14:28:34] [Client thread/INFO]: [CHAT] [*] Too many players in the hub? Right-click your clock!
+[14:28:36] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[14:28:40] [Client thread/INFO]: [CHAT] [358]Herp_Te_Derp: proof?
+[14:28:41] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[14:28:42] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[14:28:43] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[14:28:44] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[14:28:45] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[14:28:46] [Client thread/INFO]: [CHAT] [MCSG] Map name: Holiday Resort
+[14:28:46] [Client thread/INFO]: [CHAT] [MCSG] Map author: Simey
+[14:28:46] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://bit.ly/15zTnZS
+[14:28:46] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[14:28:47] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[14:28:59] [Client thread/INFO]: [CHAT] [0]3|prettyinpink16: yayyaya
+[14:29:00] [Client thread/INFO]: [CHAT] [0]5|Herp_Te_Derp: where is your proof
+[14:29:02] [Client thread/INFO]: [CHAT] [0]12|BaccaBatman: Look at SSundee's first video on youtube online
+[14:29:05] [Client thread/INFO]: [CHAT] [0]4|Rory_Maester: gl and hf to everyone in this game <3
+[14:29:05] [Client thread/INFO]: [CHAT] [0]3|prettyinpink16: gla!<3
+[14:29:07] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[14:29:08] [Client thread/INFO]: [CHAT] [0]5|Herp_Te_Derp: and
+[14:29:12] [Client thread/INFO]: [CHAT] [0]8|Scinion: 60 fps
+[14:29:12] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[14:29:13] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[14:29:14] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[14:29:15] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[14:29:16] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[14:29:17] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[14:29:18] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[14:29:37] [Client thread/INFO]: [CHAT] [MCSG] Only [23] tributes remain!
+[14:29:37] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:29:37] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:29:40] [Client thread/INFO]: [CHAT] [47]billybilly154 has left.
+[14:29:43] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[14:29:43] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:29:43] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:29:47] [Client thread/INFO]: [CHAT] [187]BaccaBatman has left.
+[14:29:48] [Client thread/INFO]: [CHAT] [0]8|Scinion: no sry
+[14:29:58] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[14:29:58] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:29:58] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:30:07] [Client thread/INFO]: [CHAT] [0]8|Scinion: lag
+[14:30:08] [Client thread/INFO]: [CHAT] [176]aaronchunk has joined.
+[14:30:09] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[14:30:09] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:30:09] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:30:59] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[14:30:59] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:30:59] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:31:00] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[14:31:00] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[14:31:00] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:31:02] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[14:31:02] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[14:31:02] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[14:31:02] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:31:02] [Client thread/INFO]: [CHAT] [MCSG] You've lost [5] points for dying!
+[14:31:03] [Client thread/INFO]: [CHAT] [1,036]Eriebear10 has left.
+[14:31:11] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:31:11] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:31:11] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[14:31:11] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[14:31:15] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:31:16] [Client thread/INFO]: [CHAT] [103]bobbyjanks has joined.
+[14:31:16] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 14!
+[14:31:16] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[14:31:16] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[14:31:16] [Client thread/INFO]: [CHAT]                          
+[14:31:16] [Client thread/INFO]: [CHAT] [92]Keithmozvik: v 2
+[14:31:31] [Client thread/INFO]: [CHAT] [285]dominic42234 has joined.
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] [2] minutes until lobby ends!
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [5/24]. Game requires [12] to play.
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Winds of Change
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | Teweran Survival Games
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 50% Chance | Breeze Island
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 50% Chance | Survival Games Highway
+[14:31:35] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Teweran Survival Games 2
+[14:31:38] [Client thread/INFO]: [CHAT] [285]dominic42234 has left.
+[14:31:38] [Client thread/INFO]: [CHAT] [88]SwiftSlayer35 has joined.
+[14:31:45] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [1] votes.
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [5/24]. Game requires [12] to play.
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Winds of Change
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 33.33% Chance | Teweran Survival Games
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 33.33% Chance | Breeze Island
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 33.33% Chance | Survival Games Highway
+[14:32:05] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Teweran Survival Games 2
+[14:32:06] [Client thread/INFO]: [CHAT] [92]Keithmozvik has left.
+[14:32:07] [Client thread/INFO]: [CHAT] [197]xBarrow has joined.
+[14:32:09] [Client thread/INFO]: [CHAT] [429]CLOOPSY has joined.
+[14:32:12] [Client thread/INFO]: [CHAT] [239]BACAMAFIA640 has joined.
+[14:32:13] [Client thread/INFO]: [CHAT] [207]HighClassWarrior has joined.
+[14:32:13] [Client thread/INFO]: [CHAT] [593]ElementalDonut: lol.fgt
+[14:32:15] [Client thread/INFO]: [CHAT] [141]PepsiScopesPvP has joined.
+[14:32:21] [Client thread/INFO]: [CHAT] [418]blakeg0731 has joined.
+[14:32:26] [Client thread/INFO]: [CHAT] [130]SgRcraft has joined.
+[14:32:31] [Client thread/INFO]: [CHAT] [39]Killbox78534 has joined.
+[14:32:32] [Client thread/INFO]: [CHAT] [80]mattmellark has joined.
+[14:32:33] [Client thread/INFO]: [CHAT] [193]XxmnXx7 has joined.
+[14:32:35] [Client thread/INFO]: [CHAT] [314]averageunicorns has joined.
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [15/24]. Game requires [12] to play.
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Winds of Change
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 25% Chance | Teweran Survival Games
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 25% Chance | Breeze Island
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 2 Votes | 50% Chance | Survival Games Highway
+[14:32:35] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Teweran Survival Games 2
+[14:32:35] [Client thread/INFO]: [CHAT] [505]TheUltimateRabi has joined.
+[14:32:40] [Client thread/INFO]: [CHAT] [151]vConnorMC has joined.
+[14:32:41] [Client thread/INFO]: [CHAT] [39]Killbox78534: team any one
+[14:32:42] [Client thread/INFO]: [CHAT] [314]averageunicorns has left.
+[14:32:43] [Client thread/INFO]: [CHAT] [95]Jigyasa13 has joined.
+[14:32:45] [Client thread/INFO]: [CHAT] [55]buff_santa has joined.
+[14:32:45] [Client thread/INFO]: [CHAT] [88]terminator1973 has joined.
+[14:32:47] [Client thread/INFO]: [CHAT] [475]Nets9809 has joined.
+[14:32:48] [Client thread/INFO]: [CHAT] [410]DANNE678 has joined.
+[14:32:49] [Client thread/INFO]: [CHAT] [421]jpabloram has joined.
+[14:32:49] [Client thread/INFO]: [CHAT] [323]Aidan4AU has joined.
+[14:32:52] [Client thread/INFO]: [CHAT] [2,640]Majak_mg has joined.
+[14:32:52] [Client thread/INFO]: [CHAT] [197]xBarrow: fukc her right in the pus.ssy
+[14:32:57] [Client thread/INFO]: [CHAT] [421]jpabloram: hola.
+[14:33:00] [Client thread/INFO]: [CHAT] [421]jpabloram: hola
+[14:33:03] [Client thread/INFO]: [CHAT] [80]mattmellark: zamm
+[14:33:03] [Client thread/INFO]: [CHAT] [39]Killbox78534: lol
+[14:33:04] [Client thread/INFO]: [CHAT] [25]Ev0loPKC: xBarrow u never will :)
+[14:33:05] [Client thread/INFO]: [CHAT] [95]Jigyasa13: tdo/ lobby stats]
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Winds of Change
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 10% Chance | Teweran Survival Games
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 1 Votes | 10% Chance | Breeze Island
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 7 Votes | 70% Chance | Survival Games Highway
+[14:33:05] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 10% Chance | Teweran Survival Games 2
+[14:33:05] [Client thread/INFO]: [CHAT] [421]jpabloram: hola.
+[14:33:10] [Client thread/INFO]: [CHAT] [421]jpabloram: hola
+[14:33:12] [Client thread/INFO]: [CHAT] [197]xBarrow: LOL
+[14:33:12] [Client thread/INFO]: [CHAT] [410]DANNE678 has left.
+[14:33:15] [Client thread/INFO]: [CHAT] [28]Spaceunicornpop has joined.
+[14:33:15] [Client thread/INFO]: [CHAT] [197]xBarrow: i already have
+[14:33:16] [Client thread/INFO]: [CHAT] [421]jpabloram: hola.
+[14:33:21] [Client thread/INFO]: [CHAT] [25]Ev0loPKC: totally.
+[14:33:22] [Client thread/INFO]: [CHAT] [80]mattmellark: zam
+[14:33:25] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[14:33:30] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[14:33:30] [Client thread/INFO]: [CHAT] [429]CLOOPSY has left.
+[14:33:31] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[14:33:32] [Client thread/INFO]: [CHAT] [197]xBarrow has left.
+[14:33:32] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[14:33:33] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[14:33:34] [Client thread/INFO]: [CHAT] [*] Check out our website at http://www.mcgamer.net!
+[14:33:34] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[14:33:34] [Client thread/INFO]: [CHAT] [25]Ev0loPKC: If you did, you wouldnt be here =3
+[14:33:35] [Client thread/INFO]: [CHAT] [MCSG] Map name: Teweran Survival Games
+[14:33:35] [Client thread/INFO]: [CHAT] [MCSG] Map author: Teweran
+[14:33:35] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://www.youtube.com/user/Teweran
+[14:33:35] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[14:33:36] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[14:33:47] [Client thread/INFO]: [CHAT] [0]3|Killbox78534: lo haah
+[14:33:56] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[14:34:01] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[14:34:02] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[14:34:03] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[14:34:04] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[14:34:05] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[14:34:05] [Client thread/INFO]: [CHAT] [0]3|Killbox78534: team up
+[14:34:06] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[14:34:07] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[14:34:14] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[14:34:14] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:34:14] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:34:19] [Client thread/INFO]: [CHAT] [480]TheUltimateRabi has left.
+[14:34:19] [Client thread/INFO]: [CHAT] [106]gretzkyrocks101 has joined.
+[14:34:22] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[14:34:22] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:34:22] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:34:22] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[14:34:22] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:34:22] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:34:25] [Client thread/INFO]: [CHAT] [124]SgRcraft has left.
+[14:34:25] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[14:34:25] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:34:25] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:34:27] [Client thread/INFO]: [CHAT] [91]Jigyasa13 has left.
+[14:34:29] [Client thread/INFO]: [CHAT] [27]Spaceunicornpop has left.
+[14:34:32] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[14:34:32] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:34:32] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:34:34] [Client thread/INFO]: [CHAT] [106]gretzkyrocks101 has left.
+[14:34:35] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[14:34:35] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:34:35] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:34:36] [Client thread/INFO]: [CHAT] [53]buff_santa has left.
+[14:34:39] [Client thread/INFO]: [CHAT] [84]terminator1973 has left.
+[14:35:10] [Client thread/INFO]: [CHAT] [MCSG] Only [15] tributes remain!
+[14:35:10] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:35:10] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:35:16] [Client thread/INFO]: [CHAT] [MCSG] Only [14] tributes remain!
+[14:35:16] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:35:16] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:35:18] [Client thread/INFO]: [CHAT] [MCSG] Only [13] tributes remain!
+[14:35:18] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:35:18] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:35:20] [Client thread/INFO]: [CHAT] [38]Killbox78534 has left.
+[14:35:21] [Client thread/INFO]: [CHAT] [228]BACAMAFIA640 has left.
+[14:35:21] [Client thread/INFO]: [CHAT] [163]PepsiScopesPvP has left.
+[14:35:35] [Client thread/INFO]: [CHAT] [MCSG] Only [12] tributes remain!
+[14:35:35] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:35:35] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:35:49] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[14:35:49] [Client thread/INFO]: [CHAT] [MCSG] Only [11] tributes remain!
+[14:35:49] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[14:35:49] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:35:49] [Client thread/INFO]: [CHAT] [MCSG] You've lost [5] points for dying!
+[14:35:56] [Client thread/INFO]: [CHAT] [MCSG] Only [10] tributes remain!
+[14:35:56] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[14:35:56] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:36:01] [Client thread/INFO]: [CHAT] [MCSG] Only [9] tributes remain!
+[14:36:01] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[14:36:01] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:36:01] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:36:02] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[14:36:02] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[14:36:02] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[14:36:03] [Client thread/INFO]: [CHAT] [1496]Dekualex3: x
+[14:36:04] [Client thread/INFO]: [CHAT] [615]Kronicals: www.youtube.com/user/360MC1 - Daily SG and every-other-day SMP Series'
+[14:36:07] [Client thread/INFO]: [CHAT] [1496]Dekualex3: XD
+[14:36:09] [Client thread/INFO]: [CHAT] [75]rokateer123: twinsrock8 3v3
+[14:36:18] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[14:36:18] [Client thread/INFO]: [CHAT] [98]bobbyjanks has joined.
+[14:36:18] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 48!
+[14:36:18] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[14:36:18] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[14:36:18] [Client thread/INFO]: [CHAT]                          
+[14:36:21] [Client thread/INFO]: [CHAT] [115]QuickScopeBro11 has joined.
+[14:36:22] [Client thread/INFO]: [CHAT] [129]turtlepower12 has joined.
+[14:36:22] [Client thread/INFO]: [CHAT] [402]rmysterio777: gt
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [6/48]. Game requires [24] to play.
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 20% Chance | Hungry Hills
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 20% Chance | The Survival Games 2
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 20% Chance | Survival Kingdom
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 20% Chance | Forsaken Ascension
+[14:36:23] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 20% Chance | Survival Games
+[14:36:23] [Client thread/INFO]: [CHAT] [28]twinkytrain has joined.
+[14:36:25] [Client thread/INFO]: [CHAT] [213]Dezedor has joined.
+[14:36:27] [Client thread/INFO]: [CHAT] [64]ThirstyComa has joined.
+[14:36:28] [Client thread/INFO]: [CHAT] [205]blockplayer2000 has joined.
+[14:36:29] [Client thread/INFO]: [CHAT] Unknown command. Type "help" for help.
+[14:36:29] [Client thread/INFO]: [CHAT] [228]BACAMAFIA640 has joined.
+[14:36:30] [Client thread/INFO]: [CHAT] [136]Mrpuggle_wuggle has joined.
+[14:36:31] [Client thread/INFO]: [CHAT] [302]xManxH4PPYxUtdx has joined.
+[14:36:32] [Client thread/INFO]: [CHAT] [18]RageFajita has joined.
+[14:36:33] [Client thread/INFO]: [CHAT] [1,463]ByNachitoMC has joined.
+[14:36:34] [Client thread/INFO]: [CHAT] [77]BryceTW has joined.
+[14:36:35] [Client thread/INFO]: [CHAT] [163]PepsiScopesPvP has joined.
+[14:36:35] [Client thread/INFO]: [CHAT] [107]minimind13 has joined.
+[14:36:39] [Client thread/INFO]: [CHAT] [735]TaperTurtle has joined.
+[14:36:40] [Client thread/INFO]: [CHAT] [120]arcadesims has joined.
+[14:36:40] [Client thread/INFO]: [CHAT] [98]bobbyjanks: everyone vote for 4
+[14:36:42] [Client thread/INFO]: [CHAT] [162]nmario85 has joined.
+[14:36:43] [Client thread/INFO]: [CHAT] [104]Mkplayer13 has joined.
+[14:36:44] [Client thread/INFO]: [CHAT] [48]Creathorzeus has joined.
+[14:36:44] [Client thread/INFO]: [CHAT] [115]EndergirlGBC has joined.
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] [2] minutes until lobby ends!
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/48]. Game requires [24] to play.
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 20% Chance | Hungry Hills
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 20% Chance | The Survival Games 2
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 20% Chance | Survival Kingdom
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 20% Chance | Forsaken Ascension
+[14:36:44] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 20% Chance | Survival Games
+[14:36:45] [Client thread/INFO]: [CHAT] [141]Fleaman349 has joined.
+[14:36:45] [Client thread/INFO]: [CHAT] [48]Ryp30 has joined.
+[14:36:48] [Client thread/INFO]: [CHAT] [162]nmario85 has left.
+[14:36:49] [Client thread/INFO]: [CHAT] [120]steezakaj has joined.
+[14:36:49] [Client thread/INFO]: [CHAT] [80]terminator1973 has joined.
+[14:36:49] [Client thread/INFO]: [CHAT] [44]Gold_Mine3 has joined.
+[14:36:49] [Client thread/INFO]: [CHAT] [33]mctopia has joined.
+[14:36:50] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [1] votes.
+[14:36:53] [Client thread/INFO]: [CHAT] [132]PSYmon7 has joined.
+[14:36:53] [Client thread/INFO]: [CHAT] [348]AcidU2 has joined.
+[14:36:54] [Client thread/INFO]: [CHAT] [83]BlueSmoke123456 has joined.
+[14:36:54] [Client thread/INFO]: [CHAT] [1,119]THEKILLER616 has joined.
+[14:36:55] [Client thread/INFO]: [CHAT] [119]Vaneno has joined.
+[14:36:56] [Client thread/INFO]: [CHAT] [132]ernest1801 has joined.
+[14:36:56] [Client thread/INFO]: [CHAT] [115]QuickScopeBro11 has left.
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [34/48]. Game requires [24] to play.
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 2 Votes | 50% Chance | Hungry Hills
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Survival Games 2
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Survival Kingdom
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 25% Chance | Forsaken Ascension
+[14:36:56] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 25% Chance | Survival Games
+[14:36:56] [Client thread/INFO]: [CHAT] [97]spryo1 has joined.
+[14:36:56] [Client thread/INFO]: [CHAT] [48]Ryp30 has left.
+[14:36:57] [Client thread/INFO]: [CHAT] [107]minimind13 has left.
+[14:36:57] [Client thread/INFO]: [CHAT] [53]robM59 has joined.
+[14:36:58] [Client thread/INFO]: [CHAT] [756]TheVichoHD has joined.
+[14:36:59] [Client thread/INFO]: [CHAT] [115]EndergirlGBC has left.
+[14:37:00] [Client thread/INFO]: [CHAT] [794]xDiegoMc has joined.
+[14:37:00] [Client thread/INFO]: [CHAT] [127]SLUGSTER109 has joined.
+[14:37:01] [Client thread/INFO]: [CHAT] [207]boomnett has joined.
+[14:37:03] [Client thread/INFO]: [CHAT] [38]MWojo03 has joined.
+[14:37:03] [Client thread/INFO]: [CHAT] [348]AcidU2 has left.
+[14:37:04] [Client thread/INFO]: [CHAT] [459]twinkles834 has joined.
+[14:37:05] [Client thread/INFO]: [CHAT] [135]yigido3555 has joined.
+[14:37:05] [Client thread/INFO]: [CHAT] [756]TheVichoHD has left.
+[14:37:06] [Client thread/INFO]: [CHAT] [53]robM59: arcadesims
+[14:37:06] [Client thread/INFO]: [CHAT] [154]XDBFplaysGamesX has joined.
+[14:37:07] [Client thread/INFO]: [CHAT] [425]Zenifir has joined.
+[14:37:07] [Client thread/INFO]: [CHAT] [1119]THEKILLER616: any1 skype
+[14:37:07] [Client thread/INFO]: [CHAT] [135]yigido3555: 7v
+[14:37:11] [Client thread/INFO]: [CHAT] [73]MaxGamesHD has joined.
+[14:37:11] [Client thread/INFO]: [CHAT] [135]yigido3555: t7
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [41/48]. Game requires [24] to play.
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 3 Votes | 33.33% Chance | Hungry Hills
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 4 Votes | 44.44% Chance | The Survival Games 2
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Survival Kingdom
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 11.11% Chance | Forsaken Ascension
+[14:37:12] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 11.11% Chance | Survival Games
+[14:37:13] [Client thread/INFO]: [CHAT] [73]NotSoSuper1 has joined.
+[14:37:13] [Client thread/INFO]: [CHAT] [37]Queen_Ky has joined.
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [43/48]. Game requires [24] to play.
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 3 Votes | 33.33% Chance | Hungry Hills
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 4 Votes | 44.44% Chance | The Survival Games 2
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Survival Kingdom
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 11.11% Chance | Forsaken Ascension
+[14:37:14] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 1 Votes | 11.11% Chance | Survival Games
+[14:37:15] [Client thread/INFO]: [CHAT] [120]Gannxz has joined.
+[14:37:16] [Client thread/INFO]: [CHAT] [425]Zenifir has left.
+[14:37:17] [Client thread/INFO]: [CHAT] [794]xDiegoMc has left.
+[14:37:17] [Client thread/INFO]: [CHAT] [18]RageFajita has left.
+[14:37:18] [Client thread/INFO]: [CHAT] [37]malberto2904 has joined.
+[14:37:21] [Client thread/INFO]: [CHAT] [139]Dabdo50 has joined.
+[14:37:25] [Client thread/INFO]: [CHAT] [273]Dtr2002 has joined.
+[14:37:27] [Client thread/INFO]: [CHAT] [42]exreey has joined.
+[14:37:29] [Client thread/INFO]: [CHAT] [73]NotSoSuper1: lol hai c;
+[14:37:30] [Client thread/INFO]: [CHAT] [154]XDBFplaysGamesX: If /v 2 wins, go to North for Tier 2s.
+[14:37:31] [Client thread/INFO]: [CHAT] [1119]THEKILLER616: say 123 for skype
+[14:37:33] [Client thread/INFO]: [CHAT] [73]MaxGamesHD: SG2 has teir 2s in north
+[14:37:35] [Client thread/INFO]: [CHAT] [654]Rinavex has joined.
+[14:37:37] [Client thread/INFO]: [CHAT] [120]steezakaj: ./v 1
+[14:37:37] [Client thread/INFO]: [CHAT] [99]HecSanchez3 has joined.
+[14:37:40] [Client thread/INFO]: [CHAT] [157]Alexoror1 has joined.
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [48/48]. Game requires [24] to play.
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 8 Votes | 44.44% Chance | Hungry Hills
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 6 Votes | 33.33% Chance | The Survival Games 2
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Survival Kingdom
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 5.56% Chance | Forsaken Ascension
+[14:37:44] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 3 Votes | 16.67% Chance | Survival Games
+[14:37:49] [Client thread/INFO]: [CHAT] [157]Alexoror1 has left.
+[14:37:50] [Client thread/INFO]: [CHAT] [120]steezakaj: ./v 1
+[14:37:57] [Client thread/INFO]: [CHAT] [37]malberto2904: te orgasmeaste
+[14:37:57] [Client thread/INFO]: [CHAT] [302]xManxH4PPYxUtdx has left.
+[14:38:00] [Client thread/INFO]: [CHAT] [908]Oskar360_ has joined.
+[14:38:02] [Client thread/INFO]: [CHAT] [64]ThirstyComa: team say 123
+[14:38:05] [Client thread/INFO]: [CHAT] [327]zoomkid2311 has joined.
+[14:38:09] [Client thread/INFO]: [CHAT] [37]malberto2904: te orgasmeaste
+[14:38:11] [Client thread/INFO]: [CHAT] [53]robM59: hi
+[14:38:13] [Client thread/INFO]: [CHAT] [1463]ByNachitoMC: que vas a tener orgasmo vos pelotudo no tenes ni 10 años
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [48/48]. Game requires [24] to play.
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 8 Votes | 40% Chance | Hungry Hills
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 8 Votes | 40% Chance | The Survival Games 2
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Survival Kingdom
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 1 Votes | 5% Chance | Forsaken Ascension
+[14:38:14] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 3 Votes | 15% Chance | Survival Games
+[14:38:14] [Client thread/INFO]: [CHAT] [327]zoomkid2311: anyone team?
+[14:38:20] [Client thread/INFO]: [CHAT] [120]steezakaj: me
+[14:38:21] [Client thread/INFO]: [CHAT] [139]Dabdo50: si, haste me jale la mano
+[14:38:23] [Client thread/INFO]: [CHAT] [28]twinkytrain: ill team
+[14:38:28] [Client thread/INFO]: [CHAT] [1119]THEKILLER616: any1 skype
+[14:38:34] [Client thread/INFO]: [CHAT] [*] Join our TeamSpeak server - ts.mcgamer.net!
+[14:38:34] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[14:38:36] [Client thread/INFO]: [CHAT] [120]steezakaj: iemand nl
+[14:38:39] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[14:38:40] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[14:38:41] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[14:38:42] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[14:38:43] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[14:38:45] [Client thread/INFO]: [CHAT] [MCSG] Map name: The Survival Games 2
+[14:38:45] [Client thread/INFO]: [CHAT] [MCSG] Map author: Vareide
+[14:38:45] [Client thread/INFO]: [CHAT] [MCSG] Map link: https://twitter.com/#!/Vareide
+[14:38:45] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[14:38:45] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[14:38:46] [Client thread/INFO]: [CHAT] [205]blockplayer2000 has left.
+[14:38:50] [Client thread/INFO]: [CHAT] [0]4|Oskar360_: i hate this game
+[14:38:54] [Client thread/INFO]: [CHAT] [0]4|Oskar360_: Map*
+[14:38:57] [Client thread/INFO]: [CHAT] [0]8|Dabdo50: me too
+[14:39:03] [Client thread/INFO]: [CHAT] [0]9|malberto2904: ByNachitoMC nadie te pregunto idiota
+[14:39:05] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/INFO]: [CHAT] [908]Oskar360_ has left.
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:06] [Client thread/ERROR]: @ Pre render
+[14:39:06] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:07] [Client thread/ERROR]: @ Pre render
+[14:39:07] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Post render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:08] [Client thread/ERROR]: @ Pre render
+[14:39:08] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Post render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:09] [Client thread/ERROR]: @ Pre render
+[14:39:09] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Post render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Post render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:10] [Client thread/ERROR]: @ Pre render
+[14:39:10] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Post render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Post render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Post render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Post render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Post render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:11] [Client thread/ERROR]: @ Pre render
+[14:39:11] [Client thread/ERROR]: 1285: Out of memory
+[14:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:12] [Client thread/ERROR]: @ Pre render
+[14:39:12] [Client thread/ERROR]: 1285: Out of memory
+[14:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:12] [Client thread/ERROR]: @ Pre render
+[14:39:12] [Client thread/ERROR]: 1285: Out of memory
+[14:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:12] [Client thread/ERROR]: @ Pre render
+[14:39:12] [Client thread/ERROR]: 1285: Out of memory
+[14:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:12] [Client thread/ERROR]: @ Pre render
+[14:39:12] [Client thread/ERROR]: 1285: Out of memory
+[14:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:12] [Client thread/ERROR]: @ Pre render
+[14:39:12] [Client thread/ERROR]: 1285: Out of memory
+[14:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:12] [Client thread/ERROR]: @ Pre render
+[14:39:12] [Client thread/ERROR]: 1285: Out of memory
+[14:39:12] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[14:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:12] [Client thread/ERROR]: @ Post render
+[14:39:12] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Post render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Post render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Pre render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Post render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Post render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:13] [Client thread/ERROR]: @ Post render
+[14:39:13] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Post render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Pre render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Pre render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Post render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Post render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Pre render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Pre render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Pre render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Post render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Pre render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Post render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:14] [Client thread/ERROR]: @ Pre render
+[14:39:14] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/INFO]: [CHAT] [213]Dezedor has left.
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Post render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Pre render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Post render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/INFO]: [CHAT] [135]yigido3555 has left.
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Pre render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Post render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Pre render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Pre render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Pre render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Post render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:15] [Client thread/ERROR]: @ Pre render
+[14:39:15] [Client thread/ERROR]: 1285: Out of memory
+[14:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:16] [Client thread/ERROR]: @ Post render
+[14:39:16] [Client thread/ERROR]: 1285: Out of memory
+[14:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:16] [Client thread/ERROR]: @ Post render
+[14:39:16] [Client thread/ERROR]: 1285: Out of memory
+[14:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:16] [Client thread/ERROR]: @ Pre render
+[14:39:16] [Client thread/ERROR]: 1285: Out of memory
+[14:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:16] [Client thread/ERROR]: @ Pre render
+[14:39:16] [Client thread/ERROR]: 1285: Out of memory
+[14:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:16] [Client thread/ERROR]: @ Post render
+[14:39:16] [Client thread/ERROR]: 1285: Out of memory
+[14:39:16] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[14:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:16] [Client thread/ERROR]: @ Pre render
+[14:39:16] [Client thread/ERROR]: 1285: Out of memory
+[14:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:16] [Client thread/ERROR]: @ Pre render
+[14:39:16] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Post render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Post render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Post render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:17] [Client thread/ERROR]: @ Pre render
+[14:39:17] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Pre render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Post render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Pre render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Pre render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Pre render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Pre render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Post render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Pre render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:18] [Client thread/ERROR]: @ Pre render
+[14:39:18] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Post render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:19] [Client thread/ERROR]: @ Pre render
+[14:39:19] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:20] [Client thread/ERROR]: @ Pre render
+[14:39:20] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Pre render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Pre render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Post render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Pre render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Pre render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Post render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Post render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Pre render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Pre render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Post render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:21] [Client thread/ERROR]: @ Pre render
+[14:39:21] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Post render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Post render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Post render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Post render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Post render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:22] [Client thread/ERROR]: @ Pre render
+[14:39:22] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Pre render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Post render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Pre render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Post render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Post render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Pre render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Pre render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Post render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Post render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Pre render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Post render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:23] [Client thread/ERROR]: @ Post render
+[14:39:23] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Pre render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Post render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Pre render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Pre render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Pre render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Post render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Post render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Post render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Pre render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:24] [Client thread/ERROR]: @ Pre render
+[14:39:24] [Client thread/ERROR]: 1285: Out of memory
+[14:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:25] [Client thread/ERROR]: @ Post render
+[14:39:25] [Client thread/ERROR]: 1285: Out of memory
+[14:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:25] [Client thread/ERROR]: @ Post render
+[14:39:25] [Client thread/ERROR]: 1285: Out of memory
+[14:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:25] [Client thread/ERROR]: @ Post render
+[14:39:25] [Client thread/ERROR]: 1285: Out of memory
+[14:39:25] [Client thread/INFO]: [CHAT] [MCSG] Only [44] tributes remain!
+[14:39:25] [Client thread/INFO]: [CHAT] [MCSG] There are [0] spectators watching the game.
+[14:39:25] [Client thread/INFO]: [CHAT] [203]Grim_Reaper22 has left.
+[14:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:26] [Client thread/ERROR]: @ Post render
+[14:39:26] [Client thread/ERROR]: 1285: Out of memory
+[14:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:26] [Client thread/ERROR]: @ Post render
+[14:39:26] [Client thread/ERROR]: 1285: Out of memory
+[14:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:26] [Client thread/ERROR]: @ Post render
+[14:39:26] [Client thread/ERROR]: 1285: Out of memory
+[14:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:26] [Client thread/ERROR]: @ Post render
+[14:39:26] [Client thread/ERROR]: 1285: Out of memory
+[14:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:26] [Client thread/ERROR]: @ Post render
+[14:39:26] [Client thread/ERROR]: 1285: Out of memory
+[14:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:26] [Client thread/ERROR]: @ Post render
+[14:39:26] [Client thread/ERROR]: 1285: Out of memory
+[14:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:26] [Client thread/ERROR]: @ Post render
+[14:39:26] [Client thread/ERROR]: 1285: Out of memory
+[14:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:27] [Client thread/ERROR]: @ Post render
+[14:39:27] [Client thread/ERROR]: 1285: Out of memory
+[14:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:27] [Client thread/ERROR]: @ Post render
+[14:39:27] [Client thread/ERROR]: 1285: Out of memory
+[14:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:27] [Client thread/ERROR]: @ Post render
+[14:39:27] [Client thread/ERROR]: 1285: Out of memory
+[14:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:27] [Client thread/ERROR]: @ Post render
+[14:39:27] [Client thread/ERROR]: 1285: Out of memory
+[14:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:27] [Client thread/ERROR]: @ Post render
+[14:39:27] [Client thread/ERROR]: 1285: Out of memory
+[14:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:27] [Client thread/ERROR]: @ Post render
+[14:39:27] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Post render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Pre render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Pre render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Post render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Pre render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Pre render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Post render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:28] [Client thread/ERROR]: @ Post render
+[14:39:28] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Post render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Post render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Post render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Post render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:29] [Client thread/ERROR]: @ Pre render
+[14:39:29] [Client thread/ERROR]: 1285: Out of memory
+[14:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:30] [Client thread/ERROR]: @ Post render
+[14:39:30] [Client thread/ERROR]: 1285: Out of memory
+[14:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:30] [Client thread/ERROR]: @ Post render
+[14:39:30] [Client thread/ERROR]: 1285: Out of memory
+[14:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:30] [Client thread/ERROR]: @ Post render
+[14:39:30] [Client thread/ERROR]: 1285: Out of memory
+[14:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:30] [Client thread/ERROR]: @ Post render
+[14:39:30] [Client thread/ERROR]: 1285: Out of memory
+[14:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:30] [Client thread/ERROR]: @ Post render
+[14:39:30] [Client thread/ERROR]: 1285: Out of memory
+[14:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:31] [Client thread/ERROR]: @ Post render
+[14:39:31] [Client thread/ERROR]: 1285: Out of memory
+[14:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:31] [Client thread/ERROR]: @ Post render
+[14:39:31] [Client thread/ERROR]: 1285: Out of memory
+[14:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:31] [Client thread/ERROR]: @ Post render
+[14:39:31] [Client thread/ERROR]: 1285: Out of memory
+[14:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:32] [Client thread/ERROR]: @ Post render
+[14:39:32] [Client thread/ERROR]: 1285: Out of memory
+[14:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:32] [Client thread/ERROR]: @ Post render
+[14:39:32] [Client thread/ERROR]: 1285: Out of memory
+[14:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:32] [Client thread/ERROR]: @ Post render
+[14:39:32] [Client thread/ERROR]: 1285: Out of memory
+[14:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:32] [Client thread/ERROR]: @ Post render
+[14:39:32] [Client thread/ERROR]: 1285: Out of memory
+[14:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:32] [Client thread/ERROR]: @ Post render
+[14:39:32] [Client thread/ERROR]: 1285: Out of memory
+[14:39:32] [Client thread/INFO]: [CHAT] [MCSG] Only [42] tributes remain!
+[14:39:32] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:39:32] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:32] [Client thread/ERROR]: @ Post render
+[14:39:32] [Client thread/ERROR]: 1285: Out of memory
+[14:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:33] [Client thread/ERROR]: @ Post render
+[14:39:33] [Client thread/ERROR]: 1285: Out of memory
+[14:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:33] [Client thread/ERROR]: @ Post render
+[14:39:33] [Client thread/ERROR]: 1285: Out of memory
+[14:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:33] [Client thread/ERROR]: @ Post render
+[14:39:33] [Client thread/ERROR]: 1285: Out of memory
+[14:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:33] [Client thread/ERROR]: @ Post render
+[14:39:33] [Client thread/ERROR]: 1285: Out of memory
+[14:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:34] [Client thread/ERROR]: @ Post render
+[14:39:34] [Client thread/ERROR]: 1285: Out of memory
+[14:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:34] [Client thread/ERROR]: @ Post render
+[14:39:34] [Client thread/ERROR]: 1285: Out of memory
+[14:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:34] [Client thread/ERROR]: @ Post render
+[14:39:34] [Client thread/ERROR]: 1285: Out of memory
+[14:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:35] [Client thread/ERROR]: @ Post render
+[14:39:35] [Client thread/ERROR]: 1285: Out of memory
+[14:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:35] [Client thread/ERROR]: @ Post render
+[14:39:35] [Client thread/ERROR]: 1285: Out of memory
+[14:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:35] [Client thread/ERROR]: @ Post render
+[14:39:35] [Client thread/ERROR]: 1285: Out of memory
+[14:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:35] [Client thread/ERROR]: @ Post render
+[14:39:35] [Client thread/ERROR]: 1285: Out of memory
+[14:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:35] [Client thread/ERROR]: @ Post render
+[14:39:35] [Client thread/ERROR]: 1285: Out of memory
+[14:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:35] [Client thread/ERROR]: @ Post render
+[14:39:35] [Client thread/ERROR]: 1285: Out of memory
+[14:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:35] [Client thread/ERROR]: @ Post render
+[14:39:35] [Client thread/ERROR]: 1285: Out of memory
+[14:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:36] [Client thread/ERROR]: @ Post render
+[14:39:36] [Client thread/ERROR]: 1285: Out of memory
+[14:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:36] [Client thread/ERROR]: @ Post render
+[14:39:36] [Client thread/ERROR]: 1285: Out of memory
+[14:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:36] [Client thread/ERROR]: @ Post render
+[14:39:36] [Client thread/ERROR]: 1285: Out of memory
+[14:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:36] [Client thread/ERROR]: @ Post render
+[14:39:36] [Client thread/ERROR]: 1285: Out of memory
+[14:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:36] [Client thread/ERROR]: @ Post render
+[14:39:36] [Client thread/ERROR]: 1285: Out of memory
+[14:39:37] [Client thread/INFO]: [CHAT] [1,064]THEKILLER616 has left.
+[14:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:38] [Client thread/ERROR]: @ Post render
+[14:39:38] [Client thread/ERROR]: 1285: Out of memory
+[14:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:38] [Client thread/ERROR]: @ Post render
+[14:39:38] [Client thread/ERROR]: 1285: Out of memory
+[14:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:38] [Client thread/ERROR]: @ Post render
+[14:39:38] [Client thread/ERROR]: 1285: Out of memory
+[14:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:38] [Client thread/ERROR]: @ Post render
+[14:39:38] [Client thread/ERROR]: 1285: Out of memory
+[14:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:38] [Client thread/ERROR]: @ Post render
+[14:39:38] [Client thread/ERROR]: 1285: Out of memory
+[14:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:38] [Client thread/ERROR]: @ Post render
+[14:39:38] [Client thread/ERROR]: 1285: Out of memory
+[14:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:38] [Client thread/ERROR]: @ Post render
+[14:39:38] [Client thread/ERROR]: 1285: Out of memory
+[14:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:39] [Client thread/ERROR]: @ Post render
+[14:39:39] [Client thread/ERROR]: 1285: Out of memory
+[14:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:39] [Client thread/ERROR]: @ Post render
+[14:39:39] [Client thread/ERROR]: 1285: Out of memory
+[14:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:39] [Client thread/ERROR]: @ Post render
+[14:39:39] [Client thread/ERROR]: 1285: Out of memory
+[14:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:39] [Client thread/ERROR]: @ Post render
+[14:39:39] [Client thread/ERROR]: 1285: Out of memory
+[14:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:40] [Client thread/ERROR]: @ Post render
+[14:39:40] [Client thread/ERROR]: 1285: Out of memory
+[14:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:40] [Client thread/ERROR]: @ Post render
+[14:39:40] [Client thread/ERROR]: 1285: Out of memory
+[14:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:40] [Client thread/ERROR]: @ Post render
+[14:39:40] [Client thread/ERROR]: 1285: Out of memory
+[14:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:41] [Client thread/ERROR]: @ Post render
+[14:39:41] [Client thread/ERROR]: 1285: Out of memory
+[14:39:41] [Client thread/INFO]: [CHAT] [MCSG] Only [42] tributes remain!
+[14:39:41] [Client thread/INFO]: [CHAT] [MCSG] There are [0] spectators watching the game.
+[14:39:41] [Client thread/INFO]: [CHAT] [MCSG] Only [41] tributes remain!
+[14:39:41] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:39:41] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:39:41] [Client thread/INFO]: [CHAT] [136]Mrpuggle_wuggle has left.
+[14:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:41] [Client thread/ERROR]: @ Post render
+[14:39:41] [Client thread/ERROR]: 1285: Out of memory
+[14:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:41] [Client thread/ERROR]: @ Post render
+[14:39:41] [Client thread/ERROR]: 1285: Out of memory
+[14:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:41] [Client thread/ERROR]: @ Post render
+[14:39:41] [Client thread/ERROR]: 1285: Out of memory
+[14:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:41] [Client thread/ERROR]: @ Post render
+[14:39:41] [Client thread/ERROR]: 1285: Out of memory
+[14:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:42] [Client thread/ERROR]: @ Post render
+[14:39:42] [Client thread/ERROR]: 1285: Out of memory
+[14:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:42] [Client thread/ERROR]: @ Post render
+[14:39:42] [Client thread/ERROR]: 1285: Out of memory
+[14:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:42] [Client thread/ERROR]: @ Post render
+[14:39:42] [Client thread/ERROR]: 1285: Out of memory
+[14:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:42] [Client thread/ERROR]: @ Post render
+[14:39:42] [Client thread/ERROR]: 1285: Out of memory
+[14:39:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:43] [Client thread/ERROR]: @ Post render
+[14:39:43] [Client thread/ERROR]: 1285: Out of memory
+[14:39:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:44] [Client thread/ERROR]: @ Post render
+[14:39:44] [Client thread/ERROR]: 1285: Out of memory
+[14:39:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:44] [Client thread/ERROR]: @ Post render
+[14:39:44] [Client thread/ERROR]: 1285: Out of memory
+[14:39:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:44] [Client thread/ERROR]: @ Post render
+[14:39:44] [Client thread/ERROR]: 1285: Out of memory
+[14:39:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:44] [Client thread/ERROR]: @ Post render
+[14:39:44] [Client thread/ERROR]: 1285: Out of memory
+[14:39:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:45] [Client thread/ERROR]: @ Post render
+[14:39:45] [Client thread/ERROR]: 1285: Out of memory
+[14:39:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:45] [Client thread/ERROR]: @ Post render
+[14:39:45] [Client thread/ERROR]: 1285: Out of memory
+[14:39:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:46] [Client thread/ERROR]: @ Post render
+[14:39:46] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:47] [Client thread/ERROR]: @ Post render
+[14:39:47] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory
+[14:39:48] [Client thread/INFO]: [CHAT] [MCSG] Only [40] tributes remain!
+[14:39:48] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[14:39:48] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[14:39:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[14:39:48] [Client thread/ERROR]: @ Post render
+[14:39:48] [Client thread/ERROR]: 1285: Out of memory

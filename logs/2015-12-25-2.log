@@ -1,0 +1,45 @@
+[22:58:44] [main/INFO]: Setting user: bobbyjanks
+[22:58:44] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:58:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[22:58:50] [Sound Library Loader/INFO]: Sound engine started
+[22:58:54] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[22:58:56] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[22:58:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[22:58:56] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[22:58:58] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[22:58:59] [Sound Library Loader/INFO]: Sound engine started
+[22:59:21] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[22:59:21] [Server thread/INFO]: Generating keypair
+[22:59:21] [Server thread/INFO]: Preparing start region for level 0
+[22:59:22] [Server thread/INFO]: Preparing spawn area: 60%
+[22:59:23] [Server thread/INFO]: Changing view distance to 16, from 10
+[22:59:23] [Server thread/INFO]: bobbyjanks[local:E:27b1a179] logged in with entity id 128 at (-663.3203183718764, 69.14514205324106, -1306.412885211251)
+[22:59:23] [Server thread/INFO]: bobbyjanks joined the game
+[22:59:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2902ms behind, skipping 58 tick(s)
+[23:30:52] [Client thread/INFO]: [CHAT] §dLeft click: select pos #1; Right click: select pos #2
+[23:30:55] [Client thread/INFO]: [CHAT] §dFirst position set to (-1101.0, 62.0, -753.0).
+[23:31:02] [Client thread/INFO]: [CHAT] §dSecond position set to (-1078.0, 57.0, -742.0) (1728).
+[23:31:09] [Client thread/INFO]: [CHAT] §d1316 block(s) have been changed.
+[23:40:36] [Server thread/INFO]: [bobbyjanks: Set the time to 1]
+[23:40:36] [Client thread/INFO]: [CHAT] Set the time to 1
+[23:42:12] [Client thread/INFO]: [CHAT] §dFirst position set to (-1216.0, 58.0, -903.0) (45036).
+[23:42:38] [Server thread/INFO]: [bobbyjanks: Given Speed (ID 1) * 40 to bobbyjanks for 10 seconds]
+[23:42:38] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 40 to bobbyjanks for 10 seconds
+[23:42:55] [Client thread/INFO]: [CHAT] §dSecond position set to (-1194.0, 63.0, -539.0) (50370).
+[23:43:02] [Client thread/INFO]: [CHAT] §d50370 block(s) have been changed.
+[23:43:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[23:43:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 111 ms
+[23:43:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[23:43:04] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[23:43:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[23:43:05] [Client thread/INFO]: Warning: Clientside chunk ticking took 112 ms
+[23:43:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 114 ms
+[23:43:06] [Client thread/INFO]: Warning: Clientside chunk ticking took 113 ms
+[23:43:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 115 ms
+[23:43:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 112 ms
+[23:43:07] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[23:43:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 117 ms
+[23:43:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[23:43:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 117 ms
+[23:45:45] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -599.5,80.5,-1299.5]
+[23:45:45] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -599.5,80.5,-1299.5

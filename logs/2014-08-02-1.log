@@ -1,0 +1,3216 @@
+[10:25:16] [main/INFO]: Setting user: bobbyjanks
+[10:25:16] [main/INFO]: (Session ID is token:1436e3f191d8419e98c77a6285dc11b2:e8537636227e40beaf7a9d3e3b7e9748)
+[10:25:17] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:25:17] [Client thread/INFO]: Reloading ResourceManager: Default, Soartex_Fanver.zip
+[10:25:18] [Sound Library Loader/INFO]: Sound engine started
+[10:25:21] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[10:25:21] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[10:25:32] [Client thread/INFO]: Connecting to us.mcgamer.net, 25565
+[10:25:34] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[10:25:34] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[10:25:34] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[10:25:34] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[10:26:10] [Client thread/INFO]: [CHAT] [100]Yoyyo98: simhall
+[10:26:36] [Client thread/INFO]: [CHAT] [99]vikto312: er der en dansker der vil skype
+[10:27:31] [Client thread/INFO]: [CHAT] [99]Izztigg: i
+[10:28:02] [Client thread/INFO]: [CHAT] [35]Tay1366: go in 52
+[10:28:34] [Client thread/INFO]: [CHAT] [*] Too many players in the hub? Right-click your clock!
+[10:31:23] [Client thread/INFO]: [CHAT] [475]sollyb01: Hey guys
+[10:31:59] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[10:31:59] [Client thread/INFO]: [CHAT] [78]bobbyjanks has joined.
+[10:31:59] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 95!
+[10:31:59] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[10:31:59] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[10:31:59] [Client thread/INFO]: [CHAT]                          
+[10:32:02] [Client thread/INFO]: [CHAT] [576]SparklezDz: 'Team of 3' = Team of two, other guy came in x3
+[10:32:02] [Client thread/INFO]: [CHAT] [338]coolman7575: if you neeed a team of 3 your a noob
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] [2] minutes until lobby ends!
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [11/24]. Game requires [12] to play.
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Zone 85
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 20% Chance | Fortune Island
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 20% Chance | The Eye of Horus
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 20% Chance | Excavation Zero
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 20% Chance | The Survival Games 5
+[10:32:04] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 20% Chance | The Fallen Empire v2.0
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [11/24]. Game requires [12] to play.
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Zone 85
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 20% Chance | Fortune Island
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 20% Chance | The Eye of Horus
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 20% Chance | Excavation Zero
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 20% Chance | The Survival Games 5
+[10:32:05] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 20% Chance | The Fallen Empire v2.0
+[10:32:06] [Client thread/INFO]: [CHAT] [2,229]LeMeow7 has joined.
+[10:32:07] [Client thread/INFO]: [CHAT] [76]Oggli634 has left.
+[10:32:08] [Client thread/INFO]: [CHAT] [1393]KillersGotLost: Who here would sub to me?
+[10:32:09] [Client thread/INFO]: [CHAT] [83]pippip22: yes
+[10:32:09] [Client thread/INFO]: [CHAT] [28]rustylaw: team anyone
+[10:32:11] [Client thread/INFO]: [CHAT] [2,229]LeMeow7 has left.
+[10:32:11] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [1] votes.
+[10:32:11] [Client thread/INFO]: [CHAT] [108]jotikagamer has joined.
+[10:32:12] [Client thread/INFO]: [CHAT] [338]coolman7575: omg he was your team mate nub
+[10:32:14] [Client thread/INFO]: [CHAT] [104]tonyawesome6 has joined.
+[10:32:14] [Client thread/INFO]: [CHAT] [104]tonyawesome6 has left.
+[10:32:18] [Client thread/INFO]: [CHAT] [38]TuckerAce1: me
+[10:32:24] [Client thread/INFO]: [CHAT] [189]Mojo384 has joined.
+[10:32:24] [Client thread/INFO]: [CHAT] [189]Mojo384 has left.
+[10:32:26] [Client thread/INFO]: [CHAT] [84]lumille10 has joined.
+[10:32:29] [Client thread/INFO]: [CHAT] [84]xxKOOL_KAT37xx has joined.
+[10:32:29] [Client thread/INFO]: [CHAT] [338]coolman7575: KillersGotLost u were just on roxbot werent u>?
+[10:32:29] [Client thread/INFO]: [CHAT] [58]McGrew99 has joined.
+[10:32:31] [Client thread/INFO]: [CHAT] [576]SparklezDz: Do you know me, NO. So you dont know what i was doing, NO.
+[10:32:31] [Client thread/INFO]: [CHAT] [40]Laserguy900 has joined.
+[10:32:31] [Client thread/INFO]: [CHAT] [40]Laserguy900 has left.
+[10:32:34] [Client thread/INFO]: [CHAT] [1393]KillersGotLost: My channel is KillersGotLostMC daily Uploads.
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [14/24]. Game requires [12] to play.
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Zone 85
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 100% Chance | Fortune Island
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Eye of Horus
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Excavation Zero
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Survival Games 5
+[10:32:34] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[10:32:35] [Client thread/INFO]: [CHAT] [84]lumille10 has left.
+[10:32:36] [Client thread/INFO]: [CHAT] [132]DavidJR123 has joined.
+[10:32:36] [Client thread/INFO]: [CHAT] [132]DavidJR123 has left.
+[10:32:37] [Client thread/INFO]: [CHAT] [1393]KillersGotLost: LOL yeah i was
+[10:32:37] [Client thread/INFO]: [CHAT] [282]CaptainDanger137 has joined.
+[10:32:37] [Client thread/INFO]: [CHAT] [100]SteelyMcBean has joined.
+[10:32:38] [Client thread/INFO]: [CHAT] [1393]KillersGotLost: My channel is KillersGotLostMC daily Uploads.
+[10:32:41] [Client thread/INFO]: [CHAT] [481]Rayossolar has joined.
+[10:32:41] [Client thread/INFO]: [CHAT] [481]Rayossolar has left.
+[10:32:41] [Client thread/INFO]: [CHAT] [18]llanojen has joined.
+[10:32:41] [Client thread/INFO]: [CHAT] [75]Brady28567 has joined.
+[10:32:41] [Client thread/INFO]: [CHAT] [75]Brady28567 has left.
+[10:32:42] [Client thread/INFO]: [CHAT] [285]SandA79 has joined.
+[10:32:46] [Client thread/INFO]: [CHAT] [19]pinkiegirl1218 has joined.
+[10:32:46] [Client thread/INFO]: [CHAT] [19]pinkiegirl1218 has left.
+[10:32:47] [Client thread/INFO]: [CHAT] [19]JpG20000 has joined.
+[10:32:47] [Client thread/INFO]: [CHAT] [19]JpG20000 has left.
+[10:32:48] [Client thread/INFO]: [CHAT] [576]SparklezDz: gg pip
+[10:32:49] [Client thread/INFO]: [CHAT] [38]TuckerAce1: team any1
+[10:32:50] [Client thread/INFO]: [CHAT] [192]_Mr_Creeper_18 has joined.
+[10:32:50] [Client thread/INFO]: [CHAT] [46]Epic_Monster_Man has joined.
+[10:32:50] [Client thread/INFO]: [CHAT] [19]sockbattle64 has joined.
+[10:32:50] [Client thread/INFO]: [CHAT] [192]_Mr_Creeper_18 has left.
+[10:32:50] [Client thread/INFO]: [CHAT] [19]sockbattle64 has left.
+[10:32:51] [Client thread/INFO]: [CHAT] [58]McGrew99: ME
+[10:32:52] [Client thread/INFO]: [CHAT] [262]Vukoz has joined.
+[10:32:52] [Client thread/INFO]: [CHAT] [76]JojoV24 has joined.
+[10:32:54] [Client thread/INFO]: [CHAT] [46]Epic_Monster_Man has left.
+[10:32:57] [Client thread/INFO]: [CHAT] [285]SandA79: why
+[10:32:58] [Client thread/INFO]: [CHAT] [83]pippip22: im lagging so much
+[10:32:58] [Client thread/INFO]: [CHAT] [339]Just1nGames has joined.
+[10:32:59] [Client thread/INFO]: [CHAT] [339]Just1nGames has left.
+[10:33:01] [Client thread/INFO]: [CHAT] [338]coolman7575: a team of 3 absolutely pathetic
+[10:33:02] [Client thread/INFO]: [CHAT] [384]TheRayven has joined.
+[10:33:02] [Client thread/INFO]: [CHAT] [384]TheRayven has left.
+[10:33:04] [Client thread/INFO]: [CHAT] [104]Jessica31703: i am the queen bow down to me\e
+[10:33:04] [Client thread/INFO]: [CHAT] [38]TuckerAce1: team
+[10:33:04] [Client thread/INFO]: [CHAT] [88]baconkaden has joined.
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [20/24]. Game requires [12] to play.
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Zone 85
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 100% Chance | Fortune Island
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Eye of Horus
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Excavation Zero
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Survival Games 5
+[10:33:04] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[10:33:05] [Client thread/INFO]: [CHAT] [576]SparklezDz: Ik, this lobby -.-
+[10:33:08] [Client thread/INFO]: [CHAT] [104]Jessica31703: i am the queen bow down to me\e
+[10:33:13] [Client thread/INFO]: [CHAT] [413]ShadowLord1042 has joined.
+[10:33:14] [Client thread/INFO]: [CHAT] [83]pippip22: coolman7575 Are you made brah?
+[10:33:19] [Client thread/INFO]: [CHAT] [28]rustylaw: TuckerAce1 team
+[10:33:19] [Client thread/INFO]: [CHAT] [576]SparklezDz: x3
+[10:33:24] [Client thread/INFO]: [CHAT] [338]coolman7575: im the best at a bw but im trying a new mouse grip and now im bad
+[10:33:25] [Client thread/INFO]: [CHAT] [1393]KillersGotLost: Team anyone?
+[10:33:28] [Client thread/INFO]: [CHAT] [38]TuckerAce1: yes
+[10:33:28] [Client thread/INFO]: [CHAT] [135]kabillyhop has joined.
+[10:33:29] [Client thread/INFO]: [CHAT] [262]Vukoz: me
+[10:33:29] [Client thread/INFO]: [CHAT] [271]gschouweiler: türk olan
+[10:33:30] [Client thread/INFO]: [CHAT] [104]Jessica31703: or off with ur heads!
+[10:33:31] [Client thread/INFO]: [CHAT] [135]kabillyhop has left.
+[10:33:32] [Client thread/INFO]: [CHAT] [30]Longbow24: team say 123
+[10:33:34] [Client thread/INFO]: [CHAT] [*] Check out our website at http://www.mcgamer.net!
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [21/24]. Game requires [12] to play.
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Zone 85
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 3 Votes | 60% Chance | Fortune Island
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Eye of Horus
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 40% Chance | Excavation Zero
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Survival Games 5
+[10:33:34] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[10:33:34] [Client thread/INFO]: [CHAT] [90]adamgregory has joined.
+[10:33:35] [Client thread/INFO]: [CHAT] [135]kabillyhop has joined.
+[10:33:36] [Client thread/INFO]: [CHAT] [28]rustylaw: do you have skype
+[10:33:37] [Client thread/INFO]: [CHAT] [338]coolman7575: i will if im on u tube :D
+[10:33:39] [Client thread/INFO]: [CHAT] [262]Vukoz: team killers
+[10:33:42] [Client thread/INFO]: [CHAT] [384]SkyBladeMC has joined.
+[10:33:43] [Client thread/INFO]: [CHAT] [576]SparklezDz: Yew mad cuz u gawt no frindes to tem with ? ;3
+[10:33:44] [Client thread/INFO]: [CHAT] [271]gschouweiler: türk olan
+[10:33:51] [Client thread/INFO]: [CHAT] [83]pippip22: lel
+[10:33:51] [Client thread/INFO]: [CHAT] [18]llanojen: team
+[10:33:51] [Client thread/INFO]: [CHAT] [285]SandA79: i almost took you both out
+[10:33:54] [Client thread/INFO]: [CHAT] [1393]KillersGotLost: Im at 62 subs :p
+[10:33:54] [Client thread/INFO]: [CHAT] [30]Longbow24: team say 123
+[10:33:54] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[10:33:59] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[10:34:00] [Client thread/INFO]: [CHAT] [135]kabillyhop: 123
+[10:34:00] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[10:34:01] [Client thread/INFO]: [CHAT] [338]coolman7575: SparklezDz u mad cause no one will suck your big #@%&
+[10:34:01] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[10:34:02] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[10:34:03] [Client thread/INFO]: [CHAT] [38]TuckerAce1: no
+[10:34:03] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[10:34:05] [Client thread/INFO]: [CHAT] [MCSG] Map name: Excavation Zero
+[10:34:05] [Client thread/INFO]: [CHAT] [MCSG] Map author: Aktikon
+[10:34:05] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://bit.ly/1opQC3a
+[10:34:05] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[10:34:06] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[10:34:10] [Client thread/INFO]: [CHAT] [0]8|McGrew99: gross
+[10:34:11] [Client thread/INFO]: [CHAT] [0]12|coolman7575: :P
+[10:34:13] [Client thread/INFO]: [CHAT] [0]6|SparklezDz: Atleast i have one -.-
+[10:34:15] [Client thread/INFO]: [CHAT] [0]1|pippip22: ill follow you SparklezDz
+[10:34:19] [Client thread/INFO]: [CHAT] [0]6|SparklezDz: Okai#
+[10:34:25] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[10:34:26] [Client thread/INFO]: [CHAT] [0]10|kabillyhop: never been to this map before
+[10:34:30] [Client thread/INFO]: [CHAT] [0]12|coolman7575: how would u know i guess someone when searchin whiole i was asleep
+[10:34:30] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[10:34:31] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[10:34:32] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[10:34:33] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[10:34:34] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[10:34:35] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[10:34:36] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[10:34:40] [Client thread/INFO]: [CHAT] [MCSG] Only [23] tributes remain!
+[10:34:40] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[10:34:40] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:43] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[10:34:43] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:34:43] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:44] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[10:34:44] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[10:34:44] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:45] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[10:34:45] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[10:34:45] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:45] [Client thread/INFO]: [CHAT] [393]ShadowLord1042 has left.
+[10:34:45] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[10:34:45] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[10:34:45] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:46] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[10:34:46] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[10:34:46] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:48] [Client thread/INFO]: [CHAT] [249]Vukoz has left.
+[10:34:48] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[10:34:48] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[10:34:48] [Client thread/INFO]: [CHAT] [282]CaptainDanger137 has left.
+[10:34:49] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[10:34:49] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[10:34:49] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:50] [Client thread/INFO]: [CHAT] [129]kabillyhop has left.
+[10:34:50] [Client thread/INFO]: [CHAT] [MCSG] Only [15] tributes remain!
+[10:34:50] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[10:34:50] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:34:51] [Client thread/INFO]: [CHAT] [27]rustylaw has left.
+[10:34:51] [Client thread/INFO]: [CHAT] [277]SandA79 has left.
+[10:34:56] [Client thread/INFO]: [CHAT] [96]baconkaden has left.
+[10:35:00] [Client thread/INFO]: [CHAT] [1,383]KillersGotLost has left.
+[10:35:07] [Client thread/INFO]: [CHAT] [MCSG] Only [14] tributes remain!
+[10:35:07] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:35:07] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:35:08] [Client thread/INFO]: [CHAT] [133]McGrew99 has left.
+[10:35:27] [Client thread/INFO]: [CHAT] [MCSG] Only [13] tributes remain!
+[10:35:27] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:35:27] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:35:31] [Client thread/INFO]: [CHAT] [95]adamgregory has left.
+[10:35:33] [Client thread/INFO]: [CHAT] [MCSG] Only [12] tributes remain!
+[10:35:33] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:35:33] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:35:40] [Client thread/INFO]: [CHAT] [MCSG] Only [12] tributes remain!
+[10:35:40] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:35:40] [Client thread/INFO]: [CHAT] [30]Longbow24 has left.
+[10:35:41] [Client thread/INFO]: [CHAT] [18]llanojen has left.
+[10:35:49] [Client thread/INFO]: [CHAT] [MCSG] Only [10] tributes remain!
+[10:35:49] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:35:49] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:35:50] [Client thread/INFO]: [CHAT] [MCSG] Only [9] tributes remain!
+[10:35:50] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[10:35:50] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:35:54] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[10:35:54] [Client thread/INFO]: [CHAT] [MCSG] Only [8] tributes remain!
+[10:35:54] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[10:35:54] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:35:54] [Client thread/INFO]: [CHAT] [MCSG] You've lost [3] points for dying!
+[10:35:55] [Client thread/INFO]: [CHAT] [MCSG] Teleporting to pippip22.
+[10:35:57] [Client thread/INFO]: [CHAT] [99]Jessica31703 has left.
+[10:36:00] [Client thread/INFO]: [CHAT] [MCSG] Only [7] tributes remain!
+[10:36:00] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[10:36:00] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:36:02] [Client thread/INFO]: [CHAT] [MCSG] Only [6] tributes remain!
+[10:36:02] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[10:36:02] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:36:03] [Client thread/INFO]: [CHAT] [87]xxKOOL_KAT37xx has left.
+[10:36:10] [Client thread/INFO]: [CHAT] [0]12|coolman7575: GG'
+[10:36:10] [Client thread/INFO]: [CHAT] [365]SPEC|SkyBladeMC: hacker
+[10:36:12] [Client thread/INFO]: [CHAT] [365]SkyBladeMC has left.
+[10:36:18] [Client thread/INFO]: [CHAT] [95]SteelyMcBean has left.
+[10:36:33] [Client thread/INFO]: [CHAT] [548]SparklezDz has left.
+[10:36:35] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[10:36:36] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[10:36:36] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[10:36:36] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[10:36:49] [Client thread/INFO]: [CHAT] [146]tylersafc: Just twerk on Hausken
+[10:36:54] [Client thread/INFO]: [CHAT] [100]Edenara: k
+[10:36:56] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[10:36:57] [Client thread/INFO]: [CHAT] [75]bobbyjanks has joined.
+[10:36:57] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 49!
+[10:36:57] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[10:36:57] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[10:36:57] [Client thread/INFO]: [CHAT]                          
+[10:36:58] [Client thread/INFO]: [CHAT] [446]Matricz has joined.
+[10:36:59] [Client thread/INFO]: [CHAT] [2,552]PyrosFlames has joined.
+[10:37:00] [Client thread/INFO]: [CHAT] [380]JoshmanMC has joined.
+[10:37:02] [Client thread/INFO]: [CHAT] [155]tobi736 has joined.
+[10:37:03] [Client thread/INFO]: [CHAT] [380]JoshmanMC has left.
+[10:37:03] [Client thread/INFO]: [CHAT] [104]DerpedGaming11 has joined.
+[10:37:03] [Client thread/INFO]: [CHAT] [160]Sandybeach101 has joined.
+[10:37:06] [Client thread/INFO]: [CHAT] [186]TheGrammarHammer has joined.
+[10:37:09] [Client thread/INFO]: [CHAT] [227]Robster98 has joined.
+[10:37:10] [Client thread/INFO]: [CHAT] [110]jeremy082 has joined.
+[10:37:13] [Client thread/INFO]: [CHAT] [210]PickleJuiceBoy has joined.
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [21/48]. Game requires [24] to play.
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Kharmunrah
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 0 Votes | 0% Chance | Survival Games
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 4 Votes | 100% Chance | The Survival Games 2
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Castle Dracula
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Forsaken Ascension
+[10:37:14] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Hungry Hills
+[10:37:16] [Client thread/INFO]: [CHAT] [67]b2crazyeye has joined.
+[10:37:16] [Client thread/INFO]: [CHAT] [210]PickleJuiceBoy has left.
+[10:37:18] [Client thread/INFO]: [CHAT] [104]DerpedGaming11: im recording
+[10:37:18] [Client thread/INFO]: [CHAT] [210]PickleJuiceBoy has joined.
+[10:37:22] [Client thread/INFO]: [CHAT] [186]TheGrammarHammer: maps?
+[10:37:24] [Client thread/INFO]: [CHAT] [210]PickleJuiceBoy has left.
+[10:37:29] [Client thread/INFO]: [CHAT] [86]Wylde_M4n has joined.
+[10:37:32] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [5] votes.
+[10:37:33] [Client thread/INFO]: [CHAT] [191]CursedSorcerer has joined.
+[10:37:34] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[10:37:34] [Client thread/INFO]: [CHAT] [375]GabeTheGabe has joined.
+[10:37:35] [Client thread/INFO]: [CHAT] [160]Sandybeach101: team
+[10:37:36] [Client thread/INFO]: [CHAT] [57]Emzz_xxxx: Sandybeach101 team
+[10:37:38] [Client thread/INFO]: [CHAT] [57]Emzz_xxxx: yes
+[10:37:39] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[10:37:40] [Client thread/INFO]: [CHAT] [160]Sandybeach101: yes
+[10:37:40] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[10:37:41] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[10:37:42] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[10:37:43] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[10:37:44] [Client thread/INFO]: [CHAT] [MCSG] Map name: The Survival Games 2
+[10:37:44] [Client thread/INFO]: [CHAT] [MCSG] Map author: Vareide
+[10:37:44] [Client thread/INFO]: [CHAT] [MCSG] Map link: https://twitter.com/#!/Vareide
+[10:37:44] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[10:37:45] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[10:37:58] [Client thread/INFO]: [CHAT] [86]Wylde_M4n has left.
+[10:38:05] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[10:38:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:05] [Client thread/ERROR]: @ Post render
+[10:38:05] [Client thread/ERROR]: 1285: Out of memory
+[10:38:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:05] [Client thread/ERROR]: @ Post render
+[10:38:05] [Client thread/ERROR]: 1285: Out of memory
+[10:38:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:05] [Client thread/ERROR]: @ Post render
+[10:38:05] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:06] [Client thread/ERROR]: @ Pre render
+[10:38:06] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:07] [Client thread/ERROR]: @ Pre render
+[10:38:07] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Post render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Post render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:08] [Client thread/ERROR]: @ Pre render
+[10:38:08] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Post render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:09] [Client thread/ERROR]: @ Pre render
+[10:38:09] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Post render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Post render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/INFO]: [CHAT] [0]2|Sandybeach101: where are you
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:10] [Client thread/ERROR]: @ Pre render
+[10:38:10] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:11] [Client thread/ERROR]: @ Pre render
+[10:38:11] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:12] [Client thread/ERROR]: @ Pre render
+[10:38:12] [Client thread/ERROR]: 1285: Out of memory
+[10:38:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Post render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Post render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:13] [Client thread/ERROR]: @ Pre render
+[10:38:13] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Post render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Post render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Post render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Post render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Post render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Post render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Post render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:14] [Client thread/ERROR]: @ Pre render
+[10:38:14] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Post render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Post render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:15] [Client thread/ERROR]: @ Pre render
+[10:38:15] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Post render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Post render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Post render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Post render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Post render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:16] [Client thread/ERROR]: @ Pre render
+[10:38:16] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Post render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Post render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:17] [Client thread/ERROR]: @ Pre render
+[10:38:17] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Post render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Post render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Post render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:18] [Client thread/ERROR]: @ Pre render
+[10:38:18] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Post render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Post render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Pre render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Pre render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Pre render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Post render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Pre render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Post render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Pre render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:19] [Client thread/ERROR]: @ Pre render
+[10:38:19] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Post render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Post render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Post render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Post render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Post render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Pre render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Pre render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Pre render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:20] [Client thread/ERROR]: @ Post render
+[10:38:20] [Client thread/ERROR]: 1285: Out of memory
+[10:38:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:21] [Client thread/ERROR]: @ Post render
+[10:38:21] [Client thread/ERROR]: 1285: Out of memory
+[10:38:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:21] [Client thread/ERROR]: @ Post render
+[10:38:21] [Client thread/ERROR]: 1285: Out of memory
+[10:38:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:21] [Client thread/ERROR]: @ Post render
+[10:38:21] [Client thread/ERROR]: 1285: Out of memory
+[10:38:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:21] [Client thread/ERROR]: @ Post render
+[10:38:21] [Client thread/ERROR]: 1285: Out of memory
+[10:38:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:22] [Client thread/ERROR]: @ Post render
+[10:38:22] [Client thread/ERROR]: 1285: Out of memory
+[10:38:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:22] [Client thread/ERROR]: @ Post render
+[10:38:22] [Client thread/ERROR]: 1285: Out of memory
+[10:38:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:22] [Client thread/ERROR]: @ Post render
+[10:38:22] [Client thread/ERROR]: 1285: Out of memory
+[10:38:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:22] [Client thread/ERROR]: @ Post render
+[10:38:22] [Client thread/ERROR]: 1285: Out of memory
+[10:38:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:22] [Client thread/ERROR]: @ Post render
+[10:38:22] [Client thread/ERROR]: 1285: Out of memory
+[10:38:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:22] [Client thread/ERROR]: @ Post render
+[10:38:22] [Client thread/ERROR]: 1285: Out of memory
+[10:38:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:23] [Client thread/ERROR]: @ Post render
+[10:38:23] [Client thread/ERROR]: 1285: Out of memory
+[10:38:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:23] [Client thread/ERROR]: @ Post render
+[10:38:23] [Client thread/ERROR]: 1285: Out of memory
+[10:38:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:23] [Client thread/ERROR]: @ Post render
+[10:38:23] [Client thread/ERROR]: 1285: Out of memory
+[10:38:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:23] [Client thread/ERROR]: @ Post render
+[10:38:23] [Client thread/ERROR]: 1285: Out of memory
+[10:38:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:23] [Client thread/ERROR]: @ Post render
+[10:38:23] [Client thread/ERROR]: 1285: Out of memory
+[10:38:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:24] [Client thread/ERROR]: @ Post render
+[10:38:24] [Client thread/ERROR]: 1285: Out of memory
+[10:38:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:24] [Client thread/ERROR]: @ Post render
+[10:38:24] [Client thread/ERROR]: 1285: Out of memory
+[10:38:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:24] [Client thread/ERROR]: @ Post render
+[10:38:24] [Client thread/ERROR]: 1285: Out of memory
+[10:38:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:25] [Client thread/ERROR]: @ Post render
+[10:38:25] [Client thread/ERROR]: 1285: Out of memory
+[10:38:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:25] [Client thread/ERROR]: @ Post render
+[10:38:25] [Client thread/ERROR]: 1285: Out of memory
+[10:38:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:25] [Client thread/ERROR]: @ Pre render
+[10:38:25] [Client thread/ERROR]: 1285: Out of memory
+[10:38:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:26] [Client thread/ERROR]: @ Post render
+[10:38:26] [Client thread/ERROR]: 1285: Out of memory
+[10:38:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:26] [Client thread/ERROR]: @ Post render
+[10:38:26] [Client thread/ERROR]: 1285: Out of memory
+[10:38:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:26] [Client thread/ERROR]: @ Post render
+[10:38:26] [Client thread/ERROR]: 1285: Out of memory
+[10:38:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:26] [Client thread/ERROR]: @ Post render
+[10:38:26] [Client thread/ERROR]: 1285: Out of memory
+[10:38:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:26] [Client thread/ERROR]: @ Post render
+[10:38:26] [Client thread/ERROR]: 1285: Out of memory
+[10:38:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:26] [Client thread/ERROR]: @ Pre render
+[10:38:26] [Client thread/ERROR]: 1285: Out of memory
+[10:38:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:27] [Client thread/ERROR]: @ Post render
+[10:38:27] [Client thread/ERROR]: 1285: Out of memory
+[10:38:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:27] [Client thread/ERROR]: @ Post render
+[10:38:27] [Client thread/ERROR]: 1285: Out of memory
+[10:38:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:27] [Client thread/ERROR]: @ Post render
+[10:38:27] [Client thread/ERROR]: 1285: Out of memory
+[10:38:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:27] [Client thread/ERROR]: @ Post render
+[10:38:27] [Client thread/ERROR]: 1285: Out of memory
+[10:38:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:28] [Client thread/ERROR]: @ Post render
+[10:38:28] [Client thread/ERROR]: 1285: Out of memory
+[10:38:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:28] [Client thread/ERROR]: @ Post render
+[10:38:28] [Client thread/ERROR]: 1285: Out of memory
+[10:38:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:28] [Client thread/ERROR]: @ Post render
+[10:38:28] [Client thread/ERROR]: 1285: Out of memory
+[10:38:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:28] [Client thread/ERROR]: @ Post render
+[10:38:28] [Client thread/ERROR]: 1285: Out of memory
+[10:38:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:28] [Client thread/ERROR]: @ Post render
+[10:38:28] [Client thread/ERROR]: 1285: Out of memory
+[10:38:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:28] [Client thread/ERROR]: @ Post render
+[10:38:28] [Client thread/ERROR]: 1285: Out of memory
+[10:38:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:29] [Client thread/ERROR]: @ Pre render
+[10:38:29] [Client thread/ERROR]: 1285: Out of memory
+[10:38:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:29] [Client thread/ERROR]: @ Post render
+[10:38:29] [Client thread/ERROR]: 1285: Out of memory
+[10:38:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:29] [Client thread/ERROR]: @ Post render
+[10:38:29] [Client thread/ERROR]: 1285: Out of memory
+[10:38:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:29] [Client thread/ERROR]: @ Post render
+[10:38:29] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:30] [Client thread/ERROR]: @ Pre render
+[10:38:30] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[10:38:31] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[10:38:31] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:38:31] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[10:38:31] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:38:31] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:31] [Client thread/ERROR]: @ Pre render
+[10:38:31] [Client thread/ERROR]: 1285: Out of memory
+[10:38:32] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[10:38:32] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[10:38:32] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:38:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:32] [Client thread/ERROR]: @ Pre render
+[10:38:32] [Client thread/ERROR]: 1285: Out of memory
+[10:38:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:32] [Client thread/ERROR]: @ Pre render
+[10:38:32] [Client thread/ERROR]: 1285: Out of memory
+[10:38:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:32] [Client thread/ERROR]: @ Pre render
+[10:38:32] [Client thread/ERROR]: 1285: Out of memory
+[10:38:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:32] [Client thread/ERROR]: @ Pre render
+[10:38:32] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:33] [Client thread/ERROR]: @ Pre render
+[10:38:33] [Client thread/ERROR]: 1285: Out of memory
+[10:38:34] [Client thread/INFO]: [CHAT] [*] Join our TeamSpeak server - ts.mcgamer.net!
+[10:38:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:34] [Client thread/ERROR]: @ Pre render
+[10:38:34] [Client thread/ERROR]: 1285: Out of memory
+[10:38:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:34] [Client thread/ERROR]: @ Pre render
+[10:38:34] [Client thread/ERROR]: 1285: Out of memory
+[10:38:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:34] [Client thread/ERROR]: @ Pre render
+[10:38:34] [Client thread/ERROR]: 1285: Out of memory
+[10:38:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:34] [Client thread/ERROR]: @ Pre render
+[10:38:34] [Client thread/ERROR]: 1285: Out of memory
+[10:38:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:35] [Client thread/ERROR]: @ Pre render
+[10:38:35] [Client thread/ERROR]: 1285: Out of memory
+[10:38:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:35] [Client thread/ERROR]: @ Pre render
+[10:38:35] [Client thread/ERROR]: 1285: Out of memory
+[10:38:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:35] [Client thread/ERROR]: @ Pre render
+[10:38:35] [Client thread/ERROR]: 1285: Out of memory
+[10:38:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:35] [Client thread/ERROR]: @ Post render
+[10:38:35] [Client thread/ERROR]: 1285: Out of memory
+[10:38:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:35] [Client thread/ERROR]: @ Pre render
+[10:38:35] [Client thread/ERROR]: 1285: Out of memory
+[10:38:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:35] [Client thread/ERROR]: @ Post render
+[10:38:35] [Client thread/ERROR]: 1285: Out of memory
+[10:38:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:36] [Client thread/ERROR]: @ Post render
+[10:38:36] [Client thread/ERROR]: 1285: Out of memory
+[10:38:36] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[10:38:36] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[10:38:36] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Post render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Post render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Post render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Post render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Post render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:37] [Client thread/ERROR]: @ Pre render
+[10:38:37] [Client thread/ERROR]: 1285: Out of memory
+[10:38:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Post render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Post render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Post render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Post render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:38] [Client thread/ERROR]: @ Pre render
+[10:38:38] [Client thread/ERROR]: 1285: Out of memory
+[10:38:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:39] [Client thread/ERROR]: @ Pre render
+[10:38:39] [Client thread/ERROR]: 1285: Out of memory
+[10:38:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:39] [Client thread/ERROR]: @ Pre render
+[10:38:39] [Client thread/ERROR]: 1285: Out of memory
+[10:38:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:39] [Client thread/ERROR]: @ Pre render
+[10:38:39] [Client thread/ERROR]: 1285: Out of memory
+[10:38:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:39] [Client thread/ERROR]: @ Pre render
+[10:38:39] [Client thread/ERROR]: 1285: Out of memory
+[10:38:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:39] [Client thread/ERROR]: @ Pre render
+[10:38:39] [Client thread/ERROR]: 1285: Out of memory
+[10:38:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:39] [Client thread/ERROR]: @ Post render
+[10:38:39] [Client thread/ERROR]: 1285: Out of memory
+[10:38:40] [Client thread/INFO]: [CHAT] [97]okowen23 has left.
+[10:38:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:40] [Client thread/ERROR]: @ Pre render
+[10:38:40] [Client thread/ERROR]: 1285: Out of memory
+[10:38:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:40] [Client thread/ERROR]: @ Pre render
+[10:38:40] [Client thread/ERROR]: 1285: Out of memory
+[10:38:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:40] [Client thread/ERROR]: @ Pre render
+[10:38:40] [Client thread/ERROR]: 1285: Out of memory
+[10:38:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:40] [Client thread/ERROR]: @ Pre render
+[10:38:40] [Client thread/ERROR]: 1285: Out of memory
+[10:38:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:40] [Client thread/ERROR]: @ Pre render
+[10:38:40] [Client thread/ERROR]: 1285: Out of memory
+[10:38:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:40] [Client thread/ERROR]: @ Pre render
+[10:38:40] [Client thread/ERROR]: 1285: Out of memory
+[10:38:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:40] [Client thread/ERROR]: @ Pre render
+[10:38:40] [Client thread/ERROR]: 1285: Out of memory
+[10:38:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:41] [Client thread/ERROR]: @ Pre render
+[10:38:41] [Client thread/ERROR]: 1285: Out of memory
+[10:38:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:41] [Client thread/ERROR]: @ Pre render
+[10:38:41] [Client thread/ERROR]: 1285: Out of memory
+[10:38:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:41] [Client thread/ERROR]: @ Pre render
+[10:38:41] [Client thread/ERROR]: 1285: Out of memory
+[10:38:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:41] [Client thread/ERROR]: @ Post render
+[10:38:41] [Client thread/ERROR]: 1285: Out of memory
+[10:38:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:41] [Client thread/ERROR]: @ Pre render
+[10:38:41] [Client thread/ERROR]: 1285: Out of memory
+[10:38:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:41] [Client thread/ERROR]: @ Pre render
+[10:38:41] [Client thread/ERROR]: 1285: Out of memory
+[10:38:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:42] [Client thread/ERROR]: @ Pre render
+[10:38:42] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Post render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:43] [Client thread/INFO]: [CHAT] [152]Sandybeach101 has left.
+[10:38:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:43] [Client thread/ERROR]: @ Pre render
+[10:38:43] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/INFO]: [CHAT] [86]Wylde_M4n has joined.
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:44] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:44] [Client thread/ERROR]: @ Pre render
+[10:38:44] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/INFO]: [CHAT] [31]minecraftfan822 has left.
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:45] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:45] [Client thread/ERROR]: @ Pre render
+[10:38:45] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Post render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:46] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:46] [Client thread/ERROR]: @ Pre render
+[10:38:46] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Post render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:47] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:47] [Client thread/ERROR]: @ Pre render
+[10:38:47] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Post render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Post render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:48] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:48] [Client thread/ERROR]: @ Pre render
+[10:38:48] [Client thread/ERROR]: 1285: Out of memory
+[10:38:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:49] [Client thread/ERROR]: @ Post render
+[10:38:49] [Client thread/ERROR]: 1285: Out of memory
+[10:38:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:49] [Client thread/ERROR]: @ Pre render
+[10:38:49] [Client thread/ERROR]: 1285: Out of memory
+[10:38:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:49] [Client thread/ERROR]: @ Pre render
+[10:38:49] [Client thread/ERROR]: 1285: Out of memory
+[10:38:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:49] [Client thread/ERROR]: @ Post render
+[10:38:49] [Client thread/ERROR]: 1285: Out of memory
+[10:38:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:49] [Client thread/ERROR]: @ Post render
+[10:38:49] [Client thread/ERROR]: 1285: Out of memory
+[10:38:49] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:49] [Client thread/ERROR]: @ Pre render
+[10:38:49] [Client thread/ERROR]: 1285: Out of memory
+[10:38:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:50] [Client thread/ERROR]: @ Pre render
+[10:38:50] [Client thread/ERROR]: 1285: Out of memory
+[10:38:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:50] [Client thread/ERROR]: @ Pre render
+[10:38:50] [Client thread/ERROR]: 1285: Out of memory
+[10:38:50] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:50] [Client thread/ERROR]: @ Post render
+[10:38:50] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:51] [Client thread/ERROR]: @ Pre render
+[10:38:51] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:52] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:52] [Client thread/ERROR]: @ Pre render
+[10:38:52] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Post render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:53] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:53] [Client thread/ERROR]: @ Pre render
+[10:38:53] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Pre render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Post render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Pre render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Pre render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Pre render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Pre render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Pre render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Post render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:54] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:54] [Client thread/ERROR]: @ Pre render
+[10:38:54] [Client thread/ERROR]: 1285: Out of memory
+[10:38:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:55] [Client thread/ERROR]: @ Pre render
+[10:38:55] [Client thread/ERROR]: 1285: Out of memory
+[10:38:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:55] [Client thread/ERROR]: @ Pre render
+[10:38:55] [Client thread/ERROR]: 1285: Out of memory
+[10:38:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:55] [Client thread/ERROR]: @ Pre render
+[10:38:55] [Client thread/ERROR]: 1285: Out of memory
+[10:38:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:55] [Client thread/ERROR]: @ Pre render
+[10:38:55] [Client thread/ERROR]: 1285: Out of memory
+[10:38:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:55] [Client thread/ERROR]: @ Pre render
+[10:38:55] [Client thread/ERROR]: 1285: Out of memory
+[10:38:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:55] [Client thread/ERROR]: @ Pre render
+[10:38:55] [Client thread/ERROR]: 1285: Out of memory
+[10:38:55] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:55] [Client thread/ERROR]: @ Pre render
+[10:38:55] [Client thread/ERROR]: 1285: Out of memory
+[10:38:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:56] [Client thread/ERROR]: @ Post render
+[10:38:56] [Client thread/ERROR]: 1285: Out of memory
+[10:38:56] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:56] [Client thread/ERROR]: @ Pre render
+[10:38:56] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:57] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:57] [Client thread/ERROR]: @ Pre render
+[10:38:57] [Client thread/ERROR]: 1285: Out of memory
+[10:38:58] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:58] [Client thread/ERROR]: @ Pre render
+[10:38:58] [Client thread/ERROR]: 1285: Out of memory
+[10:38:58] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:58] [Client thread/ERROR]: @ Pre render
+[10:38:58] [Client thread/ERROR]: 1285: Out of memory
+[10:38:58] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:58] [Client thread/ERROR]: @ Pre render
+[10:38:58] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/INFO]: [CHAT] [86]Wylde_M4n has left.
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:38:59] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:38:59] [Client thread/ERROR]: @ Pre render
+[10:38:59] [Client thread/ERROR]: 1285: Out of memory
+[10:39:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:00] [Client thread/ERROR]: @ Pre render
+[10:39:00] [Client thread/ERROR]: 1285: Out of memory
+[10:39:00] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:00] [Client thread/ERROR]: @ Post render
+[10:39:00] [Client thread/ERROR]: 1285: Out of memory
+[10:39:01] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[10:39:01] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:39:01] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:39:01] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:01] [Client thread/ERROR]: @ Post render
+[10:39:01] [Client thread/ERROR]: 1285: Out of memory
+[10:39:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:02] [Client thread/ERROR]: @ Post render
+[10:39:02] [Client thread/ERROR]: 1285: Out of memory
+[10:39:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:02] [Client thread/ERROR]: @ Post render
+[10:39:02] [Client thread/ERROR]: 1285: Out of memory
+[10:39:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:02] [Client thread/ERROR]: @ Post render
+[10:39:02] [Client thread/ERROR]: 1285: Out of memory
+[10:39:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:02] [Client thread/ERROR]: @ Post render
+[10:39:02] [Client thread/ERROR]: 1285: Out of memory
+[10:39:02] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:02] [Client thread/ERROR]: @ Post render
+[10:39:02] [Client thread/ERROR]: 1285: Out of memory
+[10:39:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:03] [Client thread/ERROR]: @ Post render
+[10:39:03] [Client thread/ERROR]: 1285: Out of memory
+[10:39:03] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:03] [Client thread/ERROR]: @ Post render
+[10:39:03] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:04] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:04] [Client thread/ERROR]: @ Post render
+[10:39:04] [Client thread/ERROR]: 1285: Out of memory
+[10:39:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:05] [Client thread/ERROR]: @ Post render
+[10:39:05] [Client thread/ERROR]: 1285: Out of memory
+[10:39:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:05] [Client thread/ERROR]: @ Post render
+[10:39:05] [Client thread/ERROR]: 1285: Out of memory
+[10:39:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:05] [Client thread/ERROR]: @ Post render
+[10:39:05] [Client thread/ERROR]: 1285: Out of memory
+[10:39:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:05] [Client thread/ERROR]: @ Post render
+[10:39:05] [Client thread/ERROR]: 1285: Out of memory
+[10:39:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:05] [Client thread/ERROR]: @ Post render
+[10:39:05] [Client thread/ERROR]: 1285: Out of memory
+[10:39:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:05] [Client thread/ERROR]: @ Post render
+[10:39:05] [Client thread/ERROR]: 1285: Out of memory
+[10:39:05] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:05] [Client thread/ERROR]: @ Post render
+[10:39:05] [Client thread/ERROR]: 1285: Out of memory
+[10:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:06] [Client thread/ERROR]: @ Post render
+[10:39:06] [Client thread/ERROR]: 1285: Out of memory
+[10:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:06] [Client thread/ERROR]: @ Post render
+[10:39:06] [Client thread/ERROR]: 1285: Out of memory
+[10:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:06] [Client thread/ERROR]: @ Post render
+[10:39:06] [Client thread/ERROR]: 1285: Out of memory
+[10:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:06] [Client thread/ERROR]: @ Post render
+[10:39:06] [Client thread/ERROR]: 1285: Out of memory
+[10:39:06] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[10:39:06] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[10:39:06] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:39:06] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:06] [Client thread/ERROR]: @ Post render
+[10:39:06] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Post render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Post render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Post render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Post render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Post render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Pre render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Post render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:07] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:07] [Client thread/ERROR]: @ Post render
+[10:39:07] [Client thread/ERROR]: 1285: Out of memory
+[10:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:08] [Client thread/ERROR]: @ Pre render
+[10:39:08] [Client thread/ERROR]: 1285: Out of memory
+[10:39:08] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:08] [Client thread/ERROR]: @ Pre render
+[10:39:08] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:09] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:09] [Client thread/ERROR]: @ Pre render
+[10:39:09] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:10] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:10] [Client thread/ERROR]: @ Pre render
+[10:39:10] [Client thread/ERROR]: 1285: Out of memory
+[10:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:11] [Client thread/ERROR]: @ Pre render
+[10:39:11] [Client thread/ERROR]: 1285: Out of memory
+[10:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:11] [Client thread/ERROR]: @ Post render
+[10:39:11] [Client thread/ERROR]: 1285: Out of memory
+[10:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:11] [Client thread/ERROR]: @ Post render
+[10:39:11] [Client thread/ERROR]: 1285: Out of memory
+[10:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:11] [Client thread/ERROR]: @ Pre render
+[10:39:11] [Client thread/ERROR]: 1285: Out of memory
+[10:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:11] [Client thread/ERROR]: @ Pre render
+[10:39:11] [Client thread/ERROR]: 1285: Out of memory
+[10:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:11] [Client thread/ERROR]: @ Pre render
+[10:39:11] [Client thread/ERROR]: 1285: Out of memory
+[10:39:11] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:11] [Client thread/ERROR]: @ Pre render
+[10:39:11] [Client thread/ERROR]: 1285: Out of memory
+[10:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:12] [Client thread/ERROR]: @ Post render
+[10:39:12] [Client thread/ERROR]: 1285: Out of memory
+[10:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:12] [Client thread/ERROR]: @ Pre render
+[10:39:12] [Client thread/ERROR]: 1285: Out of memory
+[10:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:12] [Client thread/ERROR]: @ Post render
+[10:39:12] [Client thread/ERROR]: 1285: Out of memory
+[10:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:12] [Client thread/ERROR]: @ Post render
+[10:39:12] [Client thread/ERROR]: 1285: Out of memory
+[10:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:12] [Client thread/ERROR]: @ Pre render
+[10:39:12] [Client thread/ERROR]: 1285: Out of memory
+[10:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:12] [Client thread/ERROR]: @ Post render
+[10:39:12] [Client thread/ERROR]: 1285: Out of memory
+[10:39:12] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:12] [Client thread/ERROR]: @ Pre render
+[10:39:12] [Client thread/ERROR]: 1285: Out of memory
+[10:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:13] [Client thread/ERROR]: @ Pre render
+[10:39:13] [Client thread/ERROR]: 1285: Out of memory
+[10:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:13] [Client thread/ERROR]: @ Pre render
+[10:39:13] [Client thread/ERROR]: 1285: Out of memory
+[10:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:13] [Client thread/ERROR]: @ Pre render
+[10:39:13] [Client thread/ERROR]: 1285: Out of memory
+[10:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:13] [Client thread/ERROR]: @ Pre render
+[10:39:13] [Client thread/ERROR]: 1285: Out of memory
+[10:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:13] [Client thread/ERROR]: @ Pre render
+[10:39:13] [Client thread/ERROR]: 1285: Out of memory
+[10:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:13] [Client thread/ERROR]: @ Post render
+[10:39:13] [Client thread/ERROR]: 1285: Out of memory
+[10:39:13] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:13] [Client thread/ERROR]: @ Post render
+[10:39:13] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Post render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Pre render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Post render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Pre render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Pre render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Post render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Pre render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Pre render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Post render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:14] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:14] [Client thread/ERROR]: @ Pre render
+[10:39:14] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Pre render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Pre render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Pre render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Pre render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:15] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:15] [Client thread/ERROR]: @ Post render
+[10:39:15] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Pre render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Pre render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:16] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:16] [Client thread/ERROR]: @ Post render
+[10:39:16] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Post render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Post render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Post render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Post render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Pre render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Post render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Post render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Pre render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:17] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:17] [Client thread/ERROR]: @ Post render
+[10:39:17] [Client thread/ERROR]: 1285: Out of memory
+[10:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:18] [Client thread/ERROR]: @ Pre render
+[10:39:18] [Client thread/ERROR]: 1285: Out of memory
+[10:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:18] [Client thread/ERROR]: @ Pre render
+[10:39:18] [Client thread/ERROR]: 1285: Out of memory
+[10:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:18] [Client thread/ERROR]: @ Pre render
+[10:39:18] [Client thread/ERROR]: 1285: Out of memory
+[10:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:18] [Client thread/ERROR]: @ Pre render
+[10:39:18] [Client thread/ERROR]: 1285: Out of memory
+[10:39:18] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:18] [Client thread/ERROR]: @ Pre render
+[10:39:18] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Pre render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Pre render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Post render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/INFO]: [CHAT] [216]Robster98 has left.
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Pre render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Post render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Post render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Pre render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Pre render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:19] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:19] [Client thread/ERROR]: @ Pre render
+[10:39:19] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Post render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:20] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:20] [Client thread/ERROR]: @ Pre render
+[10:39:20] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Pre render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Pre render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Post render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Post render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Pre render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Post render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Post render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:21] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:21] [Client thread/ERROR]: @ Pre render
+[10:39:21] [Client thread/ERROR]: 1285: Out of memory
+[10:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:22] [Client thread/ERROR]: @ Pre render
+[10:39:22] [Client thread/ERROR]: 1285: Out of memory
+[10:39:22] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:22] [Client thread/ERROR]: @ Post render
+[10:39:22] [Client thread/ERROR]: 1285: Out of memory
+[10:39:23] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:23] [Client thread/ERROR]: @ Post render
+[10:39:23] [Client thread/ERROR]: 1285: Out of memory
+[10:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:24] [Client thread/ERROR]: @ Pre render
+[10:39:24] [Client thread/ERROR]: 1285: Out of memory
+[10:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:24] [Client thread/ERROR]: @ Pre render
+[10:39:24] [Client thread/ERROR]: 1285: Out of memory
+[10:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:24] [Client thread/ERROR]: @ Pre render
+[10:39:24] [Client thread/ERROR]: 1285: Out of memory
+[10:39:24] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:24] [Client thread/ERROR]: @ Pre render
+[10:39:24] [Client thread/ERROR]: 1285: Out of memory
+[10:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:25] [Client thread/ERROR]: @ Pre render
+[10:39:25] [Client thread/ERROR]: 1285: Out of memory
+[10:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:25] [Client thread/ERROR]: @ Pre render
+[10:39:25] [Client thread/ERROR]: 1285: Out of memory
+[10:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:25] [Client thread/ERROR]: @ Post render
+[10:39:25] [Client thread/ERROR]: 1285: Out of memory
+[10:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:25] [Client thread/ERROR]: @ Pre render
+[10:39:25] [Client thread/ERROR]: 1285: Out of memory
+[10:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:25] [Client thread/ERROR]: @ Pre render
+[10:39:25] [Client thread/ERROR]: 1285: Out of memory
+[10:39:25] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:25] [Client thread/ERROR]: @ Pre render
+[10:39:25] [Client thread/ERROR]: 1285: Out of memory
+[10:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:26] [Client thread/ERROR]: @ Pre render
+[10:39:26] [Client thread/ERROR]: 1285: Out of memory
+[10:39:26] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:26] [Client thread/ERROR]: @ Pre render
+[10:39:26] [Client thread/ERROR]: 1285: Out of memory
+[10:39:27] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[10:39:27] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[10:39:27] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[10:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:27] [Client thread/ERROR]: @ Pre render
+[10:39:27] [Client thread/ERROR]: 1285: Out of memory
+[10:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:27] [Client thread/ERROR]: @ Pre render
+[10:39:27] [Client thread/ERROR]: 1285: Out of memory
+[10:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:27] [Client thread/ERROR]: @ Pre render
+[10:39:27] [Client thread/ERROR]: 1285: Out of memory
+[10:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:27] [Client thread/ERROR]: @ Pre render
+[10:39:27] [Client thread/ERROR]: 1285: Out of memory
+[10:39:27] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:27] [Client thread/ERROR]: @ Pre render
+[10:39:27] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:28] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:28] [Client thread/ERROR]: @ Pre render
+[10:39:28] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/INFO]: [CHAT] [99]DerpedGaming11 has left.
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:29] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:29] [Client thread/ERROR]: @ Pre render
+[10:39:29] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Post render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:30] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:30] [Client thread/ERROR]: @ Pre render
+[10:39:30] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[10:39:31] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[10:39:31] [Client thread/INFO]: [CHAT] [110]jeremy082 has left.
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Post render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:31] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:31] [Client thread/ERROR]: @ Pre render
+[10:39:31] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Post render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Post render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Post render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Post render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:32] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:32] [Client thread/ERROR]: @ Pre render
+[10:39:32] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Post render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Post render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Post render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Pre render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:33] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:33] [Client thread/ERROR]: @ Post render
+[10:39:33] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Post render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Post render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Post render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Post render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Post render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:34] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:34] [Client thread/ERROR]: @ Pre render
+[10:39:34] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Post render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Post render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Post render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/INFO]: [CHAT] [87]CaptainLindySays has left.
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Post render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Pre render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Pre render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Pre render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:35] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:35] [Client thread/ERROR]: @ Pre render
+[10:39:35] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Post render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Post render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Post render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Pre render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Pre render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Post render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Post render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:36] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:36] [Client thread/ERROR]: @ Post render
+[10:39:36] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Post render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Post render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Post render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Pre render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Post render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Pre render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Pre render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Pre render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Post render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Post render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Pre render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Post render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:37] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:37] [Client thread/ERROR]: @ Pre render
+[10:39:37] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Pre render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Pre render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Pre render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Post render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:38] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:38] [Client thread/ERROR]: @ Pre render
+[10:39:38] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Post render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Post render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Post render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Post render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Post render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Post render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Pre render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Pre render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Pre render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:39] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:39] [Client thread/ERROR]: @ Post render
+[10:39:39] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Pre render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Pre render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Pre render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Pre render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Post render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Pre render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:40] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:40] [Client thread/ERROR]: @ Pre render
+[10:39:40] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Post render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Post render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Post render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Post render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Post render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Post render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Post render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:41] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:41] [Client thread/ERROR]: @ Pre render
+[10:39:41] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Pre render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Pre render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Pre render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Pre render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Pre render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Pre render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:42] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:42] [Client thread/ERROR]: @ Post render
+[10:39:42] [Client thread/ERROR]: 1285: Out of memory
+[10:39:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:43] [Client thread/ERROR]: @ Post render
+[10:39:43] [Client thread/ERROR]: 1285: Out of memory
+[10:39:43] [Client thread/ERROR]: ########## GL ERROR ##########
+[10:39:43] [Client thread/ERROR]: @ Post render
+[10:39:43] [Client thread/ERROR]: 1285: Out of memory
+[10:39:45] [Client thread/INFO]: Stopping!

@@ -1,0 +1,560 @@
+[12:15:48] [main/INFO]: Setting user: bobbyjanks
+[12:15:48] [main/INFO]: (Session ID is token:991175ef325f4b5c86681db9438eff25:e8537636227e40beaf7a9d3e3b7e9748)
+[12:15:48] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:15:49] [Client thread/INFO]: Reloading ResourceManager: Default, Soartex_Fanver.zip
+[12:15:50] [Sound Library Loader/INFO]: Sound engine started
+[12:15:52] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[12:15:53] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[12:16:04] [Client thread/INFO]: Connecting to us.mcgamer.net, 25565
+[12:16:06] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[12:16:07] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:16:07] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[12:16:07] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[12:16:23] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[12:16:24] [Client thread/INFO]: [CHAT] [114]bobbyjanks has joined.
+[12:16:24] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 179!
+[12:16:24] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[12:16:24] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[12:16:24] [Client thread/INFO]: [CHAT]                          
+[12:16:26] [Client thread/INFO]: [CHAT] [860]canfetiehunter has joined.
+[12:16:26] [Client thread/INFO]: [CHAT] [19]srl3tv has joined.
+[12:16:27] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [23/24]. Game requires [12] to play.
+[12:16:27] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:16:27] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Icarus
+[12:16:27] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 10% Chance | Enchanted Forest
+[12:16:27] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 7 Votes | 70% Chance | Solar Frost
+[12:16:27] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 20% Chance | Teweran Survival Games 2
+[12:16:28] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:16:28] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Dracarys
+[12:16:37] [Client thread/INFO]: [CHAT] [860]canfetiehunter has left.
+[12:16:37] [Client thread/INFO]: [CHAT] [37]johnnyharper_98 has joined.
+[12:16:40] [Client thread/INFO]: [CHAT] [138]Stelldagger11 has joined.
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Icarus
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 10% Chance | Enchanted Forest
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 7 Votes | 70% Chance | Solar Frost
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 20% Chance | Teweran Survival Games 2
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:16:41] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Dracarys
+[12:16:47] [Client thread/INFO]: [CHAT] [68]stargatex17: team
+[12:16:51] [Client thread/INFO]: [CHAT] [138]Stelldagger11 has left.
+[12:16:51] [Client thread/INFO]: [CHAT] [579]Proformence has joined.
+[12:16:54] [Client thread/INFO]: [CHAT] [51]kiebum: team
+[12:16:59] [Client thread/INFO]: [CHAT] [68]stargatex17: ok
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Icarus
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 7.14% Chance | Enchanted Forest
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 11 Votes | 78.57% Chance | Solar Frost
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 2 Votes | 14.29% Chance | Teweran Survival Games 2
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:17:11] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Dracarys
+[12:17:20] [Client thread/INFO]: [CHAT] [19]srl3tv: beaty????\
+[12:17:26] [Client thread/INFO]: [CHAT] [70]BeautyIsInLove: what
+[12:17:30] [Client thread/INFO]: [CHAT] [70]BeautyIsInLove: call me jessica
+[12:17:30] [Client thread/INFO]: [CHAT] [133]JustCa11MeBacon: hi
+[12:17:31] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[12:17:35] [Client thread/INFO]: [CHAT] [19]srl3tv: kk
+[12:17:36] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[12:17:37] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[12:17:38] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[12:17:39] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[12:17:40] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[12:17:40] [Client thread/INFO]: [CHAT] [83]Joepatvin: start the round
+[12:17:41] [Client thread/INFO]: [CHAT] [MCSG] Map name: Teweran Survival Games 2
+[12:17:41] [Client thread/INFO]: [CHAT] [MCSG] Map author: Teweran
+[12:17:41] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://www.youtube.com/user/Teweran
+[12:17:41] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[12:17:43] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[12:17:54] [Client thread/INFO]: [CHAT] [0]9|JustCa11MeBacon: follow me
+[12:17:55] [Client thread/INFO]: [CHAT] [0]6|srl3tv: ahhh man did map
+[12:17:59] [Client thread/INFO]: [CHAT] [0]6|srl3tv: k
+[12:18:02] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[12:18:02] [Client thread/INFO]: [CHAT] [0]9|JustCa11MeBacon: i know it
+[12:18:07] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[12:18:08] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[12:18:09] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[12:18:10] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[12:18:11] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[12:18:12] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[12:18:13] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[12:18:18] [Client thread/INFO]: [CHAT] [MCSG] Only [23] tributes remain!
+[12:18:18] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[12:18:18] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:18:18] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[12:18:18] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:18:18] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:18:21] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[12:18:21] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:18:21] [Client thread/INFO]: [CHAT] [916]R1ck4stl3y has left.
+[12:18:24] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[12:18:24] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:18:24] [Client thread/INFO]: [CHAT] [797]unchated333 has left.
+[12:18:24] [Client thread/INFO]: [CHAT] [551]YoloPrevent95 has left.
+[12:18:31] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[12:18:31] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:18:31] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:18:33] [Client thread/INFO]: [CHAT] [34]1GotBored has left.
+[12:18:38] [Client thread/INFO]: [CHAT] [*] Want to start your own Minecraft server? Check out this link to get 15% off at CubedHost! https://cubedhost.org/mcsg
+[12:19:03] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[12:19:03] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:19:03] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:19:06] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[12:19:06] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[12:19:06] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:19:12] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[12:19:12] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[12:19:12] [Client thread/INFO]: [CHAT] [68]stargatex17 has left.
+[12:19:14] [Client thread/INFO]: [CHAT] [36]johnnyharper_98 has left.
+[12:19:19] [Client thread/INFO]: [CHAT] [MCSG] Only [15] tributes remain!
+[12:19:19] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[12:19:19] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:19:27] [Client thread/INFO]: [CHAT] [79]Joepatvin has left.
+[12:19:30] [Client thread/INFO]: [CHAT] [110]BrowningDog has joined.
+[12:19:31] [Client thread/INFO]: [CHAT] [MCSG] Only [14] tributes remain!
+[12:19:31] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[12:19:31] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:19:31] [Client thread/INFO]: [CHAT] [MCSG] Only [13] tributes remain!
+[12:19:31] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[12:19:31] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:19:35] [Client thread/INFO]: [CHAT] [MCSG] Only [12] tributes remain!
+[12:19:35] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[12:19:35] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:19:35] [Client thread/INFO]: [CHAT] [79]Joepatvin has joined.
+[12:19:35] [Client thread/INFO]: [CHAT] [127]JustCa11MeBacon has left.
+[12:19:37] [Client thread/INFO]: [CHAT] [125]simfunny has left.
+[12:19:45] [Client thread/INFO]: [CHAT] [110]BrowningDog has left.
+[12:19:57] [Client thread/INFO]: [CHAT] [79]Joepatvin has left.
+[12:19:58] [Client thread/INFO]: [CHAT] [110]BrowningDog has joined.
+[12:20:01] [Client thread/INFO]: [CHAT] [MCSG] Only [11] tributes remain!
+[12:20:01] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[12:20:01] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:20:02] [Client thread/INFO]: [CHAT] [239]YamilenioFTW has joined.
+[12:20:06] [Client thread/INFO]: [CHAT] [239]YamilenioFTW has left.
+[12:20:09] [Client thread/INFO]: [CHAT] [MCSG] Only [10] tributes remain!
+[12:20:09] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[12:20:09] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:20:11] [Client thread/INFO]: [CHAT] [110]BrowningDog has left.
+[12:20:15] [Client thread/INFO]: [CHAT] [193]urboy15 has left.
+[12:20:16] [Client thread/INFO]: [CHAT] [69]q2816 has left.
+[12:20:17] [Client thread/INFO]: [CHAT] [MCSG] Only [9] tributes remain!
+[12:20:17] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[12:20:17] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:20:17] [Client thread/INFO]: [CHAT] [MCSG] Only [8] tributes remain!
+[12:20:17] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[12:20:17] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:20:26] [Client thread/INFO]: [CHAT] [113]daddyassef has left.
+[12:20:28] [Client thread/INFO]: [CHAT] [848]LimitedPower has left.
+[12:20:46] [Client thread/INFO]: [CHAT] [67]BeautyIsInLove has left.
+[12:21:03] [Client thread/INFO]: [CHAT] [730]Dompyre has left.
+[12:22:33] [Client thread/INFO]: [CHAT] [0]1|kiebum: team
+[12:23:13] [Client thread/INFO]: [CHAT] [MCSG] [25] minutes until deathmatch!
+[12:23:38] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[12:26:22] [Client thread/INFO]: [CHAT] [MCSG] Only [8] tributes remain!
+[12:26:22] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[12:26:22] [Client thread/INFO]: [CHAT] [51]kiebum has left.
+[12:26:22] [Client thread/INFO]: [CHAT] [MCSG] You've gained [5] points for killing kiebum!
+[12:27:07] [Client thread/INFO]: [CHAT] [153]PandaDeathkick has joined.
+[12:27:15] [Client thread/INFO]: [CHAT] [153]PandaDeathkick has left.
+[12:27:30] [Client thread/INFO]: [CHAT] [29]nikita903zxcv has joined.
+[12:27:39] [Client thread/INFO]: [CHAT] [29]nikita903zxcv has left.
+[12:28:13] [Client thread/INFO]: [CHAT] [MCSG] [20] minutes until deathmatch!
+[12:28:38] [Client thread/INFO]: [CHAT] [*] Too many players in the hub? Right-click your clock!
+[12:29:27] [Client thread/INFO]: [CHAT] [29]nikita903zxcv has joined.
+[12:29:33] [Client thread/INFO]: [CHAT] [29]nikita903zxcv has left.
+[12:31:12] [Client thread/INFO]: [CHAT] [MCSG] Sponsors have refilled the chests!
+[12:31:12] [Client thread/INFO]: [CHAT] [MCSG] These tributes have passed: deadloxlr, YoloPrevent95, 1GotBored, daddyassef, johnnyharper_98, Joepatvin, JustCa11MeBacon, BeautyIsInLove, simfunny, urboy15, q2816, LimitedPower, Dompyre, kiebum,
+[12:31:17] [Client thread/INFO]: [CHAT] [MCSG] Only [6] tributes remain!
+[12:31:17] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:31:17] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:32:18] [Client thread/INFO]: [CHAT] [76]FREDDYtheSHERPA has left.
+[12:33:13] [Client thread/INFO]: [CHAT] [MCSG] [15] minutes until deathmatch!
+[12:33:38] [Client thread/INFO]: [CHAT] [*] Check out our website at http://www.mcgamer.net!
+[12:34:33] [Client thread/INFO]: [CHAT] [MCSG] Only [5] tributes remain!
+[12:34:33] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:34:33] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:35:07] [Client thread/INFO]: [CHAT] [112]deadloxlr has left.
+[12:35:29] [Client thread/INFO]: [CHAT] [114]NickRS9 has left.
+[12:38:14] [Client thread/INFO]: [CHAT] [MCSG] [10] minutes until deathmatch!
+[12:38:30] [Client thread/INFO]: [CHAT] [MCSG] Only [4] tributes remain!
+[12:38:30] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[12:38:30] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:38:31] [Client thread/INFO]: [CHAT] [MCSG] You've gained [19] points for killing XxFerchuGamerxX!
+[12:38:36] [Client thread/INFO]: [CHAT] [380]XxFerchuGamerxX has left.
+[12:38:38] [Client thread/INFO]: [CHAT] [*] Join our TeamSpeak server - ts.mcgamer.net!
+[12:43:10] [Client thread/INFO]: [CHAT] [168]BeautyIsInLove has joined.
+[12:43:14] [Client thread/INFO]: [CHAT] [MCSG] [5] minutes until deathmatch!
+[12:43:38] [Client thread/INFO]: [CHAT] [*] Visit http://shop.mcgamer.net for information on premium upgrades.
+[12:44:13] [Client thread/INFO]: [CHAT] [MCSG] Sponsors have refilled the chests!
+[12:44:13] [Client thread/INFO]: [CHAT] [MCSG] These tributes have passed: deadloxlr, YoloPrevent95, 1GotBored, daddyassef, johnnyharper_98, Joepatvin, JustCa11MeBacon, BeautyIsInLove, simfunny, urboy15, q2816, LimitedPower, Dompyre, kiebum, NickRS9, XxFerchuGamerxX,
+[12:47:14] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until deathmatch!
+[12:47:44] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until deathmatch!
+[12:48:04] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until deathmatch!
+[12:48:09] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until deathmatch!
+[12:48:10] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until deathmatch!
+[12:48:11] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until deathmatch!
+[12:48:12] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until deathmatch!
+[12:48:13] [Client thread/INFO]: [CHAT] [MCSG] [1] second until deathmatch!
+[12:48:14] [Client thread/INFO]: [CHAT] [MCSG] Please allow [10] seconds for all players to load the map.
+[12:48:20] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until deathmatch!
+[12:48:21] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until deathmatch!
+[12:48:22] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until deathmatch!
+[12:48:23] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until deathmatch!
+[12:48:24] [Client thread/INFO]: [CHAT] [MCSG] [1] second until deathmatch!
+[12:48:25] [Client thread/INFO]: [CHAT] [MCSG] Fight to the death!
+[12:48:26] [Client thread/INFO]: [CHAT] [MCSG] [3] minutes until the deathmatch ends!
+[12:48:38] [Client thread/INFO]: [CHAT] [*] Want to start your own Minecraft server? Check out this link to get 15% off at CubedHost! https://cubedhost.org/mcsg
+[12:48:45] [Client thread/INFO]: [CHAT] [MCSG] Please return to spawn!
+[12:48:47] [Client thread/INFO]: [CHAT] [MCSG] Please return to spawn!
+[12:48:50] [Client thread/INFO]: [CHAT] [MCSG] Please return to spawn!
+[12:48:53] [Client thread/INFO]: [CHAT] [MCSG] Please return to spawn!
+[12:48:56] [Client thread/INFO]: [CHAT] [MCSG] Please return to spawn!
+[12:48:59] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[12:48:59] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:48:59] [Client thread/INFO]: [CHAT] [MCSG] Please return to spawn!
+[12:49:08] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:49:18] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:49:18] [Client thread/INFO]: [CHAT] [MCSG] The games have ended!
+[12:49:18] [Client thread/INFO]: [CHAT] [MCSG] PoptartPig has won the Survival Games!
+[12:49:27] [Client thread/INFO]: [CHAT] [0]7|PoptartPig: gg guyss
+[12:49:28] [Client thread/INFO]: [CHAT] [MCSG] Teleporting to PoptartPig.
+[12:49:29] [Client thread/INFO]: [CHAT] [MCSG] The server needs to restart. Please rejoin in a moment.
+[12:49:31] [Client thread/INFO]: [CHAT] srl3tv left the game.
+[12:49:31] [Client thread/INFO]: [CHAT] PoptartPig left the game.
+[12:49:31] [Client thread/INFO]: [CHAT] GlamourCraft left the game.
+[12:49:31] [Client thread/INFO]: [CHAT] [Kicked] The game has ended! The next game will begin shortly.
+[12:49:32] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[12:49:32] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[12:49:32] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[12:49:32] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[12:49:32] [Client thread/INFO]: [CHAT] [678]EpicNessISMe: im sorry ihighlight
+[12:49:32] [Client thread/INFO]: [CHAT] [1042]Rayray4599: Cherryblossom216
+[12:49:38] [Client thread/INFO]: [CHAT] [1387]KingBenji123: join 72
+[12:49:42] [Client thread/INFO]: [CHAT] [678]EpicNessISMe: my sprint key literally glitched out if you saw the fight
+[12:49:42] [Client thread/INFO]: [CHAT] [210]JustOneTomaThrow: skullnight10 MystyQui hacks
+[12:49:48] [Client thread/INFO]: [CHAT] [210]JustOneTomaThrow: And you killed him
+[12:50:00] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[12:50:01] [Client thread/INFO]: [CHAT] [138]bobbyjanks has joined.
+[12:50:01] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 196!
+[12:50:01] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[12:50:01] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[12:50:01] [Client thread/INFO]: [CHAT]                          
+[12:50:08] [Client thread/INFO]: [CHAT] [58]starkink: cake!!!!!!!!!!!!!
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [10/24]. Game requires [12] to play.
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Holiday Resort
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 4 Votes | 66.67% Chance | Breeze Island
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Dracarys
+[12:50:08] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 2 Votes | 33.33% Chance | The Eye of Horus
+[12:50:10] [Client thread/INFO]: [CHAT] [95]Aiden_Fletcher has joined.
+[12:50:10] [Client thread/INFO]: [CHAT] [44]sejesejmon has joined.
+[12:50:11] [Client thread/INFO]: [CHAT] [258]chacha607 has joined.
+[12:50:11] [Client thread/INFO]: [CHAT] [44]sejesejmon has left.
+[12:50:12] [Client thread/INFO]: [CHAT] [24]AvaandNiamh has joined.
+[12:50:15] [Client thread/INFO]: [CHAT] [MCSG] Your map now has [5] votes.
+[12:50:17] [Client thread/INFO]: [CHAT] [35]Scorpius101 has joined.
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] [2] minutes until lobby ends!
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [14/24]. Game requires [12] to play.
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Holiday Resort
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 5 Votes | 71.43% Chance | Breeze Island
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Dracarys
+[12:50:17] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 2 Votes | 28.57% Chance | The Eye of Horus
+[12:50:19] [Client thread/INFO]: [CHAT] [37]MrsTWRules64: team anyone
+[12:50:19] [Client thread/INFO]: [CHAT] [88]lightboy31 has joined.
+[12:50:19] [Client thread/INFO]: [CHAT] [88]lightboy31 has left.
+[12:50:25] [Client thread/INFO]: [CHAT] [211]RandomMonkey246 has joined.
+[12:50:30] [Client thread/INFO]: [CHAT] [707]Glowcraftgaming7 has joined.
+[12:50:30] [Client thread/INFO]: [CHAT] [707]Glowcraftgaming7 has left.
+[12:50:32] [Client thread/INFO]: [CHAT] [19]0EasyTarget0 has joined.
+[12:50:33] [Client thread/INFO]: [CHAT] [35]Scorpius101: team MrsTWRules64
+[12:50:33] [Client thread/INFO]: [CHAT] [55]Gagne48 has joined.
+[12:50:34] [Client thread/INFO]: [CHAT] [431]ivoryknights has joined.
+[12:50:34] [Client thread/INFO]: [CHAT] [736]ThePigColony has joined.
+[12:50:35] [Client thread/INFO]: [CHAT] [22]captainnoe has joined.
+[12:50:38] [Client thread/INFO]: [CHAT] [37]MrsTWRules64: ya Scorpius101
+[12:50:40] [Client thread/INFO]: [CHAT] [163]samcarly9O has joined.
+[12:50:43] [Client thread/INFO]: [CHAT] [167]Mine_son100 has joined.
+[12:50:46] [Client thread/INFO]: [CHAT] [35]Scorpius101: cool come 2 cake room
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] [1.5] minutes until lobby ends!
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [22/24]. Game requires [12] to play.
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Holiday Resort
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 5 Votes | 71.43% Chance | Breeze Island
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Dracarys
+[12:50:47] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 2 Votes | 28.57% Chance | The Eye of Horus
+[12:50:50] [Client thread/INFO]: [CHAT] [98]ZingMerway: team say 123
+[12:51:04] [Client thread/INFO]: [CHAT] [109]kidzbop22: i am famouse i am in the kidz bop commercal
+[12:51:12] [Client thread/INFO]: [CHAT] [58]starkink: lier
+[12:51:15] [Client thread/INFO]: [CHAT] [35]Scorpius101: team us 4
+[12:51:15] [Client thread/INFO]: [CHAT] [163]samcarly9O: .....
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until lobby ends!
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [22/24]. Game requires [12] to play.
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Holiday Resort
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 6 Votes | 75% Chance | Breeze Island
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Dracarys
+[12:51:17] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 2 Votes | 25% Chance | The Eye of Horus
+[12:51:20] [Client thread/INFO]: [CHAT] [55]Gagne48: YES
+[12:51:25] [Client thread/INFO]: [CHAT] [35]Scorpius101: cool
+[12:51:25] [Client thread/INFO]: [CHAT] [37]MrsTWRules64: omg i love ur skin Scorpius101
+[12:51:30] [Client thread/INFO]: [CHAT] [109]kidzbop22: no i am not kidding
+[12:51:37] [Client thread/INFO]: [CHAT] [35]Scorpius101: thx urs 2 <3
+[12:51:38] [Client thread/INFO]: [CHAT] [918]EliteGrizzly has joined.
+[12:51:40] [Client thread/INFO]: [CHAT] [58]starkink: ok
+[12:51:40] [Client thread/INFO]: [CHAT] [163]samcarly9O: idc
+[12:51:44] [Client thread/INFO]: [CHAT] [294]peewee2239 has joined.
+[12:51:44] [Client thread/INFO]: [CHAT] [37]MrsTWRules64: <3
+[12:51:45] [Client thread/INFO]: [CHAT] [918]EliteGrizzly has left.
+[12:51:46] [Client thread/INFO]: [CHAT] [211]RandomMonkey246 has left.
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [22/24]. Game requires [12] to play.
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Holiday Resort
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 7 Votes | 77.78% Chance | Breeze Island
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | The Fallen Empire v2.0
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 0 Votes | 0% Chance | Breeze Island 2
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Dracarys
+[12:51:47] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 2 Votes | 22.22% Chance | The Eye of Horus
+[12:51:53] [Client thread/INFO]: [CHAT] [58]starkink: ready guys
+[12:51:53] [Client thread/INFO]: [CHAT] [40]sarabekah: wait who are we folow ing
+[12:52:06] [Client thread/INFO]: [CHAT] [163]samcarly9O: can i team?
+[12:52:07] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[12:52:08] [Client thread/INFO]: [CHAT] [109]nikakool456 has joined.
+[12:52:12] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[12:52:13] [Client thread/INFO]: [CHAT] [35]Scorpius101: yesss
+[12:52:13] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[12:52:14] [Client thread/INFO]: [CHAT] [98]ZingMerway: me
+[12:52:14] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[12:52:15] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[12:52:16] [Client thread/INFO]: [CHAT] [163]samcarly9O: ok
+[12:52:16] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[12:52:17] [Client thread/INFO]: [CHAT] [35]Scorpius101: sure us 4
+[12:52:18] [Client thread/INFO]: [CHAT] [MCSG] Map name: Breeze Island
+[12:52:18] [Client thread/INFO]: [CHAT] [MCSG] Map author: static_nightmare
+[12:52:18] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://goo.gl/XvFx8
+[12:52:18] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[12:52:19] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[12:52:31] [Client thread/INFO]: [CHAT] [0]5|MrsTWRules64: k
+[12:52:33] [Client thread/INFO]: [CHAT] [0]2|kidzbop22: stampy
+[12:52:34] [Client thread/INFO]: [CHAT] [0]11|starkink: were folloing butter rules
+[12:52:37] [Client thread/INFO]: [CHAT] [0]11|Scorpius101: follow me
+[12:52:38] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[12:52:40] [Client thread/INFO]: [CHAT] [0]5|MrsTWRules64: kk
+[12:52:41] [Client thread/INFO]: [CHAT] [0]10|210_assassin: l
+[12:52:43] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[12:52:44] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[12:52:45] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[12:52:45] [Client thread/INFO]: [CHAT] [0]8|ZingMerway: bajan
+[12:52:46] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[12:52:47] [Client thread/INFO]: [CHAT] [0]11|Scorpius101: were awesome
+[12:52:47] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[12:52:48] [Client thread/INFO]: [CHAT] [0]11|starkink: look
+[12:52:48] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[12:52:49] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[12:53:32] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[12:53:32] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[12:53:32] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:53:38] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[12:53:41] [Client thread/INFO]: [CHAT] [98]ZingMerway has left.
+[12:53:42] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[12:53:42] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[12:53:42] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:53:46] [Client thread/INFO]: [CHAT] [21]captainnoe has left.
+[12:54:57] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[12:54:57] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[12:54:57] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:55:04] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[12:55:04] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:55:04] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:55:14] [Client thread/INFO]: [CHAT] [MCSG] Only [18] tributes remain!
+[12:55:14] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[12:55:14] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:55:15] [Client thread/INFO]: [CHAT] [704]ThePigColony has left.
+[12:55:17] [Client thread/INFO]: [CHAT] [MCSG] Only [17] tributes remain!
+[12:55:17] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[12:55:17] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:55:20] [Client thread/INFO]: [CHAT] [159]Mine_son100 has left.
+[12:55:28] [Client thread/INFO]: [CHAT] [23]AvaandNiamh has left.
+[12:56:29] [Client thread/INFO]: [CHAT] [MCSG] Only [16] tributes remain!
+[12:56:29] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[12:56:29] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:56:30] [Client thread/INFO]: [CHAT] [MCSG] Only [15] tributes remain!
+[12:56:30] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[12:56:30] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:56:33] [Client thread/INFO]: [CHAT] [MCSG] Only [14] tributes remain!
+[12:56:33] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[12:56:33] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:56:38] [Client thread/INFO]: [CHAT] [104]nikakool456 has left.
+[12:56:40] [Client thread/INFO]: [CHAT] [100]Dollarless has joined.
+[12:56:51] [Client thread/INFO]: [CHAT] [14]peewee2239 has left.
+[12:56:51] [Client thread/INFO]: [CHAT] [MCSG] Only [13] tributes remain!
+[12:56:51] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[12:56:51] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:56:55] [Client thread/INFO]: [CHAT] [MCSG] Only [12] tributes remain!
+[12:56:55] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[12:56:55] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:56:58] [Client thread/INFO]: [CHAT] [MCSG] Only [11] tributes remain!
+[12:56:58] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[12:56:58] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:57:01] [Client thread/INFO]: [CHAT] [MCSG] Only [10] tributes remain!
+[12:57:01] [Client thread/INFO]: [CHAT] [MCSG] There are [7] spectators watching the game.
+[12:57:01] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:57:07] [Client thread/INFO]: [CHAT] [393]maxzieman has left.
+[12:57:09] [Client thread/INFO]: [CHAT] [19]0EasyTarget0 has left.
+[12:57:10] [Client thread/INFO]: [CHAT] [393]maxzieman has joined.
+[12:57:15] [Client thread/INFO]: [CHAT] [393]maxzieman has left.
+[12:57:18] [Client thread/INFO]: [CHAT] [MCSG] Only [9] tributes remain!
+[12:57:18] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[12:57:18] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:57:23] [Client thread/INFO]: [CHAT] [95]Aiden_Fletcher has left.
+[12:57:32] [Client thread/INFO]: [CHAT] [95]_baseball_2 has joined.
+[12:57:47] [Client thread/INFO]: [CHAT] [95]_baseball_2 has left.
+[12:57:50] [Client thread/INFO]: [CHAT] [MCSG] [25] minutes until deathmatch!
+[12:57:52] [Client thread/INFO]: [CHAT] [MCSG] Only [8] tributes remain!
+[12:57:52] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[12:57:52] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:57:56] [Client thread/INFO]: [CHAT] [268]Alexander_Edmund has left.
+[12:58:38] [Client thread/INFO]: [CHAT] [*] Too many players in the hub? Right-click your clock!
+[12:58:49] [Client thread/INFO]: [CHAT] [MCSG] Only [7] tributes remain!
+[12:58:49] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[12:58:49] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:58:51] [Client thread/INFO]: [CHAT] [114]kidzbop22 has left.
+[12:59:05] [Client thread/INFO]: [CHAT] [246]chacha607 has left.
+[12:59:08] [Client thread/INFO]: [CHAT] [MCSG] Only [6] tributes remain!
+[12:59:08] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[12:59:08] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:59:09] [Client thread/INFO]: [CHAT] [114]kidzbop22 has joined.
+[12:59:11] [Client thread/INFO]: [CHAT] [36]MrsTWRules64 has left.
+[12:59:19] [Client thread/INFO]: [CHAT] [0]11|Scorpius101: team' s
+[12:59:20] [Client thread/INFO]: [CHAT] [MCSG] Only [5] tributes remain!
+[12:59:20] [Client thread/INFO]: [CHAT] [MCSG] There are [6] spectators watching the game.
+[12:59:20] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[12:59:45] [Client thread/INFO]: [CHAT] [53]Gagne48 has left.
+[13:00:21] [Client thread/INFO]: [CHAT] [100]Dollarless has left.
+[13:01:31] [Client thread/INFO]: [CHAT] [MCSG] Only [4] tributes remain!
+[13:01:31] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[13:01:31] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:01:47] [Client thread/INFO]: [CHAT] [34]Scorpius101 has left.
+[13:02:12] [Client thread/INFO]: [CHAT] [MCSG] Only [3] tributes remain!
+[13:02:12] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[13:02:12] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:02:14] [Client thread/INFO]: [CHAT] [MCSG] [60] seconds until deathmatch!
+[13:02:44] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until deathmatch!
+[13:03:04] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until deathmatch!
+[13:03:09] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until deathmatch!
+[13:03:10] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until deathmatch!
+[13:03:11] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until deathmatch!
+[13:03:12] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until deathmatch!
+[13:03:13] [Client thread/INFO]: [CHAT] [MCSG] [1] second until deathmatch!
+[13:03:14] [Client thread/INFO]: [CHAT] [MCSG] Please allow [10] seconds for all players to load the map.
+[13:03:20] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until deathmatch!
+[13:03:21] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until deathmatch!
+[13:03:22] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until deathmatch!
+[13:03:22] [Client thread/INFO]: [CHAT] [421]ivoryknights has left.
+[13:03:23] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until deathmatch!
+[13:03:24] [Client thread/INFO]: [CHAT] [MCSG] [1] second until deathmatch!
+[13:03:25] [Client thread/INFO]: [CHAT] [MCSG] Fight to the death!
+[13:03:26] [Client thread/INFO]: [CHAT] [MCSG] [3] minutes until the deathmatch ends!
+[13:03:38] [Client thread/INFO]: [CHAT] [*] Check out our website at http://www.mcgamer.net!
+[13:04:10] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[13:04:10] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:04:10] [Client thread/INFO]: [CHAT] [MCSG] Teleporting to samcarly9O.
+[13:04:10] [Client thread/INFO]: [CHAT] [MCSG] You've lost [6] points for dying!
+[13:04:11] [Client thread/INFO]: [CHAT] [MCSG] Teleporting to 210_assassin.
+[13:04:20] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:04:21] [Client thread/INFO]: [CHAT] [MCSG] The games have ended!
+[13:04:21] [Client thread/INFO]: [CHAT] [MCSG] 210_assassin has won the Survival Games!
+[13:04:24] [Client thread/INFO]: [CHAT] [173]SPEC|samcarly9O: gg
+[13:04:28] [Client thread/INFO]: [CHAT] [58]SPEC|starkink: good job assian
+[13:04:32] [Client thread/INFO]: [CHAT] [MCSG] The server needs to restart. Please rejoin in a moment.
+[13:04:34] [Client thread/INFO]: [CHAT] butter_rocks01 left the game.
+[13:04:34] [Client thread/INFO]: [CHAT] 210_assassin left the game.
+[13:04:34] [Client thread/INFO]: [CHAT] starkink left the game.
+[13:04:34] [Client thread/INFO]: [CHAT] samcarly9O left the game.
+[13:04:34] [Client thread/INFO]: [CHAT] [Kicked] The game has ended! The next game will begin shortly.
+[13:04:34] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[13:04:35] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[13:04:35] [Client thread/INFO]: [CHAT] [MCGamer] Welcome to the Minecraft Gamer Network!
+[13:04:35] [Client thread/INFO]: [CHAT] [MCGamer] Players are now hidden - use your clock to make them visible again.
+[13:04:54] [Client thread/INFO]: [CHAT] [58]starkink: butter and sara team agin
+[13:04:56] [Client thread/INFO]: [CHAT] [*] Use /hub to go back to the hub at any time!
+[13:04:57] [Client thread/INFO]: [CHAT] [132]bobbyjanks has joined.
+[13:04:57] [Client thread/INFO]: [CHAT] [MCSG] Welcome to US: 184!
+[13:04:57] [Client thread/INFO]: [CHAT] There are [1] new community polls available!
+[13:04:57] [Client thread/INFO]: [CHAT] Use [/poll] to check them out and help improve the game.
+[13:04:57] [Client thread/INFO]: [CHAT]                          
+[13:04:57] [Client thread/INFO]: [CHAT] [508]captaincraft9 has joined.
+[13:05:03] [Client thread/INFO]: [CHAT] [19]nixx23: team anyone
+[13:05:10] [Client thread/INFO]: [CHAT] [63]TheAlbino0 has joined.
+[13:05:15] [Client thread/INFO]: [CHAT] [283]mackcraftPS has joined.
+[13:05:21] [Client thread/INFO]: [CHAT] [116]EarthsHero has joined.
+[13:05:23] [Client thread/INFO]: [CHAT] [116]EarthsHero has left.
+[13:05:23] [Client thread/INFO]: [CHAT] [166]Captaincre3p3r has joined.
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until lobby ends!
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] Players waiting: [24/24]. Game requires [12] to play.
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] Vote using [/vote #].
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] Previous maps played: Winds of Change
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] 1  >  | 1 Votes | 14.29% Chance | Solar Frost
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] 2  >  | 0 Votes | 0% Chance | Remnant
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] 3  >  | 6 Votes | 85.71% Chance | Demon's Breeze
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] 4  >  | 0 Votes | 0% Chance | Teweran Survival Games
+[13:05:24] [Client thread/INFO]: [CHAT] [MCSG] 5  >  | 0 Votes | 0% Chance | Origins (Requiem v2.0)
+[13:05:37] [Client thread/INFO]: [CHAT] [19]nixx23: team anyone
+[13:05:44] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until lobby ends!
+[13:05:47] [Client thread/INFO]: [CHAT] [265]Blackgod47: me NinjaGamingXD
+[13:05:49] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until lobby ends!
+[13:05:50] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until lobby ends!
+[13:05:51] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until lobby ends!
+[13:05:52] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until lobby ends!
+[13:05:53] [Client thread/INFO]: [CHAT] [MCSG] [1] second until lobby ends!
+[13:05:53] [Client thread/INFO]: [CHAT] [265]Blackgod47: me nixx23
+[13:05:54] [Client thread/INFO]: [CHAT] [MCSG] Map name: Demon's Breeze
+[13:05:54] [Client thread/INFO]: [CHAT] [MCSG] Map author: Jstame and DatCrew
+[13:05:54] [Client thread/INFO]: [CHAT] [MCSG] Map link: http://bit.ly/mcsg-demons-breeze
+[13:05:54] [Client thread/INFO]: [CHAT] [MCSG] Please wait [30] seconds before the games begin.
+[13:05:56] [Client thread/INFO]: [CHAT] [MCSG] [30] seconds until the games begin!
+[13:06:07] [Client thread/INFO]: [CHAT] [0]9|Blackgod47: me nixx23
+[13:06:15] [Client thread/INFO]: [CHAT] [MCSG] [10] seconds until the games begin!
+[13:06:18] [Client thread/INFO]: [CHAT] [0]2|nixx23: ok
+[13:06:20] [Client thread/INFO]: [CHAT] [MCSG] [5] seconds until the games begin!
+[13:06:20] [Client thread/INFO]: [CHAT] [0]11|huesitogamerpro: puto action de #@%&
+[13:06:21] [Client thread/INFO]: [CHAT] [MCSG] [4] seconds until the games begin!
+[13:06:22] [Client thread/INFO]: [CHAT] [MCSG] [3] seconds until the games begin!
+[13:06:23] [Client thread/INFO]: [CHAT] [MCSG] [2] seconds until the games begin!
+[13:06:24] [Client thread/INFO]: [CHAT] [MCSG] [1] second until the games begin!
+[13:06:25] [Client thread/INFO]: [CHAT] [MCSG] The games have begun!
+[13:06:26] [Client thread/INFO]: [CHAT] [MCSG] [30] minutes until deathmatch!
+[13:06:52] [Client thread/INFO]: [CHAT] [MCSG] Only [23] tributes remain!
+[13:06:52] [Client thread/INFO]: [CHAT] [MCSG] There are [1] spectators watching the game.
+[13:06:52] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:06:53] [Client thread/INFO]: [CHAT] [MCSG] Only [22] tributes remain!
+[13:06:53] [Client thread/INFO]: [CHAT] [MCSG] There are [2] spectators watching the game.
+[13:06:53] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:06:55] [Client thread/INFO]: [CHAT] [MCSG] Only [21] tributes remain!
+[13:06:55] [Client thread/INFO]: [CHAT] [MCSG] There are [3] spectators watching the game.
+[13:06:55] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:07:01] [Client thread/INFO]: [CHAT] [MCSG] Only [20] tributes remain!
+[13:07:01] [Client thread/INFO]: [CHAT] [MCSG] There are [4] spectators watching the game.
+[13:07:01] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:07:05] [Client thread/INFO]: [CHAT] [MCSG] You have been eliminated from the games.
+[13:07:05] [Client thread/INFO]: [CHAT] [MCSG] Only [19] tributes remain!
+[13:07:05] [Client thread/INFO]: [CHAT] [MCSG] There are [5] spectators watching the game.
+[13:07:05] [Client thread/INFO]: [CHAT] A cannon can be heard in the distance.
+[13:07:05] [Client thread/INFO]: [CHAT] [MCSG] Teleporting to XxjohangamexX.
+[13:07:05] [Client thread/INFO]: [CHAT] [MCSG] You've lost [6] points for dying!
+[13:07:06] [Client thread/INFO]: [CHAT] [0]2|nixx23: team
+[13:07:06] [Client thread/INFO]: [CHAT] [79]Alexamurillo has left.
+[13:07:12] [Client thread/INFO]: [CHAT] [105]toequila has joined.
+[13:07:19] [Client thread/INFO]: Stopping!

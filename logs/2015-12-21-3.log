@@ -1,0 +1,144 @@
+[12:43:52] [main/INFO]: Setting user: bobbyjanks
+[12:43:52] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:43:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[12:43:56] [Sound Library Loader/INFO]: Sound engine started
+[12:43:58] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[12:43:59] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[12:43:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[12:43:59] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[12:44:01] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[12:44:02] [Sound Library Loader/INFO]: Sound engine started
+[12:44:07] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:44:07] [Server thread/INFO]: Generating keypair
+[12:44:08] [Server thread/INFO]: Preparing start region for level 0
+[12:44:09] [Server thread/INFO]: Preparing spawn area: 81%
+[12:44:09] [Server thread/INFO]: Changing view distance to 16, from 10
+[12:44:10] [Server thread/INFO]: bobbyjanks[local:E:fd743db4] logged in with entity id 122 at (79.34924698009121, 65.1764364443226, -1166.3685910312643)
+[12:44:10] [Server thread/INFO]: bobbyjanks joined the game
+[13:13:13] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[13:25:17] [Client thread/INFO]: Warning: Clientside chunk ticking took 467 ms
+[13:26:10] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to 1.5,70.5,1.5]
+[13:26:10] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to 1.5,70.5,1.5
+[13:26:14] [Server thread/INFO]: [@: Teleported bobbyjanks to 15.5,65.5,1.5]
+[13:26:14] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to 15.5,65.5,1.5]
+[13:26:31] [Server thread/INFO]: Saving and pausing game...
+[13:26:31] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:26:31] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:26:31] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:27:07] [Server thread/INFO]: Saving and pausing game...
+[13:27:07] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:27:07] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:27:07] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:27:53] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to 123.5,68.5,-1164.5]
+[13:27:53] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to 123.5,68.5,-1164.5
+[13:28:12] [Server thread/INFO]: Saving and pausing game...
+[13:28:12] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:28:12] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:28:12] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:28:25] [Client thread/INFO]: [CHAT] Command set: /tp @p -3 65 8
+[13:28:45] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:28:45] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:28:50] [Server thread/INFO]: Saving and pausing game...
+[13:28:50] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:28:50] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:28:50] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:29:05] [Client thread/INFO]: [CHAT] Command set: /tp @p 123 60 -1164
+[13:29:07] [Server thread/INFO]: [@: Teleported bobbyjanks to 123.5,60.5,-1163.5]
+[13:29:07] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to 123.5,60.5,-1163.5]
+[13:29:40] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:29:40] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:29:51] [Server thread/INFO]: Saving and pausing game...
+[13:29:51] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:29:51] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:29:51] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:30:08] [Server thread/INFO]: [@: Teleported bobbyjanks to -537.5,64.5,-1279.5]
+[13:30:08] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -537.5,64.5,-1279.5]
+[13:30:39] [Server thread/INFO]: Saving and pausing game...
+[13:30:39] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:30:39] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:30:39] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:30:48] [Client thread/INFO]: [CHAT] Command set: /tp @p -3 65 8
+[13:31:28] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:31:28] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:31:32] [Server thread/INFO]: Saving and pausing game...
+[13:31:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:31:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:31:32] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:31:49] [Client thread/INFO]: [CHAT] Command set: /tp @p -640 70 -1300
+[13:31:50] [Server thread/INFO]: [@: Teleported bobbyjanks to -639.5,70.5,-1299.5]
+[13:31:50] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -639.5,70.5,-1299.5]
+[13:32:19] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:32:19] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:32:23] [Server thread/INFO]: Saving and pausing game...
+[13:32:23] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:32:23] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:32:23] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:32:28] [Client thread/INFO]: [CHAT] Command set: /tp @p -690 70 -1300
+[13:32:29] [Server thread/INFO]: [@: Teleported bobbyjanks to -689.5,70.5,-1299.5]
+[13:32:29] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -689.5,70.5,-1299.5]
+[13:32:38] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:32:38] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:32:43] [Server thread/INFO]: [@: Teleported bobbyjanks to 123.5,60.5,-1163.5]
+[13:32:43] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to 123.5,60.5,-1163.5]
+[13:33:05] [Server thread/INFO]: Saving and pausing game...
+[13:33:05] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:33:05] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:33:05] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:33:15] [Client thread/INFO]: [CHAT] Command set: /tp @p -3 65 8
+[13:33:16] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:33:16] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:33:21] [Server thread/INFO]: [@: Teleported bobbyjanks to -537.5,64.5,-1279.5]
+[13:33:21] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -537.5,64.5,-1279.5]
+[13:33:55] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to 1.5,70.5,1.5]
+[13:33:55] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to 1.5,70.5,1.5
+[13:33:59] [Server thread/INFO]: [@: Teleported bobbyjanks to 15.5,65.5,1.5]
+[13:33:59] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to 15.5,65.5,1.5]
+[13:34:07] [Server thread/INFO]: Saving and pausing game...
+[13:34:07] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:34:07] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:34:07] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:34:36] [Server thread/INFO]: Saving and pausing game...
+[13:34:36] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:34:36] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:34:36] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:34:48] [Client thread/INFO]: [CHAT] Command set: /tp @p -3 65 8
+[13:34:49] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:34:49] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[13:35:12] [Server thread/INFO]: Saving and pausing game...
+[13:35:12] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:35:12] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:35:12] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:35:21] [Server thread/INFO]: Saving and pausing game...
+[13:35:21] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[13:35:21] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[13:35:21] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[13:35:37] [Client thread/INFO]: [CHAT] Command set: /tp @p -566 64 -1322
+[13:35:38] [Server thread/INFO]: [@: Teleported bobbyjanks to -565.5,64.5,-1321.5]
+[13:35:38] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -565.5,64.5,-1321.5]
+[13:39:56] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -499.5,65.5,-1299.5]
+[13:39:56] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -499.5,65.5,-1299.5
+[14:34:42] [Server thread/INFO]: [bobbyjanks: Set the time to 1]
+[14:34:42] [Client thread/INFO]: [CHAT] Set the time to 1
+[14:45:35] [Server thread/INFO]: [bobbyjanks: Set the time to 1]
+[14:45:35] [Client thread/INFO]: [CHAT] Set the time to 1
+[15:00:55] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -639.5,80.5,-1299.5]
+[15:00:55] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -639.5,80.5,-1299.5
+[15:25:47] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -499.5,65.5,-499.5]
+[15:25:47] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -499.5,65.5,-499.5
+[15:26:41] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -639.5,80.5,-1299.5]
+[15:26:42] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -639.5,80.5,-1299.5
+[15:28:00] [Server thread/INFO]: Saving and pausing game...
+[15:28:00] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[15:28:00] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[15:28:00] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[15:29:25] [Server thread/INFO]: Saving and pausing game...
+[15:29:25] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[15:29:25] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[15:29:25] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[15:29:26] [Server thread/INFO]: Stopping server
+[15:29:26] [Server thread/INFO]: Saving players
+[15:29:26] [Server thread/INFO]: Saving worlds
+[15:29:26] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[15:29:26] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[15:29:26] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[15:29:27] [Client thread/INFO]: Stopping!

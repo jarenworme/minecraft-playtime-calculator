@@ -1,0 +1,234 @@
+[19Feb2020 18:08:39.688] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, bobbyjanks, --version, 1.14.2-forge-26.0.63, --gameDir, C:\Users\User\AppData\Roaming\.minecraft, --assetsDir, C:\Users\User\AppData\Roaming\.minecraft\assets, --assetIndex, 1.14, --uuid, e8537636227e40beaf7a9d3e3b7e9748, --accessToken, ????????, --userType, mojang, --versionType, release, --launchTarget, fmlclient, --fml.forgeVersion, 26.0.63, --fml.mcVersion, 1.14.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20190603.175704]
+[19Feb2020 18:08:39.714] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher starting: java version 1.8.0_51 by Oracle Corporation
+[19Feb2020 18:08:40.265] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[19Feb2020 18:08:41.022] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, 1.14.2-forge-26.0.63, --gameDir, C:\Users\User\AppData\Roaming\.minecraft, --assetsDir, C:\Users\User\AppData\Roaming\.minecraft\assets, --username, bobbyjanks, --assetIndex, 1.14, --uuid, e8537636227e40beaf7a9d3e3b7e9748, --accessToken, ????????, --userType, mojang, --versionType, release]
+[19Feb2020 18:08:43.256] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: bobbyjanks
+[19Feb2020 18:08:44.136] [Client thread/INFO] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
+[19Feb2020 18:08:52.410] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: textBackgroundOpacity:
+[19Feb2020 18:08:52.483] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.1 build 12
+[19Feb2020 18:08:55.309] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 26.0.63, for MC 1.14.2 with MCP 20190603.175704
+[19Feb2020 18:08:55.309] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v26.0.63 Initialized
+[19Feb2020 18:08:58.379] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[19Feb2020 18:08:58.650] [Client thread/INFO] [com.mojang.realmsclient.plugin.RealmsPluginImpl/]: Built for minecraft version 1.14.2
+[19Feb2020 18:09:04.990] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[19Feb2020 18:09:05.215] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19Feb2020 18:09:05.599] [modloading-worker-3/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.0.1-beta-01;c97071c) is loaded
+[19Feb2020 18:09:05.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 26.0.63 Target: 26.0.63
+[19Feb2020 18:09:06.208] [Server-Worker-3/WARN] [net.minecraft.client.gui.fonts.providers.TextureGlyphProvider/]: Codepoint '1ed0' declared multiple times in minecraft:textures/font/accented.png
+[19Feb2020 18:09:12.213] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: textBackgroundOpacity:
+[19Feb2020 18:09:12.505] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[19Feb2020 18:09:12.532] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[19Feb2020 18:09:12.931] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 2048x2048 textures-atlas
+[19Feb2020 18:09:15.122] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 2048x2048 textures/particle-atlas
+[19Feb2020 18:09:15.162] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x1024 textures/painting-atlas
+[19Feb2020 18:09:15.171] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures/mob_effect-atlas
+[19Feb2020 18:09:25.466] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19Feb2020 18:09:25.467] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2020 18:09:25.468] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2020 18:09:25.469] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19Feb2020 18:09:25.470] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19Feb2020 18:09:25.547] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.14.2
+[19Feb2020 18:09:25.547] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[19Feb2020 18:09:25.622] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[19Feb2020 18:09:25.771] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: WorldEdit-1.14.2 (1).jar, forge-1.14.2-26.0.63-universal.jar, Default
+[19Feb2020 18:09:26.972] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[19Feb2020 18:09:29.101] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[19Feb2020 18:09:29.340] [Server thread/ERROR] [net.minecraft.world.storage.DimensionSavedDataManager/]: Error loading saved data: raids
+java.io.IOException: Root tag must be a named compound tag
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:97) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:89) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215755_a(DimensionSavedDataManager.java:85) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215753_b(DimensionSavedDataManager.java:56) [?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215752_a(DimensionSavedDataManager.java:37) [?:?]
+	at net.minecraft.world.ServerWorld.<init>(ServerWorld.java:165) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213194_a(MinecraftServer.java:353) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:76) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:94) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:586) [?:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[19Feb2020 18:09:29.380] [Server thread/ERROR] [net.minecraft.world.storage.DimensionSavedDataManager/]: Error loading saved data: capabilities
+java.io.IOException: Root tag must be a named compound tag
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:97) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:89) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215755_a(DimensionSavedDataManager.java:85) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215753_b(DimensionSavedDataManager.java:56) [?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215752_a(DimensionSavedDataManager.java:37) [?:?]
+	at net.minecraft.world.ServerWorld.initCapabilities(ServerWorld.java:1315) [?:?]
+	at net.minecraft.world.ServerWorld.<init>(ServerWorld.java:173) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213194_a(MinecraftServer.java:353) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:76) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:94) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:586) [?:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[19Feb2020 18:09:29.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19Feb2020 18:09:30.928] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2020 18:09:30.928] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2020 18:09:30.928] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2020 18:09:30.961] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[19Feb2020 18:09:31.468] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[19Feb2020 18:09:31.504] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2044 ms
+[19Feb2020 18:09:32.365] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@45a7bda7]
+[19Feb2020 18:09:32.831] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[19Feb2020 18:09:33.503] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Feb2020 18:09:33.503] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Feb2020 18:09:33.504] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 30, from 10
+[19Feb2020 18:09:34.859] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[19Feb2020 18:09:35.222] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: bobbyjanks[local:E:7733fe0a] logged in with entity id 22 at (5047.5, 65.0, 4950.5)
+[19Feb2020 18:09:35.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bobbyjanks joined the game
+[19Feb2020 18:09:36.696] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 478 advancements
+[19Feb2020 18:09:37.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
+[19Feb2020 18:11:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bobbyjanks: Teleported bobbyjanks to -2.5, 65.0, 8.5]
+[19Feb2020 18:11:37.697] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Teleported bobbyjanks to -2.5, 65.0, 8.5
+[19Feb2020 18:11:57.717] [Client thread/WARN] [net.minecraft.client.network.play.ClientPlayNetHandler/]: Received passengers for unknown entity
+[19Feb2020 18:14:39.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3965ms or 79 ticks behind
+[19Feb2020 18:14:58.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bobbyjanks to 553.5, 70.0, -6.5]
+[19Feb2020 18:14:58.064] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] [@: Teleported bobbyjanks to 553.5, 70.0, -6.5]
+[19Feb2020 18:15:00.641] [Client thread/WARN] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Unable to play empty soundEvent: minecraft:entity.tropical_fish.ambient
+[19Feb2020 18:19:43.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
+[19Feb2020 18:20:14.705] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[19Feb2020 18:20:14.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Planet Bobbyjanks'/minecraft:overworld
+[19Feb2020 18:22:38.752] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (416, 65, -19).
+[19Feb2020 18:28:08.720] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 90 block(s) have been created.
+[19Feb2020 18:41:04.706] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (390, 65, -18) (54).
+[19Feb2020 18:41:11.052] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (435, 65, 19) (1748).
+[19Feb2020 18:41:17.224] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 1748 block(s) moved.
+[19Feb2020 18:57:56.095] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 622 block(s) have been created.
+[19Feb2020 19:18:04.123] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (413, 66, -16) (1656).
+[19Feb2020 19:18:05.793] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (419, 65, -16) (14).
+[19Feb2020 19:18:06.403] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (419, 66, -16) (7).
+[19Feb2020 19:18:06.907] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (419, 65, -16) (14).
+[19Feb2020 19:18:09.963] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 14 block(s) moved.
+[19Feb2020 19:20:14.177] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (413, 64, -6) (154).
+[19Feb2020 19:20:15.763] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (419, 64, -16) (77).
+[19Feb2020 19:20:17.927] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Operation completed (77 blocks affected).
+[19Feb2020 19:23:16.176] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (435, 66, 21) (1938).
+[19Feb2020 19:23:22.960] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (390, 66, -16) (1748).
+[19Feb2020 19:23:28.837] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (390, 66, -18) (1840).
+[19Feb2020 19:23:51.563] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 7360 block(s) changed. Undo with //undo
+[19Feb2020 19:24:21.084] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (424, 65, 12) (2170).
+[19Feb2020 19:24:22.566] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (424, 65, 20) (9).
+[19Feb2020 19:24:23.746] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 36 block(s) changed. Undo with //undo
+[19Feb2020 19:24:52.944] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (390, 70, 11) (2100).
+[19Feb2020 19:25:08.025] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (435, 70, -5) (782).
+[19Feb2020 19:25:14.390] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 782 block(s) changed. Undo with //undo
+[19Feb2020 19:26:01.686] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (435, 71, 2) (16).
+[19Feb2020 19:26:03.767] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (429, 65, 2) (49).
+[19Feb2020 19:26:16.890] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 49 block(s) moved.
+[19Feb2020 19:38:17.200] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (389, 73, 10) (3321).
+[19Feb2020 19:38:22.660] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (436, 72, 11) (192).
+[19Feb2020 19:38:27.040] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (389, 72, 11) (48).
+[19Feb2020 19:38:31.747] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 48 block(s) affected.
+[19Feb2020 19:38:34.413] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (389, 74, 10)
+[19Feb2020 19:38:34.415] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 48 block(s) affected.
+[19Feb2020 19:38:37.288] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (389, 75, 9)
+[19Feb2020 19:38:37.290] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 48 block(s) affected.
+[19Feb2020 19:38:39.611] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (389, 76, 8)
+[19Feb2020 19:38:39.612] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 48 block(s) affected.
+[19Feb2020 19:38:41.520] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (389, 77, 7)
+[19Feb2020 19:38:41.522] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 48 block(s) affected.
+[19Feb2020 19:38:43.179] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (389, 78, 6)
+[19Feb2020 19:38:43.180] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 48 block(s) affected.
+[19Feb2020 19:38:53.960] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (389, 72, 12)
+[19Feb2020 19:38:53.961] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 48 block(s) affected.
+[19Feb2020 19:40:57.404] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (436, 72, -1) (13).
+[19Feb2020 19:41:00.587] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (416, 72, -1) (21).
+[19Feb2020 19:41:05.933] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 21 block(s) affected.
+[19Feb2020 19:41:08.936] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (435, 74, 0)
+[19Feb2020 19:41:08.938] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 21 block(s) affected.
+[19Feb2020 19:41:13.740] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (435, 75, 1)
+[19Feb2020 19:41:13.741] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 21 block(s) affected.
+[19Feb2020 19:41:16.543] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (435, 76, 2)
+[19Feb2020 19:41:16.544] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 21 block(s) affected.
+[19Feb2020 19:41:18.171] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (435, 77, 3)
+[19Feb2020 19:41:18.171] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 21 block(s) affected.
+[19Feb2020 19:41:20.594] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (435, 78, 4)
+[19Feb2020 19:41:20.595] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 21 block(s) affected.
+[19Feb2020 19:41:30.104] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (435, 72, -2)
+[19Feb2020 19:41:30.105] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 21 block(s) affected.
+[19Feb2020 19:44:31.200] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (401, 73, 0) (64).
+[19Feb2020 19:44:33.797] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (390, 73, 0) (12).
+[19Feb2020 19:44:39.370] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 12 block(s) affected.
+[19Feb2020 19:44:41.561] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (390, 75, 1)
+[19Feb2020 19:44:41.563] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 12 block(s) affected.
+[19Feb2020 19:44:43.037] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (390, 76, 2)
+[19Feb2020 19:44:43.040] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 12 block(s) affected.
+[19Feb2020 19:44:44.417] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (390, 77, 3)
+[19Feb2020 19:44:44.418] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 12 block(s) affected.
+[19Feb2020 19:44:46.045] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (390, 78, 4)
+[19Feb2020 19:44:46.046] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 12 block(s) affected.
+[19Feb2020 19:44:50.121] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (401, 72, -10) (264).
+[19Feb2020 19:44:52.514] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (401, 72, -2) (9).
+[19Feb2020 19:44:59.994] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:01.677] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:04.838] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:06.416] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (402, 74, -9)
+[19Feb2020 19:45:06.417] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:07.931] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (403, 75, -9)
+[19Feb2020 19:45:07.932] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:09.298] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (404, 76, -9)
+[19Feb2020 19:45:09.298] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:10.937] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (405, 77, -9)
+[19Feb2020 19:45:10.939] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:20.586] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (406, 78, -9)
+[19Feb2020 19:45:20.587] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:26.570] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (413, 72, -10) (117).
+[19Feb2020 19:45:28.743] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (413, 72, -2) (9).
+[19Feb2020 19:45:35.419] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:37.208] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (412, 74, -9)
+[19Feb2020 19:45:37.209] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:40.095] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (411, 75, -9)
+[19Feb2020 19:45:40.095] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:41.905] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (410, 76, -9)
+[19Feb2020 19:45:41.906] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:43.161] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (409, 77, -9)
+[19Feb2020 19:45:43.162] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:45:44.336] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] The clipboard has been pasted at (408, 78, -9)
+[19Feb2020 19:45:44.337] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 9 block(s) affected.
+[19Feb2020 19:54:42.272] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (419, 71, -6) (70).
+[19Feb2020 19:54:47.532] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (412, 71, -18) (104).
+[19Feb2020 19:54:55.386] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (413, 71, -18) (91).
+[19Feb2020 19:55:01.699] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Operation completed (91 blocks affected).
+[19Feb2020 19:55:04.500] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Operation completed (91 blocks affected).
+[19Feb2020 19:57:22.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bobbyjanks: Teleported bobbyjanks to -2.5, 65.0, 8.5]
+[19Feb2020 19:57:22.242] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Teleported bobbyjanks to -2.5, 65.0, 8.5
+[19Feb2020 19:57:27.842] [Client thread/WARN] [net.minecraft.client.network.play.ClientPlayNetHandler/]: Received passengers for unknown entity
+[19Feb2020 19:57:35.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bobbyjanks to -1302.5, 68.0, -2185.5]
+[19Feb2020 19:57:35.767] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] [@: Teleported bobbyjanks to -1302.5, 68.0, -2185.5]
+[19Feb2020 19:57:58.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bobbyjanks: Teleported bobbyjanks to -2.5, 65.0, 8.5]
+[19Feb2020 19:57:58.379] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Teleported bobbyjanks to -2.5, 65.0, 8.5
+[19Feb2020 19:58:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bobbyjanks to 553.5, 70.0, -6.5]
+[19Feb2020 19:58:03.262] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] [@: Teleported bobbyjanks to 553.5, 70.0, -6.5]
+[19Feb2020 20:00:03.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4712ms or 94 ticks behind
+[19Feb2020 20:08:20.528] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (412, 69, 23) (252).
+[19Feb2020 20:08:27.031] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (412, 72, 13) (44).
+[19Feb2020 20:08:37.142] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 264 block(s) changed. Undo with //undo
+[19Feb2020 20:08:40.712] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 352 block(s) changed. Undo with //undo
+[19Feb2020 20:08:45.020] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 484 block(s) changed. Undo with //undo
+[19Feb2020 20:08:51.696] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 220 block(s) changed. Undo with //undo
+[19Feb2020 20:08:54.370] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 308 block(s) changed. Undo with //undo
+[19Feb2020 20:20:44.311] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (420, 71, -18) (576).
+[19Feb2020 20:20:46.657] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (414, 71, -6) (91).
+[19Feb2020 20:20:49.249] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Operation completed (91 blocks affected).
+[19Feb2020 20:21:44.801] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (412, 71, -6) (117).
+[19Feb2020 20:21:48.924] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] 117 block(s) moved.
+[19Feb2020 20:24:21.490] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] First position set to (417, 72, -2) (60).
+[19Feb2020 20:24:23.447] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Second position set to (429, 72, -5) (52).
+[19Feb2020 20:24:25.753] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Operation completed (52 blocks affected).
+[19Feb2020 20:45:15.557] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[19Feb2020 20:45:15.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Planet Bobbyjanks'/minecraft:overworld
+[19Feb2020 20:45:17.338] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: bobbyjanks lost connection: Disconnected
+[19Feb2020 20:45:17.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bobbyjanks left the game
+[19Feb2020 20:45:17.367] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[19Feb2020 20:45:17.893] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[19Feb2020 20:45:17.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Feb2020 20:45:17.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Feb2020 20:45:17.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Feb2020 20:45:17.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Planet Bobbyjanks'/minecraft:overworld
+[19Feb2020 20:45:18.070] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (Planet Bobbyjanks): All chunks are saved
+[19Feb2020 20:45:18.094] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (Planet Bobbyjanks): All chunks are saved
+[19Feb2020 20:45:19.212] [Client thread/INFO] [com.mojang.realmsclient.plugin.RealmsPluginImpl/]: Built for minecraft version 1.14.2
+[19Feb2020 20:45:19.977] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[19Feb2020 20:45:20.071] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE
+[19Feb2020 20:45:20.071] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE
+[19Feb2020 20:45:20.072] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE
+[19Feb2020 20:45:20.072] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE

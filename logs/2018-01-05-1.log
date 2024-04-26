@@ -1,0 +1,161 @@
+[16:33:53] [main/INFO]: Setting user: bobbyjanks
+[16:33:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:34:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[16:34:10] [Sound Library Loader/INFO]: Sound engine started
+[16:34:12] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[16:34:12] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[16:34:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[16:34:31] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[16:34:55] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[16:34:56] [Sound Library Loader/INFO]: Sound engine started
+[16:35:02] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:35:02] [Server thread/INFO]: Generating keypair
+[16:35:05] [Server thread/INFO]: Preparing start region for level 0
+[16:35:06] [Server thread/INFO]: Preparing spawn area: 4%
+[16:35:07] [Server thread/INFO]: Preparing spawn area: 22%
+[16:35:08] [Server thread/INFO]: Preparing spawn area: 62%
+[16:35:08] [Server thread/INFO]: Changing view distance to 16, from 10
+[16:35:10] [Server thread/INFO]: bobbyjanks[local:E:d0411475] logged in with entity id 0 at (-786.1542213332109, 77.73016628412186, -1633.3482591591435)
+[16:35:10] [Server thread/INFO]: bobbyjanks joined the game
+[16:35:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3181ms behind, skipping 63 tick(s)
+[16:35:34] [Server thread/INFO]: Saving and pausing game...
+[16:35:34] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[16:35:34] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[16:35:34] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[16:43:05] [Client thread/INFO]: [CHAT] §dFirst position set to (-804.0, 63.0, -1641.0).
+[16:43:10] [Client thread/INFO]: [CHAT] §dSecond position set to (-820.0, 63.0, -1634.0) (136).
+[16:43:17] [Client thread/INFO]: [CHAT] §d135 block(s) have been changed.
+[16:52:33] [Server thread/INFO]: Saving and pausing game...
+[16:52:33] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[16:52:33] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[16:52:33] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[18:31:07] [Client thread/INFO]: [CHAT] §dFirst position set to (-803.0, 68.0, -1642.0) (972).
+[18:31:16] [Client thread/INFO]: [CHAT] §dSecond position set to (-821.0, 63.0, -1624.0) (2166).
+[18:31:27] [Client thread/INFO]: [CHAT] §d2166 block(s) were copied.
+[18:31:54] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-803.0, 64.0, -1652.0)
+[18:32:15] [Client thread/INFO]: [CHAT] §dUndo successful.
+[18:32:20] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-803.0, 64.0, -1651.0)
+[18:32:40] [Client thread/INFO]: [CHAT] §dFirst position set to (-803.0, 68.0, -1660.0) (4218).
+[18:33:06] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 68.0, -1660.0) (5106).
+[18:33:35] [Client thread/INFO]: [CHAT] §d5106 block(s) were copied.
+[18:33:45] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-802.0, 70.0, -1659.0)
+[18:34:32] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 69.0, -1660.0) (5957).
+[18:34:35] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 68.0, -1659.0) (4968).
+[18:34:35] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 68.0, -1660.0) (5106).
+[18:34:40] [Client thread/INFO]: [CHAT] §dSecond position set to (-799.0, 69.0, -1624.0) (74).
+[18:34:43] [Client thread/INFO]: [CHAT] §d69 block(s) have been changed.
+[18:39:38] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-802.0, 76.0, -1659.0)
+[18:39:46] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 74.0, -1660.0) (222).
+[18:39:50] [Client thread/INFO]: [CHAT] §dSecond position set to (-799.0, 75.0, -1624.0) (74).
+[18:39:54] [Client thread/INFO]: [CHAT] §d73 block(s) have been changed.
+[18:40:37] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 81.0, -1660.0) (259).
+[18:40:42] [Client thread/INFO]: [CHAT] §dSecond position set to (-821.0, 81.0, -1624.0) (851).
+[18:40:45] [Client thread/INFO]: [CHAT] §d849 block(s) have been changed.
+[18:41:41] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 76.0, -1624.0) (138).
+[18:41:46] [Client thread/INFO]: [CHAT] §dSecond position set to (-799.0, 76.0, -1660.0) (37).
+[18:41:58] [Client thread/INFO]: [CHAT] §d37 block(s) have been changed.
+[18:42:21] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 70.0, -1660.0) (7).
+[18:42:26] [Client thread/INFO]: [CHAT] §dSecond position set to (-799.0, 70.0, -1624.0) (37).
+[18:42:29] [Client thread/INFO]: [CHAT] §d37 block(s) have been changed.
+[20:40:25] [Client thread/INFO]: [CHAT] §dFirst position set to (-800.0, 75.0, -1621.0) (48).
+[20:40:30] [Client thread/INFO]: [CHAT] §dSecond position set to (-820.0, 75.0, -1623.0) (63).
+[20:40:40] [Client thread/INFO]: [CHAT] §cFor parameter 'pattern': Can't figure out what block 'wool grey' refers to
+[20:40:40] [Client thread/INFO]: [CHAT] §cUsage: //set <block>
+[20:41:01] [Client thread/INFO]: [CHAT] §cFor parameter 'pattern': Unknown wool color 'light grey'
+[20:41:01] [Client thread/INFO]: [CHAT] §cUsage: //set <block>
+[20:41:11] [Client thread/INFO]: [CHAT] §d56 block(s) have been changed.
+[20:42:01] [Client thread/INFO]: [CHAT] §dFirst position set to (-820.0, 63.0, -1623.0) (13).
+[20:42:05] [Client thread/INFO]: [CHAT] §dSecond position set to (-800.0, 63.0, -1621.0) (63).
+[20:42:07] [Client thread/INFO]: [CHAT] §d50 block(s) have been changed.
+[20:42:09] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 63.0, -1620.0) (4).
+[20:42:12] [Client thread/INFO]: [CHAT] §dSecond position set to (-821.0, 63.0, -1620.0) (23).
+[20:42:16] [Client thread/INFO]: [CHAT] §d23 block(s) have been changed.
+[20:42:43] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 75.0, -1620.0) (299).
+[20:42:46] [Client thread/INFO]: [CHAT] §dSecond position set to (-821.0, 75.0, -1623.0) (92).
+[20:42:55] [Client thread/INFO]: [CHAT] §d92 block(s) were copied.
+[20:43:04] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-800.0, 70.0, -1625.0)
+[20:44:55] [Client thread/INFO]: [CHAT] §dFirst position set to (-801.0, 63.0, -1595.0) (7917).
+[20:45:00] [Client thread/INFO]: [CHAT] §dSecond position set to (-821.0, 63.0, -1618.0) (504).
+[20:45:07] [Client thread/INFO]: [CHAT] §d504 block(s) have been changed.
+[20:45:09] [Client thread/INFO]: [CHAT] §dFirst position set to (-821.0, 62.0, -1618.0) (2).
+[20:45:14] [Client thread/INFO]: [CHAT] §dSecond position set to (-801.0, 62.0, -1595.0) (504).
+[20:45:18] [Client thread/INFO]: [CHAT] §d504 block(s) have been changed.
+[20:45:19] [Client thread/INFO]: [CHAT] §dFirst position set to (-801.0, 63.0, -1594.0) (4).
+[20:45:23] [Client thread/INFO]: [CHAT] §dSecond position set to (-821.0, 63.0, -1594.0) (21).
+[20:45:24] [Client thread/INFO]: [CHAT] §d21 block(s) have been changed.
+[20:45:25] [Client thread/INFO]: [CHAT] §dFirst position set to (-822.0, 63.0, -1595.0) (4).
+[20:45:36] [Client thread/INFO]: [CHAT] §dSecond position set to (-822.0, 63.0, -1619.0) (25).
+[20:45:37] [Client thread/INFO]: [CHAT] §d25 block(s) have been changed.
+[20:46:55] [Client thread/INFO]: [CHAT] §dFirst position set to (-799.0, 64.0, -1594.0) (1248).
+[20:46:58] [Client thread/INFO]: [CHAT] §dSecond position set to (-799.0, 64.0, -1624.0) (31).
+[20:47:00] [Client thread/INFO]: [CHAT] §d29 block(s) have been changed.
+[20:48:09] [Client thread/INFO]: [CHAT] §dFirst position set to (-817.0, 62.0, -1613.0) (684).
+[20:48:13] [Client thread/INFO]: [CHAT] §dSecond position set to (-804.0, 62.0, -1607.0) (98).
+[20:48:16] [Client thread/INFO]: [CHAT] §d96 block(s) have been changed.
+[20:48:19] [Client thread/INFO]: [CHAT] §dFirst position set to (-806.0, 62.0, -1606.0) (6).
+[20:48:22] [Client thread/INFO]: [CHAT] §dSecond position set to (-815.0, 62.0, -1597.0) (100).
+[20:48:27] [Client thread/INFO]: [CHAT] §d98 block(s) have been changed.
+[20:50:51] [Client thread/INFO]: [CHAT] §dFirst position set to (-818.0, 61.0, -1613.0) (136).
+[20:51:00] [Client thread/INFO]: [CHAT] §dSecond position set to (-804.0, 61.0, -1606.0) (120).
+[20:51:02] [Client thread/INFO]: [CHAT] §d120 block(s) have been changed.
+[20:51:04] [Client thread/INFO]: [CHAT] §dFirst position set to (-807.0, 61.0, -1605.0) (8).
+[20:51:05] [Client thread/INFO]: [CHAT] §dFirst position set to (-806.0, 61.0, -1605.0) (6).
+[20:51:08] [Client thread/INFO]: [CHAT] §dSecond position set to (-816.0, 61.0, -1596.0) (110).
+[20:51:10] [Client thread/INFO]: [CHAT] §d110 block(s) have been changed.
+[20:53:18] [Client thread/INFO]: [CHAT] §dFirst position set to (-815.0, 60.0, -1603.0) (32).
+[20:53:24] [Client thread/INFO]: [CHAT] §dSecond position set to (-806.0, 60.0, -1595.0) (90).
+[20:53:26] [Client thread/INFO]: [CHAT] §d90 block(s) have been changed.
+[20:53:31] [Client thread/INFO]: [CHAT] §dFirst position set to (-817.0, 60.0, -1606.0) (144).
+[20:53:37] [Client thread/INFO]: [CHAT] §dSecond position set to (-806.0, 60.0, -1613.0) (96).
+[20:53:38] [Client thread/INFO]: [CHAT] §d96 block(s) have been changed.
+[20:54:59] [Client thread/INFO]: [CHAT] §dSecond position set to (-804.0, 60.0, -1611.0) (84).
+[20:55:02] [Client thread/INFO]: [CHAT] §d72 block(s) have been changed.
+[21:00:08] [Client thread/INFO]: [CHAT] §dFirst position set to (-816.0, 59.0, -1604.0) (208).
+[21:00:12] [Client thread/INFO]: [CHAT] §dSecond position set to (-807.0, 59.0, -1596.0) (90).
+[21:00:18] [Client thread/INFO]: [CHAT] §d88 block(s) have been changed.
+[21:00:36] [Client thread/INFO]: [CHAT] §dFirst position set to (-805.0, 60.0, -1606.0) (66).
+[21:00:43] [Client thread/INFO]: [CHAT] §dSecond position set to (-817.0, 60.0, -1612.0) (91).
+[21:00:45] [Client thread/INFO]: [CHAT] §d91 block(s) have been changed.
+[21:04:49] [Client thread/INFO]: [CHAT] §dFirst position set to (-821.0, 63.0, -1624.0) (260).
+[21:05:11] [Client thread/INFO]: [CHAT] §dSecond position set to (-803.0, 68.0, -1642.0) (2166).
+[21:05:27] [Client thread/INFO]: [CHAT] §d2166 block(s) were copied.
+[21:05:38] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-799.0, 65.0, -1594.0)
+[21:05:57] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-799.0, 71.0, -1594.0)
+[21:06:56] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-799.0, 77.0, -1594.0)
+[21:07:05] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-799.0, 83.0, -1594.0)
+[21:08:15] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-845.0, 65.0, -1594.0)
+[21:08:20] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-845.0, 71.0, -1594.0)
+[21:08:29] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-845.0, 77.0, -1594.0)
+[21:08:39] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-845.0, 81.0, -1594.0)
+[21:08:56] [Client thread/INFO]: [CHAT] §dUndo successful.
+[21:09:06] [Client thread/INFO]: [CHAT] §dUndo successful.
+[21:09:08] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-845.0, 83.0, -1594.0)
+[21:09:16] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-845.0, 77.0, -1594.0)
+[21:09:59] [Client thread/INFO]: [CHAT] §dFirst position set to (-845.0, 63.0, -1594.0) (12642).
+[21:10:08] [Client thread/INFO]: [CHAT] §dSecond position set to (-827.0, 86.0, -1603.0) (4560).
+[21:10:22] [Client thread/INFO]: [CHAT] §d4560 block(s) were copied.
+[21:10:32] [Client thread/INFO]: [CHAT] §dThe clipboard has been pasted at (-826.0, 64.0, -1612.0)
+[21:11:15] [Client thread/INFO]: [CHAT] §dFirst position set to (-826.0, 69.0, -1595.0) (324).
+[21:11:20] [Client thread/INFO]: [CHAT] §dSecond position set to (-825.0, 69.0, -1621.0) (54).
+[21:11:29] [Client thread/INFO]: [CHAT] §d51 block(s) have been changed.
+[21:11:34] [Client thread/INFO]: [CHAT] §dFirst position set to (-824.0, 75.0, -1621.0) (14).
+[21:11:38] [Client thread/INFO]: [CHAT] §dSecond position set to (-826.0, 75.0, -1595.0) (81).
+[21:11:39] [Client thread/INFO]: [CHAT] §d77 block(s) have been changed.
+[21:11:48] [Client thread/INFO]: [CHAT] §dFirst position set to (-824.0, 81.0, -1621.0) (567).
+[21:11:52] [Client thread/INFO]: [CHAT] §dSecond position set to (-826.0, 81.0, -1595.0) (81).
+[21:11:53] [Client thread/INFO]: [CHAT] §d77 block(s) have been changed.
+[23:45:16] [Client thread/INFO]: [CHAT] §dFirst position set to (-823.0, 63.0, -1620.0) (1976).
+[23:45:21] [Client thread/INFO]: [CHAT] §dSecond position set to (-826.0, 63.0, -1595.0) (104).
+[23:45:27] [Client thread/INFO]: [CHAT] §d103 block(s) have been changed.
+[23:48:30] [Client thread/INFO]: [CHAT] §dFirst position set to (-825.0, 64.0, -1624.0) (120).
+[23:48:33] [Client thread/INFO]: [CHAT] §dSecond position set to (-821.0, 81.0, -1624.0) (90).
+[23:48:36] [Client thread/INFO]: [CHAT] §d68 block(s) have been changed.
+[23:52:09] [Client thread/INFO]: [CHAT] §dFirst position set to (-822.0, 65.0, -1621.0) (136).
+[23:52:14] [Client thread/INFO]: [CHAT] §dSecond position set to (-825.0, 87.0, -1621.0) (92).
+[23:52:16] [Client thread/INFO]: [CHAT] §d46 block(s) have been changed.
+[23:52:17] [Client thread/INFO]: [CHAT] §dFirst position set to (-825.0, 87.0, -1621.0) (1).
+[23:52:20] [Client thread/INFO]: [CHAT] §dSecond position set to (-825.0, 64.0, -1624.0) (96).
+[23:52:22] [Client thread/INFO]: [CHAT] §d46 block(s) have been changed.
+[23:54:53] [Client thread/INFO]: [CHAT] §dFirst position set to (-845.0, 87.0, -1594.0) (15624).
+[23:55:04] [Client thread/INFO]: [CHAT] §dSecond position set to (-823.0, 87.0, -1621.0) (644).
+[23:55:08] [Client thread/INFO]: [CHAT] §d640 block(s) have been changed.

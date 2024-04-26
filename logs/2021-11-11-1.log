@@ -1,0 +1,1070 @@
+[11Nov2021 12:22:01.684] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, bobbyjanks, --version, 1.17.1-forge-37.0.108, --gameDir, C:\Users\jaren\AppData\Roaming\.minecraft, --assetsDir, C:\Users\jaren\AppData\Roaming\.minecraft\assets, --assetIndex, 1.17, --uuid, e8537636227e40beaf7a9d3e3b7e9748, --accessToken, ????????, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 37.0.108, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038]
+[11Nov2021 12:22:01.693] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 16.0.1 by Microsoft
+[11Nov2021 12:22:01.940] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/C:/Users/jaren/AppData/Roaming/.minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2318! Service=ModLauncher Env=CLIENT
+[11Nov2021 12:22:04.315] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.17.1-forge-37.0.108, --gameDir, C:\Users\jaren\AppData\Roaming\.minecraft, --assetsDir, C:\Users\jaren\AppData\Roaming\.minecraft\assets, --uuid, e8537636227e40beaf7a9d3e3b7e9748, --username, bobbyjanks, --assetIndex, 1.17, --accessToken, ????????, --userType, msa, --versionType, release]
+[12:22:12] [Render thread/WARN]: Assets URL 'union:/C:/Users/jaren/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-srg.jar%2354!/assets/.mcassetsroot' uses unexpected schema
+[12:22:12] [Render thread/WARN]: Assets URL 'union:/C:/Users/jaren/AppData/Roaming/.minecraft/libraries/net/minecraft/client/1.17.1-20210706.113038/client-1.17.1-20210706.113038-srg.jar%2354!/data/.mcassetsroot' uses unexpected schema
+[11Nov2021 12:22:12.087] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:22:12] [Render thread/INFO]: Setting user: bobbyjanks
+[12:22:12] [Render thread/INFO]: Backend library: LWJGL version 3.2.2 SNAPSHOT
+[12:22:14] [modloading-worker-2/INFO]: Forge mod loading, version 37.0.108, for MC 1.17.1 with MCP 20210706.113038
+[12:22:14] [modloading-worker-2/INFO]: MinecraftForge v37.0.108 Initialized
+[11Nov2021 12:22:15.454] [Render thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[12:22:15] [Render thread/INFO]: Reloading ResourceManager: Mod Resources, Default, Flows HD (1.16.3) 128x.zip, Realistic-HD-Addon-1.17.zip
+[11Nov2021 12:22:15.767] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Nov2021 12:22:15.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 37.0.108 Target: 37.0.108
+[12:22:16] [Worker-Main-9/INFO]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4a8ab5b0]
+[12:22:16] [Worker-Main-9/INFO]: WorldEdit for Forge (version 7.2.7+9f3e795) is loaded
+[12:22:29] [Worker-Main-14/WARN]: Texture minecraft:entity/conduit/open_eye with size 72x72 limits mip level from 4 to 3
+[12:22:30] [Worker-Main-13/WARN]: Unused frames in sprite minecraft:block/lava_flow: [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+[12:22:30] [Worker-Main-12/WARN]: Unused frames in sprite minecraft:block/lava_still: [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+[12:22:32] [Render thread/INFO]: OpenAL initialized.
+[12:22:32] [Render thread/INFO]: Sound engine started
+[12:22:33] [Render thread/INFO]: Created: 4096x8192x4 minecraft:textures/atlas/blocks.png-atlas
+[12:22:33] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/signs.png-atlas
+[12:22:33] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:22:33] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:22:33] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/chest.png-atlas
+[12:22:33] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/beds.png-atlas
+[12:22:33] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12:22:37] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
+[12:22:37] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/paintings.png-atlas
+[12:22:37] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:22:59] [Render thread/INFO]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[12:22:59] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:22:59] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:22:59] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:22:59] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:22:59] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:22:59] [Render thread/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.0.108-universal.jar, worldedit-mod-7.2.7.jar
+[12:23:02] [Render thread/INFO]: Loaded 7 recipes
+[12:23:04] [Render thread/INFO]: Loaded 1137 advancements
+[12:23:04] [Render thread/WARN]: This world was saved with mod forge version 34.1.0 and it is now at version 37.0.108, things may not work well
+[12:23:04] [Render thread/WARN]: This world was saved with mod worldedit version 7.2.0+a51fa43 and it is now at version 7.2.7+9f3e795, things may not work well
+[12:23:04] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[12:23:04] [Render thread/INFO]: Registry minecraft:block: Found a missing id from the world minecraft:grass_path
+[12:23:04] [Render thread/INFO]: Registry minecraft:item: Found a missing id from the world minecraft:grass_path
+[12:23:04] [Render thread/INFO]: Registry minecraft:sound_event: Found a missing id from the world minecraft:item.sweet_berries.pick_from_bush
+[12:23:04] [Render thread/ERROR]: Unidentified mapping from registry minecraft:block
+	minecraft:grass_path: 498
+
+[12:23:04] [Render thread/ERROR]: Unidentified mapping from registry minecraft:item
+	minecraft:grass_path: 372
+
+[12:23:04] [Render thread/ERROR]: Unidentified mapping from registry minecraft:sound_event
+	minecraft:item.sweet_berries.pick_from_bush: 831
+
+[12:23:04] [Render thread/WARN]: Forge Mod Loader detected missing registry entries.
+
+There are 3 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[12:23:04] [Render thread/WARN]: Missing minecraft:sound_event:
+    minecraft:item.sweet_berries.pick_from_bush
+
+Missing minecraft:item:
+    minecraft:grass_path
+
+Missing minecraft:block:
+    minecraft:grass_path
+
+
+[12:23:04] [Render thread/ERROR]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_gold_ore Expected: 32 Got: 763
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_iron_ore Expected: 34 Got: 764
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_coal_ore Expected: 36 Got: 765
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:azalea_leaves Expected: 68 Got: 766
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:flowering_azalea_leaves Expected: 69 Got: 767
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_lapis_ore Expected: 74 Got: 768
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_diamond_ore Expected: 156 Got: 769
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_redstone_ore Expected: 188 Got: 770
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:glow_lichen Expected: 258 Got: 771
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:water_cauldron Expected: 271 Got: 772
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:lava_cauldron Expected: 272 Got: 773
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:powder_snow_cauldron Expected: 273 Got: 774
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_emerald_ore Expected: 282 Got: 775
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:light Expected: 392 Got: 776
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:dirt_path Expected: 512 Got: 777
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:candle Expected: 777 Got: 778
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:white_candle Expected: 778 Got: 779
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:orange_candle Expected: 779 Got: 780
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:magenta_candle Expected: 780 Got: 781
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:light_blue_candle Expected: 781 Got: 782
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:yellow_candle Expected: 782 Got: 783
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:lime_candle Expected: 783 Got: 784
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:pink_candle Expected: 784 Got: 785
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:gray_candle Expected: 785 Got: 786
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:light_gray_candle Expected: 786 Got: 787
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cyan_candle Expected: 787 Got: 788
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:purple_candle Expected: 788 Got: 789
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:blue_candle Expected: 789 Got: 790
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:brown_candle Expected: 790 Got: 791
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:green_candle Expected: 791 Got: 792
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:red_candle Expected: 792 Got: 793
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:black_candle Expected: 793 Got: 794
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:candle_cake Expected: 794 Got: 795
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:white_candle_cake Expected: 795 Got: 796
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:orange_candle_cake Expected: 796 Got: 797
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:magenta_candle_cake Expected: 797 Got: 798
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:light_blue_candle_cake Expected: 798 Got: 799
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:yellow_candle_cake Expected: 799 Got: 800
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:lime_candle_cake Expected: 800 Got: 801
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:pink_candle_cake Expected: 801 Got: 802
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:gray_candle_cake Expected: 802 Got: 803
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:light_gray_candle_cake Expected: 803 Got: 804
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cyan_candle_cake Expected: 804 Got: 805
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:purple_candle_cake Expected: 805 Got: 806
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:blue_candle_cake Expected: 806 Got: 807
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:brown_candle_cake Expected: 807 Got: 808
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:green_candle_cake Expected: 808 Got: 809
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:red_candle_cake Expected: 809 Got: 810
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:black_candle_cake Expected: 810 Got: 811
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:amethyst_block Expected: 811 Got: 812
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:budding_amethyst Expected: 812 Got: 813
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:amethyst_cluster Expected: 813 Got: 814
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:large_amethyst_bud Expected: 814 Got: 815
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:medium_amethyst_bud Expected: 815 Got: 816
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:small_amethyst_bud Expected: 816 Got: 817
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:tuff Expected: 817 Got: 818
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:calcite Expected: 818 Got: 819
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:tinted_glass Expected: 819 Got: 820
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:powder_snow Expected: 820 Got: 821
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:sculk_sensor Expected: 821 Got: 822
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:oxidized_copper Expected: 822 Got: 823
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:weathered_copper Expected: 823 Got: 824
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:exposed_copper Expected: 824 Got: 825
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:copper_block Expected: 825 Got: 826
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:copper_ore Expected: 826 Got: 827
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_copper_ore Expected: 827 Got: 828
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper Expected: 828 Got: 829
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper Expected: 829 Got: 830
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper Expected: 830 Got: 831
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cut_copper Expected: 831 Got: 832
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper_stairs Expected: 832 Got: 833
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper_stairs Expected: 833 Got: 834
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper_stairs Expected: 834 Got: 835
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cut_copper_stairs Expected: 835 Got: 836
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper_slab Expected: 836 Got: 837
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper_slab Expected: 837 Got: 838
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper_slab Expected: 838 Got: 839
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cut_copper_slab Expected: 839 Got: 840
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_copper_block Expected: 840 Got: 841
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_weathered_copper Expected: 841 Got: 842
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_exposed_copper Expected: 842 Got: 843
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_copper Expected: 843 Got: 844
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper Expected: 844 Got: 845
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper Expected: 845 Got: 846
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper Expected: 846 Got: 847
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper Expected: 847 Got: 848
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper_stairs Expected: 848 Got: 849
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper_stairs Expected: 849 Got: 850
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper_stairs Expected: 850 Got: 851
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper_stairs Expected: 851 Got: 852
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper_slab Expected: 852 Got: 853
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper_slab Expected: 853 Got: 854
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper_slab Expected: 854 Got: 855
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper_slab Expected: 855 Got: 856
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:lightning_rod Expected: 856 Got: 857
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:pointed_dripstone Expected: 857 Got: 858
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:dripstone_block Expected: 858 Got: 859
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cave_vines Expected: 859 Got: 860
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cave_vines_plant Expected: 860 Got: 861
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:spore_blossom Expected: 861 Got: 862
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:azalea Expected: 862 Got: 863
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:flowering_azalea Expected: 863 Got: 864
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:moss_carpet Expected: 864 Got: 865
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:moss_block Expected: 865 Got: 866
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:big_dripleaf Expected: 866 Got: 867
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:big_dripleaf_stem Expected: 867 Got: 868
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:small_dripleaf Expected: 868 Got: 869
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:hanging_roots Expected: 869 Got: 870
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:rooted_dirt Expected: 870 Got: 871
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate Expected: 871 Got: 872
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate Expected: 872 Got: 873
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_stairs Expected: 873 Got: 874
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_slab Expected: 874 Got: 875
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_wall Expected: 875 Got: 876
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:polished_deepslate Expected: 876 Got: 877
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:polished_deepslate_stairs Expected: 877 Got: 878
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:polished_deepslate_slab Expected: 878 Got: 879
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:polished_deepslate_wall Expected: 879 Got: 880
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_tiles Expected: 880 Got: 881
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_tile_stairs Expected: 881 Got: 882
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_tile_slab Expected: 882 Got: 883
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_tile_wall Expected: 883 Got: 884
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_bricks Expected: 884 Got: 885
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_brick_stairs Expected: 885 Got: 886
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_brick_slab Expected: 886 Got: 887
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_brick_wall Expected: 887 Got: 888
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:chiseled_deepslate Expected: 888 Got: 889
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cracked_deepslate_bricks Expected: 889 Got: 890
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:cracked_deepslate_tiles Expected: 890 Got: 891
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:infested_deepslate Expected: 891 Got: 892
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:smooth_basalt Expected: 892 Got: 893
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:raw_iron_block Expected: 893 Got: 894
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:raw_copper_block Expected: 894 Got: 895
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:raw_gold_block Expected: 895 Got: 896
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:potted_azalea_bush Expected: 896 Got: 897
+[12:23:04] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:potted_flowering_azalea_bush Expected: 897 Got: 898
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate Expected: 8 Got: 976
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate Expected: 9 Got: 977
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate Expected: 10 Got: 978
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:calcite Expected: 11 Got: 979
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:tuff Expected: 12 Got: 980
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:dripstone_block Expected: 13 Got: 981
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:rooted_dirt Expected: 18 Got: 982
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_coal_ore Expected: 41 Got: 983
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_iron_ore Expected: 43 Got: 984
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:copper_ore Expected: 44 Got: 985
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_copper_ore Expected: 45 Got: 986
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_gold_ore Expected: 47 Got: 987
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_redstone_ore Expected: 49 Got: 988
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_emerald_ore Expected: 51 Got: 989
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_lapis_ore Expected: 53 Got: 990
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_diamond_ore Expected: 55 Got: 991
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_iron_block Expected: 60 Got: 992
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_copper_block Expected: 61 Got: 993
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_gold_block Expected: 62 Got: 994
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:amethyst_block Expected: 63 Got: 995
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:budding_amethyst Expected: 64 Got: 996
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:copper_block Expected: 66 Got: 997
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_copper Expected: 70 Got: 998
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_copper Expected: 71 Got: 999
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_copper Expected: 72 Got: 1000
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cut_copper Expected: 73 Got: 1001
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper Expected: 74 Got: 1002
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper Expected: 75 Got: 1003
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper Expected: 76 Got: 1004
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cut_copper_stairs Expected: 77 Got: 1005
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper_stairs Expected: 78 Got: 1006
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper_stairs Expected: 79 Got: 1007
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper_stairs Expected: 80 Got: 1008
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cut_copper_slab Expected: 81 Got: 1009
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper_slab Expected: 82 Got: 1010
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper_slab Expected: 83 Got: 1011
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper_slab Expected: 84 Got: 1012
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_copper_block Expected: 85 Got: 1013
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_copper Expected: 86 Got: 1014
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_copper Expected: 87 Got: 1015
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_copper Expected: 88 Got: 1016
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper Expected: 89 Got: 1017
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper Expected: 90 Got: 1018
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper Expected: 91 Got: 1019
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper Expected: 92 Got: 1020
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper_stairs Expected: 93 Got: 1021
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper_stairs Expected: 94 Got: 1022
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper_stairs Expected: 95 Got: 1023
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper_stairs Expected: 96 Got: 1024
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper_slab Expected: 97 Got: 1025
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper_slab Expected: 98 Got: 1026
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper_slab Expected: 99 Got: 1027
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper_slab Expected: 100 Got: 1028
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:azalea_leaves Expected: 139 Got: 1029
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:flowering_azalea_leaves Expected: 140 Got: 1030
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:tinted_glass Expected: 144 Got: 1031
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:azalea Expected: 152 Got: 1032
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:flowering_azalea Expected: 153 Got: 1033
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:spore_blossom Expected: 186 Got: 1034
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:moss_carpet Expected: 198 Got: 1035
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:moss_block Expected: 199 Got: 1036
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:hanging_roots Expected: 200 Got: 1037
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:big_dripleaf Expected: 201 Got: 1038
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:small_dripleaf Expected: 202 Got: 1039
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:smooth_basalt Expected: 273 Got: 1040
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:infested_deepslate Expected: 282 Got: 1041
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_bricks Expected: 287 Got: 1042
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cracked_deepslate_bricks Expected: 288 Got: 1043
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tiles Expected: 289 Got: 1044
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cracked_deepslate_tiles Expected: 290 Got: 1045
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:chiseled_deepslate Expected: 291 Got: 1046
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_lichen Expected: 300 Got: 1047
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_wall Expected: 342 Got: 1048
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate_wall Expected: 343 Got: 1049
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_brick_wall Expected: 344 Got: 1050
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tile_wall Expected: 345 Got: 1051
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:light Expected: 371 Got: 1052
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:dirt_path Expected: 393 Got: 1053
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_stairs Expected: 563 Got: 1054
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate_stairs Expected: 564 Got: 1055
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_brick_stairs Expected: 565 Got: 1056
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tile_stairs Expected: 566 Got: 1057
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_slab Expected: 580 Got: 1058
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate_slab Expected: 581 Got: 1059
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_brick_slab Expected: 582 Got: 1060
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tile_slab Expected: 583 Got: 1061
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:lightning_rod Expected: 601 Got: 1062
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:sculk_sensor Expected: 603 Got: 1063
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:amethyst_shard Expected: 690 Got: 1064
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_iron Expected: 691 Got: 1065
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_copper Expected: 693 Got: 1066
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:copper_ingot Expected: 694 Got: 1067
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_gold Expected: 695 Got: 1068
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:powder_snow_bucket Expected: 779 Got: 1069
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:axolotl_bucket Expected: 787 Got: 1070
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:bundle Expected: 796 Got: 1071
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:spyglass Expected: 799 Got: 1072
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_ink_sac Expected: 808 Got: 1073
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:axolotl_spawn_egg Expected: 873 Got: 1074
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_squid_spawn_egg Expected: 892 Got: 1075
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:goat_spawn_egg Expected: 893 Got: 1076
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_item_frame Expected: 945 Got: 1077
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_berries Expected: 1054 Got: 1078
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:candle Expected: 1078 Got: 1079
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:white_candle Expected: 1079 Got: 1080
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:orange_candle Expected: 1080 Got: 1081
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:magenta_candle Expected: 1081 Got: 1082
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:light_blue_candle Expected: 1082 Got: 1083
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:yellow_candle Expected: 1083 Got: 1084
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:lime_candle Expected: 1084 Got: 1085
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:pink_candle Expected: 1085 Got: 1086
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:gray_candle Expected: 1086 Got: 1087
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:light_gray_candle Expected: 1087 Got: 1088
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cyan_candle Expected: 1088 Got: 1089
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:purple_candle Expected: 1089 Got: 1090
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:blue_candle Expected: 1090 Got: 1091
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:brown_candle Expected: 1091 Got: 1092
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:green_candle Expected: 1092 Got: 1093
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:red_candle Expected: 1093 Got: 1094
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:black_candle Expected: 1094 Got: 1095
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:small_amethyst_bud Expected: 1095 Got: 1096
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:medium_amethyst_bud Expected: 1096 Got: 1097
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:large_amethyst_bud Expected: 1097 Got: 1098
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:amethyst_cluster Expected: 1098 Got: 1099
+[12:23:04] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:pointed_dripstone Expected: 1099 Got: 1100
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.break Expected: 22 Got: 992
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.chime Expected: 23 Got: 993
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.fall Expected: 24 Got: 994
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.hit Expected: 25 Got: 995
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.place Expected: 26 Got: 996
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.step Expected: 27 Got: 997
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.break Expected: 28 Got: 998
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.fall Expected: 29 Got: 999
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.hit Expected: 30 Got: 1000
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.place Expected: 31 Got: 1001
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.step Expected: 32 Got: 1002
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.axe.scrape Expected: 63 Got: 1003
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.axe.wax_off Expected: 64 Got: 1004
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.attack Expected: 65 Got: 1005
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.death Expected: 66 Got: 1006
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.hurt Expected: 67 Got: 1007
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.idle_air Expected: 68 Got: 1008
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.idle_water Expected: 69 Got: 1009
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.splash Expected: 70 Got: 1010
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.swim Expected: 71 Got: 1011
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.break Expected: 72 Got: 1012
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.fall Expected: 73 Got: 1013
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.hit Expected: 74 Got: 1014
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.place Expected: 75 Got: 1015
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.step Expected: 76 Got: 1016
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.break Expected: 77 Got: 1017
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.fall Expected: 78 Got: 1018
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.hit Expected: 79 Got: 1019
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.place Expected: 80 Got: 1020
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.step Expected: 81 Got: 1021
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.break Expected: 119 Got: 1022
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.fall Expected: 120 Got: 1023
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.hit Expected: 121 Got: 1024
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.place Expected: 122 Got: 1025
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.step Expected: 123 Got: 1026
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bone_meal.use Expected: 136 Got: 1027
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.empty_axolotl Expected: 150 Got: 1028
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.empty_powder_snow Expected: 153 Got: 1029
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.fill_axolotl Expected: 155 Got: 1030
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.fill_powder_snow Expected: 158 Got: 1031
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cake.add_candle Expected: 159 Got: 1032
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.break Expected: 160 Got: 1033
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.step Expected: 161 Got: 1034
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.place Expected: 162 Got: 1035
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.hit Expected: 163 Got: 1036
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.fall Expected: 164 Got: 1037
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.ambient Expected: 166 Got: 1038
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.break Expected: 167 Got: 1039
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.extinguish Expected: 168 Got: 1040
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.fall Expected: 169 Got: 1041
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.hit Expected: 170 Got: 1042
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.place Expected: 171 Got: 1043
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.step Expected: 172 Got: 1044
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.break Expected: 182 Got: 1045
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.fall Expected: 183 Got: 1046
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.hit Expected: 184 Got: 1047
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.place Expected: 185 Got: 1048
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.step Expected: 186 Got: 1049
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.pick_berries Expected: 187 Got: 1050
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.break Expected: 218 Got: 1051
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.step Expected: 219 Got: 1052
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.place Expected: 220 Got: 1053
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.hit Expected: 221 Got: 1054
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.fall Expected: 222 Got: 1055
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.break Expected: 246 Got: 1056
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.fall Expected: 247 Got: 1057
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.hit Expected: 248 Got: 1058
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.place Expected: 249 Got: 1059
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.step Expected: 250 Got: 1060
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.break Expected: 251 Got: 1061
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.fall Expected: 252 Got: 1062
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.hit Expected: 253 Got: 1063
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.place Expected: 254 Got: 1064
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.step Expected: 255 Got: 1065
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.break Expected: 256 Got: 1066
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.fall Expected: 257 Got: 1067
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.hit Expected: 258 Got: 1068
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.place Expected: 259 Got: 1069
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.step Expected: 260 Got: 1070
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.break Expected: 280 Got: 1071
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.step Expected: 281 Got: 1072
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.place Expected: 282 Got: 1073
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.hit Expected: 283 Got: 1074
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.fall Expected: 284 Got: 1075
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.break Expected: 285 Got: 1076
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.step Expected: 286 Got: 1077
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.place Expected: 287 Got: 1078
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.hit Expected: 288 Got: 1079
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.fall Expected: 289 Got: 1080
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.land Expected: 290 Got: 1081
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_lava Expected: 291 Got: 1082
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_water Expected: 292 Got: 1083
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_lava_into_cauldron Expected: 293 Got: 1084
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_water_into_cauldron Expected: 294 Got: 1085
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.tilt_down Expected: 295 Got: 1086
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.tilt_up Expected: 296 Got: 1087
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.dye.use Expected: 306 Got: 1088
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.break Expected: 372 Got: 1089
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.fall Expected: 373 Got: 1090
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.hit Expected: 374 Got: 1091
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.place Expected: 375 Got: 1092
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.step Expected: 376 Got: 1093
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.glow_ink_sac.use Expected: 421 Got: 1094
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.add_item Expected: 422 Got: 1095
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.break Expected: 423 Got: 1096
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.place Expected: 424 Got: 1097
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.remove_item Expected: 425 Got: 1098
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.rotate_item Expected: 426 Got: 1099
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.ambient Expected: 427 Got: 1100
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.death Expected: 428 Got: 1101
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.hurt Expected: 429 Got: 1102
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.squirt Expected: 430 Got: 1103
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.ambient Expected: 431 Got: 1104
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.death Expected: 432 Got: 1105
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.eat Expected: 433 Got: 1106
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.hurt Expected: 434 Got: 1107
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.long_jump Expected: 435 Got: 1108
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.milk Expected: 436 Got: 1109
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.prepare_ram Expected: 437 Got: 1110
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.ram_impact Expected: 438 Got: 1111
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.ambient Expected: 439 Got: 1112
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.death Expected: 440 Got: 1113
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.eat Expected: 441 Got: 1114
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.hurt Expected: 442 Got: 1115
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.long_jump Expected: 443 Got: 1116
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.milk Expected: 444 Got: 1117
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.prepare_ram Expected: 445 Got: 1118
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.ram_impact Expected: 446 Got: 1119
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.step Expected: 447 Got: 1120
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.break Expected: 467 Got: 1121
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.fall Expected: 468 Got: 1122
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.hit Expected: 469 Got: 1123
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.place Expected: 470 Got: 1124
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.step Expected: 471 Got: 1125
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.honeycomb.wax_on Expected: 487 Got: 1126
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.ink_sac.use Expected: 520 Got: 1127
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.large_amethyst_bud.break Expected: 548 Got: 1128
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.large_amethyst_bud.place Expected: 549 Got: 1129
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.medium_amethyst_bud.break Expected: 581 Got: 1130
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.medium_amethyst_bud.place Expected: 582 Got: 1131
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.minecart.inside.underwater Expected: 590 Got: 1132
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.break Expected: 598 Got: 1133
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.fall Expected: 599 Got: 1134
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.hit Expected: 600 Got: 1135
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.place Expected: 601 Got: 1136
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.step Expected: 602 Got: 1137
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.break Expected: 603 Got: 1138
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.fall Expected: 604 Got: 1139
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.hit Expected: 605 Got: 1140
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.place Expected: 606 Got: 1141
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.step Expected: 607 Got: 1142
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.player.hurt_freeze Expected: 801 Got: 1143
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.break Expected: 815 Got: 1144
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.fall Expected: 816 Got: 1145
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.hit Expected: 817 Got: 1146
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.place Expected: 818 Got: 1147
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.step Expected: 819 Got: 1148
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.break Expected: 823 Got: 1149
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.fall Expected: 824 Got: 1150
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.hit Expected: 825 Got: 1151
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.place Expected: 826 Got: 1152
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.step Expected: 827 Got: 1153
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.break Expected: 865 Got: 1154
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.fall Expected: 866 Got: 1155
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.hit Expected: 867 Got: 1156
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.place Expected: 868 Got: 1157
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.step Expected: 869 Got: 1158
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.clicking Expected: 884 Got: 1159
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.clicking_stop Expected: 885 Got: 1160
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.break Expected: 886 Got: 1161
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.fall Expected: 887 Got: 1162
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.hit Expected: 888 Got: 1163
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.place Expected: 889 Got: 1164
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.step Expected: 890 Got: 1165
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.skeleton.converted_to_stray Expected: 921 Got: 1166
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_amethyst_bud.break Expected: 944 Got: 1167
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_amethyst_bud.place Expected: 945 Got: 1168
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.break Expected: 946 Got: 1169
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.fall Expected: 947 Got: 1170
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.hit Expected: 948 Got: 1171
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.place Expected: 949 Got: 1172
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.step Expected: 950 Got: 1173
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.break Expected: 962 Got: 1174
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.fall Expected: 963 Got: 1175
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.hit Expected: 964 Got: 1176
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.place Expected: 965 Got: 1177
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.step Expected: 966 Got: 1178
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.spyglass.use Expected: 999 Got: 1179
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.spyglass.stop_using Expected: 1000 Got: 1180
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sweet_berry_bush.pick_berries Expected: 1020 Got: 1181
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.break Expected: 1040 Got: 1182
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.step Expected: 1041 Got: 1183
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.place Expected: 1042 Got: 1184
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.hit Expected: 1043 Got: 1185
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.fall Expected: 1044 Got: 1186
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.break Expected: 1094 Got: 1187
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.fall Expected: 1095 Got: 1188
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.hit Expected: 1096 Got: 1189
+[12:23:04] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.place Expected: 1097 Got: 1190
+[12:23:04] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:axolotl Expected: 3 Got: 108
+[12:23:04] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:glow_item_frame Expected: 32 Got: 109
+[12:23:04] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:glow_squid Expected: 33 Got: 110
+[12:23:04] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:goat Expected: 34 Got: 111
+[12:23:04] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:marker Expected: 49 Got: 112
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:nearest_attackable Expected: 27 Got: 60
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:play_dead_ticks Expected: 38 Got: 61
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:tempting_player Expected: 39 Got: 62
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:temptation_cooldown_ticks Expected: 40 Got: 63
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:is_tempted Expected: 41 Got: 64
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:long_jump_cooling_down Expected: 42 Got: 65
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:long_jump_mid_jump Expected: 43 Got: 66
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:has_hunting_cooldown Expected: 44 Got: 67
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:ram_cooldown_ticks Expected: 45 Got: 68
+[12:23:04] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:ram_target Expected: 46 Got: 69
+[12:23:04] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:23:04] [Render thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:23:04] [Render thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:23:04] [Render thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:23:04] [Render thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:23:04] [Render thread/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.0.108-universal.jar, worldedit-mod-7.2.7.jar
+[12:23:07] [Render thread/INFO]: Loaded 7 recipes
+[12:23:09] [Render thread/INFO]: Loaded 1137 advancements
+[12:23:09] [Render thread/WARN]: This world was saved with mod forge version 34.1.0 and it is now at version 37.0.108, things may not work well
+[12:23:09] [Render thread/WARN]: This world was saved with mod worldedit version 7.2.0+a51fa43 and it is now at version 7.2.7+9f3e795, things may not work well
+[12:23:09] [Render thread/INFO]: Injecting existing registry data into this CLIENT instance
+[12:23:09] [Render thread/INFO]: Registry minecraft:block: Skipping injection of dummied object minecraft:grass_path
+[12:23:09] [Render thread/INFO]: Registry minecraft:item: Found a missing id from the world minecraft:grass_path
+[12:23:09] [Render thread/INFO]: Registry minecraft:sound_event: Found a missing id from the world minecraft:item.sweet_berries.pick_from_bush
+[12:23:09] [Render thread/ERROR]: Unidentified mapping from registry minecraft:item
+	minecraft:grass_path: 372
+
+[12:23:09] [Render thread/ERROR]: Unidentified mapping from registry minecraft:sound_event
+	minecraft:item.sweet_berries.pick_from_bush: 831
+
+[12:23:09] [Render thread/WARN]: Forge Mod Loader detected missing registry entries.
+
+There are 2 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[12:23:09] [Render thread/WARN]: Missing minecraft:sound_event:
+    minecraft:item.sweet_berries.pick_from_bush
+
+Missing minecraft:item:
+    minecraft:grass_path
+
+
+[12:23:09] [Render thread/ERROR]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_gold_ore Expected: 32 Got: 498
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_iron_ore Expected: 34 Got: 763
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_coal_ore Expected: 36 Got: 764
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:azalea_leaves Expected: 68 Got: 765
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:flowering_azalea_leaves Expected: 69 Got: 766
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_lapis_ore Expected: 74 Got: 767
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_diamond_ore Expected: 156 Got: 768
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_redstone_ore Expected: 188 Got: 769
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:glow_lichen Expected: 258 Got: 770
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:water_cauldron Expected: 271 Got: 771
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:lava_cauldron Expected: 272 Got: 772
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:powder_snow_cauldron Expected: 273 Got: 773
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:deepslate_emerald_ore Expected: 282 Got: 774
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:light Expected: 392 Got: 775
+[12:23:09] [Render thread/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: minecraft:dirt_path Expected: 512 Got: 776
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate Expected: 8 Got: 976
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate Expected: 9 Got: 977
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate Expected: 10 Got: 978
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:calcite Expected: 11 Got: 979
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:tuff Expected: 12 Got: 980
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:dripstone_block Expected: 13 Got: 981
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:rooted_dirt Expected: 18 Got: 982
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_coal_ore Expected: 41 Got: 983
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_iron_ore Expected: 43 Got: 984
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:copper_ore Expected: 44 Got: 985
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_copper_ore Expected: 45 Got: 986
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_gold_ore Expected: 47 Got: 987
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_redstone_ore Expected: 49 Got: 988
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_emerald_ore Expected: 51 Got: 989
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_lapis_ore Expected: 53 Got: 990
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_diamond_ore Expected: 55 Got: 991
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_iron_block Expected: 60 Got: 992
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_copper_block Expected: 61 Got: 993
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_gold_block Expected: 62 Got: 994
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:amethyst_block Expected: 63 Got: 995
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:budding_amethyst Expected: 64 Got: 996
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:copper_block Expected: 66 Got: 997
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_copper Expected: 70 Got: 998
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_copper Expected: 71 Got: 999
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_copper Expected: 72 Got: 1000
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cut_copper Expected: 73 Got: 1001
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper Expected: 74 Got: 1002
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper Expected: 75 Got: 1003
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper Expected: 76 Got: 1004
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cut_copper_stairs Expected: 77 Got: 1005
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper_stairs Expected: 78 Got: 1006
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper_stairs Expected: 79 Got: 1007
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper_stairs Expected: 80 Got: 1008
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cut_copper_slab Expected: 81 Got: 1009
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:exposed_cut_copper_slab Expected: 82 Got: 1010
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:weathered_cut_copper_slab Expected: 83 Got: 1011
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:oxidized_cut_copper_slab Expected: 84 Got: 1012
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_copper_block Expected: 85 Got: 1013
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_copper Expected: 86 Got: 1014
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_copper Expected: 87 Got: 1015
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_copper Expected: 88 Got: 1016
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper Expected: 89 Got: 1017
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper Expected: 90 Got: 1018
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper Expected: 91 Got: 1019
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper Expected: 92 Got: 1020
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper_stairs Expected: 93 Got: 1021
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper_stairs Expected: 94 Got: 1022
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper_stairs Expected: 95 Got: 1023
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper_stairs Expected: 96 Got: 1024
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_cut_copper_slab Expected: 97 Got: 1025
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_exposed_cut_copper_slab Expected: 98 Got: 1026
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_weathered_cut_copper_slab Expected: 99 Got: 1027
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:waxed_oxidized_cut_copper_slab Expected: 100 Got: 1028
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:azalea_leaves Expected: 139 Got: 1029
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:flowering_azalea_leaves Expected: 140 Got: 1030
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:tinted_glass Expected: 144 Got: 1031
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:azalea Expected: 152 Got: 1032
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:flowering_azalea Expected: 153 Got: 1033
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:spore_blossom Expected: 186 Got: 1034
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:moss_carpet Expected: 198 Got: 1035
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:moss_block Expected: 199 Got: 1036
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:hanging_roots Expected: 200 Got: 1037
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:big_dripleaf Expected: 201 Got: 1038
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:small_dripleaf Expected: 202 Got: 1039
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:smooth_basalt Expected: 273 Got: 1040
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:infested_deepslate Expected: 282 Got: 1041
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_bricks Expected: 287 Got: 1042
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cracked_deepslate_bricks Expected: 288 Got: 1043
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tiles Expected: 289 Got: 1044
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cracked_deepslate_tiles Expected: 290 Got: 1045
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:chiseled_deepslate Expected: 291 Got: 1046
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_lichen Expected: 300 Got: 1047
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_wall Expected: 342 Got: 1048
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate_wall Expected: 343 Got: 1049
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_brick_wall Expected: 344 Got: 1050
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tile_wall Expected: 345 Got: 1051
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:light Expected: 371 Got: 1052
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:dirt_path Expected: 393 Got: 1053
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_stairs Expected: 563 Got: 1054
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate_stairs Expected: 564 Got: 1055
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_brick_stairs Expected: 565 Got: 1056
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tile_stairs Expected: 566 Got: 1057
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cobbled_deepslate_slab Expected: 580 Got: 1058
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:polished_deepslate_slab Expected: 581 Got: 1059
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_brick_slab Expected: 582 Got: 1060
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:deepslate_tile_slab Expected: 583 Got: 1061
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:lightning_rod Expected: 601 Got: 1062
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:sculk_sensor Expected: 603 Got: 1063
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:amethyst_shard Expected: 690 Got: 1064
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_iron Expected: 691 Got: 1065
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_copper Expected: 693 Got: 1066
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:copper_ingot Expected: 694 Got: 1067
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:raw_gold Expected: 695 Got: 1068
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:powder_snow_bucket Expected: 779 Got: 1069
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:axolotl_bucket Expected: 787 Got: 1070
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:bundle Expected: 796 Got: 1071
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:spyglass Expected: 799 Got: 1072
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_ink_sac Expected: 808 Got: 1073
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:axolotl_spawn_egg Expected: 873 Got: 1074
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_squid_spawn_egg Expected: 892 Got: 1075
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:goat_spawn_egg Expected: 893 Got: 1076
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_item_frame Expected: 945 Got: 1077
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:glow_berries Expected: 1054 Got: 1078
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:candle Expected: 1078 Got: 1079
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:white_candle Expected: 1079 Got: 1080
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:orange_candle Expected: 1080 Got: 1081
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:magenta_candle Expected: 1081 Got: 1082
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:light_blue_candle Expected: 1082 Got: 1083
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:yellow_candle Expected: 1083 Got: 1084
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:lime_candle Expected: 1084 Got: 1085
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:pink_candle Expected: 1085 Got: 1086
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:gray_candle Expected: 1086 Got: 1087
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:light_gray_candle Expected: 1087 Got: 1088
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:cyan_candle Expected: 1088 Got: 1089
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:purple_candle Expected: 1089 Got: 1090
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:blue_candle Expected: 1090 Got: 1091
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:brown_candle Expected: 1091 Got: 1092
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:green_candle Expected: 1092 Got: 1093
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:red_candle Expected: 1093 Got: 1094
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:black_candle Expected: 1094 Got: 1095
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:small_amethyst_bud Expected: 1095 Got: 1096
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:medium_amethyst_bud Expected: 1096 Got: 1097
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:large_amethyst_bud Expected: 1097 Got: 1098
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:amethyst_cluster Expected: 1098 Got: 1099
+[12:23:09] [Render thread/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: minecraft:pointed_dripstone Expected: 1099 Got: 1100
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.break Expected: 22 Got: 992
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.chime Expected: 23 Got: 993
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.fall Expected: 24 Got: 994
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.hit Expected: 25 Got: 995
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.place Expected: 26 Got: 996
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_block.step Expected: 27 Got: 997
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.break Expected: 28 Got: 998
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.fall Expected: 29 Got: 999
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.hit Expected: 30 Got: 1000
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.place Expected: 31 Got: 1001
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.amethyst_cluster.step Expected: 32 Got: 1002
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.axe.scrape Expected: 63 Got: 1003
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.axe.wax_off Expected: 64 Got: 1004
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.attack Expected: 65 Got: 1005
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.death Expected: 66 Got: 1006
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.hurt Expected: 67 Got: 1007
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.idle_air Expected: 68 Got: 1008
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.idle_water Expected: 69 Got: 1009
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.splash Expected: 70 Got: 1010
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.axolotl.swim Expected: 71 Got: 1011
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.break Expected: 72 Got: 1012
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.fall Expected: 73 Got: 1013
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.hit Expected: 74 Got: 1014
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.place Expected: 75 Got: 1015
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea.step Expected: 76 Got: 1016
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.break Expected: 77 Got: 1017
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.fall Expected: 78 Got: 1018
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.hit Expected: 79 Got: 1019
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.place Expected: 80 Got: 1020
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.azalea_leaves.step Expected: 81 Got: 1021
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.break Expected: 119 Got: 1022
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.fall Expected: 120 Got: 1023
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.hit Expected: 121 Got: 1024
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.place Expected: 122 Got: 1025
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.step Expected: 123 Got: 1026
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bone_meal.use Expected: 136 Got: 1027
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.empty_axolotl Expected: 150 Got: 1028
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.empty_powder_snow Expected: 153 Got: 1029
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.fill_axolotl Expected: 155 Got: 1030
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.bucket.fill_powder_snow Expected: 158 Got: 1031
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cake.add_candle Expected: 159 Got: 1032
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.break Expected: 160 Got: 1033
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.step Expected: 161 Got: 1034
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.place Expected: 162 Got: 1035
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.hit Expected: 163 Got: 1036
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.calcite.fall Expected: 164 Got: 1037
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.ambient Expected: 166 Got: 1038
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.break Expected: 167 Got: 1039
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.extinguish Expected: 168 Got: 1040
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.fall Expected: 169 Got: 1041
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.hit Expected: 170 Got: 1042
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.place Expected: 171 Got: 1043
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.candle.step Expected: 172 Got: 1044
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.break Expected: 182 Got: 1045
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.fall Expected: 183 Got: 1046
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.hit Expected: 184 Got: 1047
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.place Expected: 185 Got: 1048
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.step Expected: 186 Got: 1049
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.cave_vines.pick_berries Expected: 187 Got: 1050
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.break Expected: 218 Got: 1051
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.step Expected: 219 Got: 1052
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.place Expected: 220 Got: 1053
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.hit Expected: 221 Got: 1054
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.copper.fall Expected: 222 Got: 1055
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.break Expected: 246 Got: 1056
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.fall Expected: 247 Got: 1057
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.hit Expected: 248 Got: 1058
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.place Expected: 249 Got: 1059
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_bricks.step Expected: 250 Got: 1060
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.break Expected: 251 Got: 1061
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.fall Expected: 252 Got: 1062
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.hit Expected: 253 Got: 1063
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.place Expected: 254 Got: 1064
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate.step Expected: 255 Got: 1065
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.break Expected: 256 Got: 1066
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.fall Expected: 257 Got: 1067
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.hit Expected: 258 Got: 1068
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.place Expected: 259 Got: 1069
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.deepslate_tiles.step Expected: 260 Got: 1070
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.break Expected: 280 Got: 1071
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.step Expected: 281 Got: 1072
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.place Expected: 282 Got: 1073
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.hit Expected: 283 Got: 1074
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.dripstone_block.fall Expected: 284 Got: 1075
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.break Expected: 285 Got: 1076
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.step Expected: 286 Got: 1077
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.place Expected: 287 Got: 1078
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.hit Expected: 288 Got: 1079
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.fall Expected: 289 Got: 1080
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.land Expected: 290 Got: 1081
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_lava Expected: 291 Got: 1082
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_water Expected: 292 Got: 1083
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_lava_into_cauldron Expected: 293 Got: 1084
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.pointed_dripstone.drip_water_into_cauldron Expected: 294 Got: 1085
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.tilt_down Expected: 295 Got: 1086
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.big_dripleaf.tilt_up Expected: 296 Got: 1087
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.dye.use Expected: 306 Got: 1088
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.break Expected: 372 Got: 1089
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.fall Expected: 373 Got: 1090
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.hit Expected: 374 Got: 1091
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.place Expected: 375 Got: 1092
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.flowering_azalea.step Expected: 376 Got: 1093
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.glow_ink_sac.use Expected: 421 Got: 1094
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.add_item Expected: 422 Got: 1095
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.break Expected: 423 Got: 1096
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.place Expected: 424 Got: 1097
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.remove_item Expected: 425 Got: 1098
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_item_frame.rotate_item Expected: 426 Got: 1099
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.ambient Expected: 427 Got: 1100
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.death Expected: 428 Got: 1101
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.hurt Expected: 429 Got: 1102
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.glow_squid.squirt Expected: 430 Got: 1103
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.ambient Expected: 431 Got: 1104
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.death Expected: 432 Got: 1105
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.eat Expected: 433 Got: 1106
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.hurt Expected: 434 Got: 1107
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.long_jump Expected: 435 Got: 1108
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.milk Expected: 436 Got: 1109
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.prepare_ram Expected: 437 Got: 1110
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.ram_impact Expected: 438 Got: 1111
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.ambient Expected: 439 Got: 1112
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.death Expected: 440 Got: 1113
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.eat Expected: 441 Got: 1114
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.hurt Expected: 442 Got: 1115
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.long_jump Expected: 443 Got: 1116
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.milk Expected: 444 Got: 1117
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.prepare_ram Expected: 445 Got: 1118
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.screaming.ram_impact Expected: 446 Got: 1119
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.goat.step Expected: 447 Got: 1120
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.break Expected: 467 Got: 1121
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.fall Expected: 468 Got: 1122
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.hit Expected: 469 Got: 1123
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.place Expected: 470 Got: 1124
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.hanging_roots.step Expected: 471 Got: 1125
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.honeycomb.wax_on Expected: 487 Got: 1126
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.ink_sac.use Expected: 520 Got: 1127
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.large_amethyst_bud.break Expected: 548 Got: 1128
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.large_amethyst_bud.place Expected: 549 Got: 1129
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.medium_amethyst_bud.break Expected: 581 Got: 1130
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.medium_amethyst_bud.place Expected: 582 Got: 1131
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.minecart.inside.underwater Expected: 590 Got: 1132
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.break Expected: 598 Got: 1133
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.fall Expected: 599 Got: 1134
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.hit Expected: 600 Got: 1135
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.place Expected: 601 Got: 1136
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss_carpet.step Expected: 602 Got: 1137
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.break Expected: 603 Got: 1138
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.fall Expected: 604 Got: 1139
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.hit Expected: 605 Got: 1140
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.place Expected: 606 Got: 1141
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.moss.step Expected: 607 Got: 1142
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.player.hurt_freeze Expected: 801 Got: 1143
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.break Expected: 815 Got: 1144
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.fall Expected: 816 Got: 1145
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.hit Expected: 817 Got: 1146
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.place Expected: 818 Got: 1147
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.polished_deepslate.step Expected: 819 Got: 1148
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.break Expected: 823 Got: 1149
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.fall Expected: 824 Got: 1150
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.hit Expected: 825 Got: 1151
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.place Expected: 826 Got: 1152
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.powder_snow.step Expected: 827 Got: 1153
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.break Expected: 865 Got: 1154
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.fall Expected: 866 Got: 1155
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.hit Expected: 867 Got: 1156
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.place Expected: 868 Got: 1157
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.rooted_dirt.step Expected: 869 Got: 1158
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.clicking Expected: 884 Got: 1159
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.clicking_stop Expected: 885 Got: 1160
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.break Expected: 886 Got: 1161
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.fall Expected: 887 Got: 1162
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.hit Expected: 888 Got: 1163
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.place Expected: 889 Got: 1164
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sculk_sensor.step Expected: 890 Got: 1165
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:entity.skeleton.converted_to_stray Expected: 921 Got: 1166
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_amethyst_bud.break Expected: 944 Got: 1167
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_amethyst_bud.place Expected: 945 Got: 1168
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.break Expected: 946 Got: 1169
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.fall Expected: 947 Got: 1170
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.hit Expected: 948 Got: 1171
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.place Expected: 949 Got: 1172
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.small_dripleaf.step Expected: 950 Got: 1173
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.break Expected: 962 Got: 1174
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.fall Expected: 963 Got: 1175
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.hit Expected: 964 Got: 1176
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.place Expected: 965 Got: 1177
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.spore_blossom.step Expected: 966 Got: 1178
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.spyglass.use Expected: 999 Got: 1179
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:item.spyglass.stop_using Expected: 1000 Got: 1180
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.sweet_berry_bush.pick_berries Expected: 1020 Got: 1181
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.break Expected: 1040 Got: 1182
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.step Expected: 1041 Got: 1183
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.place Expected: 1042 Got: 1184
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.hit Expected: 1043 Got: 1185
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.tuff.fall Expected: 1044 Got: 1186
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.break Expected: 1094 Got: 1187
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.fall Expected: 1095 Got: 1188
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.hit Expected: 1096 Got: 1189
+[12:23:09] [Render thread/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: minecraft:block.vine.place Expected: 1097 Got: 1190
+[12:23:09] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:axolotl Expected: 3 Got: 108
+[12:23:09] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:glow_item_frame Expected: 32 Got: 109
+[12:23:09] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:glow_squid Expected: 33 Got: 110
+[12:23:09] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:goat Expected: 34 Got: 111
+[12:23:09] [Render thread/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: minecraft:marker Expected: 49 Got: 112
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:nearest_attackable Expected: 27 Got: 60
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:play_dead_ticks Expected: 38 Got: 61
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:tempting_player Expected: 39 Got: 62
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:temptation_cooldown_ticks Expected: 40 Got: 63
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:is_tempted Expected: 41 Got: 64
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:long_jump_cooling_down Expected: 42 Got: 65
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:long_jump_mid_jump Expected: 43 Got: 66
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:has_hunting_cooldown Expected: 44 Got: 67
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:ram_cooldown_ticks Expected: 45 Got: 68
+[12:23:09] [Render thread/WARN]: Registry minecraft:memory_module_type: Object did not get ID it asked for. Name: minecraft:ram_target Expected: 46 Got: 69
+[11Nov2021 12:23:10.207] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:23:10] [Server thread/INFO]: Starting integrated minecraft server version 1.17.1
+[12:23:10] [Server thread/INFO]: Generating keypair
+[12:23:10] [Server thread/WARN]: Configuration file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\serverconfig\forge-server.toml is not correct. Correcting
+[12:23:10] [Server thread/WARN]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[12:23:10] [Server thread/WARN]: Incorrect key server.dimensionUnloadQueueDelay was corrected from 0 to its default, null. 
+[12:23:10] [Server thread/WARN]: Incorrect key server.removeErroringEntities was corrected from false to its default, null. 
+[12:23:10] [Server thread/WARN]: Incorrect key server.logCascadingWorldGeneration was corrected from true to its default, null. 
+[12:23:10] [Server thread/WARN]: Incorrect key server.removeErroringTileEntities was corrected from false to its default, null. 
+[12:23:10] [Server thread/WARN]: Incorrect key server.fixVanillaCascading was corrected from false to its default, null. 
+[12:23:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:23:10] [Render thread/INFO]: Preparing spawn area: 0%
+[12:23:11] [Render thread/INFO]: Preparing spawn area: 0%
+[12:23:11] [Render thread/INFO]: Preparing spawn area: 0%
+[12:23:12] [Render thread/INFO]: Preparing spawn area: 0%
+[12:23:12] [Render thread/INFO]: Preparing spawn area: 0%
+[12:23:13] [Render thread/INFO]: Preparing spawn area: 0%
+[12:23:13] [Render thread/INFO]: Preparing spawn area: 11%
+[12:23:14] [Render thread/INFO]: Preparing spawn area: 24%
+[12:23:14] [Render thread/INFO]: Preparing spawn area: 26%
+[12:23:15] [Render thread/INFO]: Preparing spawn area: 42%
+[12:23:15] [Render thread/INFO]: Preparing spawn area: 86%
+[12:23:16] [Render thread/INFO]: Time elapsed: 5476 ms
+[12:23:16] [Server thread/INFO]: Changing view distance to 25, from 10
+[12:23:17] [Netty Local Client IO #0/INFO]: Connected to a modded server.
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_blasting' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_smelting' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot_from_blasting' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot_from_blasting' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/mossy_stone_bricks' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_blasting' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_smelting' in progress file C:\Users\jaren\AppData\Roaming\.minecraft\saves\Planet Bobbyjanks\advancements\e8537636-227e-40be-af7a-9d3e3b7e9748.json - it doesn't exist anymore?
+[12:23:17] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37a0f8ff
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_stone_bricks removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_stone_bricks removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[12:23:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[12:23:17] [Server thread/INFO]: bobbyjanks[local:E:59668f77] logged in with entity id 34 at (5044.296169041441, 64.0, 4958.717986839672)
+[12:23:18] [Server thread/INFO]: bobbyjanks joined the game
+[12:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
+[12:23:20] [Render thread/INFO]: Loaded 676 advancements
+[12:24:52] [Server thread/INFO]: [bobbyjanks: Set the time to 13000]
+[12:24:52] [Render thread/INFO]: [CHAT] Set the time to 13000
+[12:25:27] [Render thread/INFO]: Loaded 677 advancements
+[12:25:42] [Server thread/INFO]: [@: Gave 1 [Cardboard Box] to bobbyjanks]
+[12:25:42] [Render thread/INFO]: [CHAT] [@: Gave 1 [Cardboard Box] to bobbyjanks]
+[12:25:48] [Render thread/INFO]: [CHAT] First position set to (5045, 63, 4956).
+[12:25:48] [Render thread/INFO]: [CHAT] Second position set to (5044, 63, 4956) (2).
+[12:25:50] [Render thread/INFO]: [CHAT] Second position set to (5045, 63, 4956) (1).
+[12:25:53] [Render thread/INFO]: [CHAT] Operation completed (1 blocks affected).
+[12:25:56] [Render thread/INFO]: [CHAT] Undid 1 available edits.
+[12:28:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4650ms or 93 ticks behind
+[12:30:10] [Render thread/INFO]: Loaded 679 advancements
+[12:30:33] [Render thread/INFO]: Loaded 691 advancements
+[12:30:54] [Render thread/INFO]: Loaded 692 advancements
+[12:31:05] [Render thread/INFO]: Loaded 699 advancements
+[12:32:45] [Render thread/INFO]: Loaded 714 advancements
+[12:33:50] [Server thread/INFO]: Saving and pausing game...
+[12:33:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:overworld
+[12:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_nether
+[12:33:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_end
+[12:33:54] [Render thread/INFO]: Reloading ResourceManager: Mod Resources, Default, Flows HD (1.16.3) 128x.zip
+[12:34:03] [Worker-Main-10/WARN]: Texture minecraft:entity/conduit/open_eye with size 72x72 limits mip level from 4 to 3
+[12:34:03] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:block/lava_flow: [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+[12:34:03] [Worker-Main-24/WARN]: Unused frames in sprite minecraft:block/lava_still: [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+[12:34:05] [Render thread/INFO]: OpenAL initialized.
+[12:34:05] [Render thread/INFO]: Sound engine started
+[12:34:05] [Render thread/INFO]: Created: 4096x8192x4 minecraft:textures/atlas/blocks.png-atlas
+[12:34:05] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/signs.png-atlas
+[12:34:05] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:34:05] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:34:05] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/chest.png-atlas
+[12:34:05] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/beds.png-atlas
+[12:34:05] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12:34:07] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
+[12:34:07] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/paintings.png-atlas
+[12:34:07] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:34:31] [Server thread/INFO]: Saving and pausing game...
+[12:34:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:overworld
+[12:34:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_nether
+[12:34:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_end
+[12:34:35] [Render thread/INFO]: Reloading ResourceManager: Mod Resources, Default, Flows HD (1.16.3) 128x.zip, Realistic-HD-Addon-1.17.zip
+[12:34:45] [Worker-Main-14/WARN]: Texture minecraft:entity/conduit/open_eye with size 72x72 limits mip level from 4 to 3
+[12:34:45] [Worker-Main-25/WARN]: Unused frames in sprite minecraft:block/lava_still: [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+[12:34:45] [Worker-Main-9/WARN]: Unused frames in sprite minecraft:block/lava_flow: [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59]
+[12:34:46] [Render thread/INFO]: OpenAL initialized.
+[12:34:46] [Render thread/INFO]: Sound engine started
+[12:34:47] [Render thread/INFO]: Created: 4096x8192x4 minecraft:textures/atlas/blocks.png-atlas
+[12:34:47] [Render thread/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/signs.png-atlas
+[12:34:47] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[12:34:47] [Render thread/INFO]: Created: 4096x4096x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[12:34:47] [Render thread/INFO]: Created: 2048x1024x4 minecraft:textures/atlas/chest.png-atlas
+[12:34:47] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/beds.png-atlas
+[12:34:47] [Render thread/INFO]: Created: 4096x2048x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[12:34:49] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
+[12:34:49] [Render thread/INFO]: Created: 2048x2048x0 minecraft:textures/atlas/paintings.png-atlas
+[12:34:49] [Render thread/INFO]: Created: 512x512x0 minecraft:textures/atlas/mob_effects.png-atlas
+[12:35:47] [Render thread/INFO]: Loaded 715 advancements
+[12:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6331ms or 126 ticks behind
+[13:20:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 231079ms or 4621 ticks behind
+[14:20:59] [Server thread/INFO]: Saving and pausing game...
+[14:20:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:overworld
+[14:20:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_nether
+[14:20:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_end
+[14:21:00] [Server thread/INFO]: bobbyjanks lost connection: Disconnected
+[14:21:00] [Server thread/INFO]: bobbyjanks left the game
+[14:21:00] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[14:21:00] [Server thread/INFO]: Stopping server
+[14:21:00] [Server thread/INFO]: Saving players
+[14:21:00] [Server thread/INFO]: Saving worlds
+[14:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:overworld
+[14:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_nether
+[14:21:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Planet Bobbyjanks]'/minecraft:the_end
+[14:21:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (Planet Bobbyjanks): All chunks are saved
+[14:21:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:21:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:21:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:21:06] [Render thread/INFO]: Stopping!

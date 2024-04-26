@@ -1,0 +1,36 @@
+[10:40:33] [main/INFO]: Setting user: bobbyjanks
+[10:40:33] [Client thread/INFO]: LWJGL Version: 2.9.1
+[10:40:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[10:40:38] [Sound Library Loader/INFO]: Sound engine started
+[10:40:40] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[10:40:40] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[10:40:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[10:40:40] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[10:40:42] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[10:40:43] [Sound Library Loader/INFO]: Sound engine started
+[10:40:50] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[10:40:50] [Server thread/INFO]: Generating keypair
+[10:40:51] [Server thread/INFO]: Preparing start region for level 0
+[10:40:52] [Server thread/INFO]: Preparing spawn area: 75%
+[10:40:52] [Server thread/INFO]: Changing view distance to 16, from 10
+[10:40:53] [Server thread/INFO]: bobbyjanks[local:E:e6c94ef4] logged in with entity id 125 at (-664.4886193074985, 71.01958670654733, -1309.4113109726654)
+[10:40:53] [Server thread/INFO]: bobbyjanks joined the game
+[10:41:53] [Server thread/INFO]: [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[10:41:53] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to -2.5,65.5,8.5]
+[10:42:00] [Server thread/INFO]: [@: Teleported bobbyjanks to 5000.5,64.5,5000.5]
+[10:42:00] [Client thread/INFO]: [CHAT] [@: Teleported bobbyjanks to 5000.5,64.5,5000.5]
+[10:42:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4141ms behind, skipping 82 tick(s)
+[10:42:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9229ms behind, skipping 184 tick(s)
+[10:44:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9169ms behind, skipping 183 tick(s)
+[10:54:05] [Client thread/INFO]: [CHAT] You can only sleep at night
+[11:28:02] [Server thread/INFO]: Saving and pausing game...
+[11:28:02] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[11:28:02] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[11:28:02] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[11:28:03] [Server thread/INFO]: Stopping server
+[11:28:03] [Server thread/INFO]: Saving players
+[11:28:03] [Server thread/INFO]: Saving worlds
+[11:28:03] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[11:28:03] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[11:28:03] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[11:28:05] [Client thread/INFO]: Stopping!

@@ -1,0 +1,105 @@
+[30Jan2020 21:02:50.803] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, bobbyjanks, --version, 1.14.2-forge-26.0.63, --gameDir, C:\Users\User\AppData\Roaming\.minecraft, --assetsDir, C:\Users\User\AppData\Roaming\.minecraft\assets, --assetIndex, 1.14, --uuid, e8537636227e40beaf7a9d3e3b7e9748, --accessToken, ????????, --userType, mojang, --versionType, release, --launchTarget, fmlclient, --fml.forgeVersion, 26.0.63, --fml.mcVersion, 1.14.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20190603.175704]
+[30Jan2020 21:02:50.825] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher starting: java version 1.8.0_51 by Oracle Corporation
+[30Jan2020 21:02:52.210] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[30Jan2020 21:02:54.655] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlclient' with arguments [--version, 1.14.2-forge-26.0.63, --gameDir, C:\Users\User\AppData\Roaming\.minecraft, --assetsDir, C:\Users\User\AppData\Roaming\.minecraft\assets, --username, bobbyjanks, --assetIndex, 1.14, --uuid, e8537636227e40beaf7a9d3e3b7e9748, --accessToken, ????????, --userType, mojang, --versionType, release]
+[30Jan2020 21:02:59.079] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: bobbyjanks
+[30Jan2020 21:03:00.627] [Client thread/INFO] [net.minecraftforge.fml.ModLoader/CORE]: Loading Network data for FML net version: FML2
+[30Jan2020 21:03:10.167] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: textBackgroundOpacity:
+[30Jan2020 21:03:10.277] [Client thread/INFO] [net.minecraft.client.Minecraft/]: LWJGL Version: 3.2.1 build 12
+[30Jan2020 21:03:12.542] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 26.0.63, for MC 1.14.2 with MCP 20190603.175704
+[30Jan2020 21:03:12.543] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v26.0.63 Initialized
+[30Jan2020 21:03:15.269] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows/]: Narrator library for x64 successfully loaded
+[30Jan2020 21:03:15.648] [Client thread/INFO] [com.mojang.realmsclient.plugin.RealmsPluginImpl/]: Built for minecraft version 1.14.2
+[30Jan2020 21:03:23.128] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[30Jan2020 21:03:23.257] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[30Jan2020 21:03:23.330] [modloading-worker-3/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.0.1-beta-01;c97071c) is loaded
+[30Jan2020 21:03:23.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 26.0.63 Target: 26.0.63
+[30Jan2020 21:03:24.077] [Server-Worker-2/WARN] [net.minecraft.client.gui.fonts.providers.TextureGlyphProvider/]: Codepoint '1ed0' declared multiple times in minecraft:textures/font/accented.png
+[30Jan2020 21:03:30.729] [Client thread/WARN] [net.minecraft.client.GameSettings/]: Skipping bad option: textBackgroundOpacity:
+[30Jan2020 21:03:31.000] [Client thread/INFO] [net.minecraft.client.audio.SoundSystem/]: OpenAL initialized.
+[30Jan2020 21:03:31.001] [Client thread/INFO] [net.minecraft.client.audio.SoundEngine/SOUNDS]: Sound engine started
+[30Jan2020 21:03:31.519] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 2048x2048 textures-atlas
+[30Jan2020 21:03:32.812] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 2048x2048 textures/particle-atlas
+[30Jan2020 21:03:32.851] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 1024x1024 textures/painting-atlas
+[30Jan2020 21:03:32.861] [Client thread/INFO] [net.minecraft.client.renderer.texture.AtlasTexture/]: Created: 512x512 textures/mob_effect-atlas
+[30Jan2020 21:03:39.410] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Jan2020 21:03:39.411] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Jan2020 21:03:39.412] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Jan2020 21:03:39.413] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[30Jan2020 21:03:39.414] [Client thread/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[30Jan2020 21:03:39.533] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Starting integrated minecraft server version 1.14.2
+[30Jan2020 21:03:39.534] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Generating keypair
+[30Jan2020 21:03:39.626] [Thread-1/FATAL] [net.minecraftforge.common.ForgeConfig/CORE]: Forge config just got changed on the file system!
+[30Jan2020 21:03:39.908] [Server thread/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: WorldEdit-1.14.2 (1).jar, forge-1.14.2-26.0.63-universal.jar, Default
+[30Jan2020 21:03:40.957] [Server thread/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 6 recipes
+[30Jan2020 21:03:43.506] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 811 advancements
+[30Jan2020 21:03:43.970] [Server thread/ERROR] [net.minecraft.world.storage.DimensionSavedDataManager/]: Error loading saved data: raids
+java.io.IOException: Root tag must be a named compound tag
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:97) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:89) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215755_a(DimensionSavedDataManager.java:85) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215753_b(DimensionSavedDataManager.java:56) [?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215752_a(DimensionSavedDataManager.java:37) [?:?]
+	at net.minecraft.world.ServerWorld.<init>(ServerWorld.java:165) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213194_a(MinecraftServer.java:353) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:76) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:94) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:586) [?:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[30Jan2020 21:03:44.016] [Server thread/ERROR] [net.minecraft.world.storage.DimensionSavedDataManager/]: Error loading saved data: capabilities
+java.io.IOException: Root tag must be a named compound tag
+	at net.minecraft.nbt.CompressedStreamTools.func_152456_a(CompressedStreamTools.java:97) ~[?:?]
+	at net.minecraft.nbt.CompressedStreamTools.func_74794_a(CompressedStreamTools.java:89) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215755_a(DimensionSavedDataManager.java:85) ~[?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215753_b(DimensionSavedDataManager.java:56) [?:?]
+	at net.minecraft.world.storage.DimensionSavedDataManager.func_215752_a(DimensionSavedDataManager.java:37) [?:?]
+	at net.minecraft.world.ServerWorld.initCapabilities(ServerWorld.java:1315) [?:?]
+	at net.minecraft.world.ServerWorld.<init>(ServerWorld.java:173) [?:?]
+	at net.minecraft.server.MinecraftServer.func_213194_a(MinecraftServer.java:353) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:76) [?:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:94) [?:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:586) [?:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+[30Jan2020 21:03:44.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Jan2020 21:03:46.308] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Jan2020 21:03:46.308] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Jan2020 21:03:46.308] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Jan2020 21:03:46.309] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Jan2020 21:03:46.309] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Jan2020 21:03:46.715] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[30Jan2020 21:03:47.227] [Client thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 3054 ms
+[30Jan2020 21:03:48.399] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5b4f26bb]
+[30Jan2020 21:03:49.016] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[30Jan2020 21:03:50.280] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jan2020 21:03:50.281] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jan2020 21:03:50.292] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Changing view distance to 30, from 10
+[30Jan2020 21:03:51.700] [Netty Local Client IO #0/INFO] [net.minecraftforge.fml.network.NetworkHooks/]: Connected to a modded server.
+[30Jan2020 21:03:52.311] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: bobbyjanks[local:E:ce6e4d4e] logged in with entity id 22 at (618.7564560500778, 84.23056055278903, -6.487924339897903)
+[30Jan2020 21:03:52.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bobbyjanks joined the game
+[30Jan2020 21:03:53.908] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[30Jan2020 21:03:54.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Planet Bobbyjanks'/minecraft:overworld
+[30Jan2020 21:03:54.054] [Client thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 478 advancements
+[30Jan2020 21:03:55.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
+[30Jan2020 21:04:23.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [bobbyjanks: Teleported bobbyjanks to -2.5, 65.0, 8.5]
+[30Jan2020 21:04:24.043] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] Teleported bobbyjanks to -2.5, 65.0, 8.5
+[30Jan2020 21:04:29.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported bobbyjanks to 5047.5, 65.0, 4950.5]
+[30Jan2020 21:04:29.688] [Client thread/INFO] [net.minecraft.client.gui.NewChatGui/]: [CHAT] [@: Teleported bobbyjanks to 5047.5, 65.0, 4950.5]
+[30Jan2020 21:04:33.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3378ms or 67 ticks behind
+[30Jan2020 21:04:41.458] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer/]: Saving and pausing game...
+[30Jan2020 21:04:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Planet Bobbyjanks'/minecraft:overworld
+[30Jan2020 21:04:42.965] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: bobbyjanks lost connection: Disconnected
+[30Jan2020 21:04:42.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bobbyjanks left the game
+[30Jan2020 21:04:43.017] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Stopping singleplayer server as player logged out
+[30Jan2020 21:04:43.691] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.forge.ForgePlatform from WorldEdit
+[30Jan2020 21:04:43.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jan2020 21:04:43.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jan2020 21:04:43.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jan2020 21:04:43.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'Planet Bobbyjanks'/minecraft:overworld
+[30Jan2020 21:04:45.297] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (Planet Bobbyjanks): All chunks are saved
+[30Jan2020 21:04:45.324] [Server thread/INFO] [net.minecraft.world.chunk.ChunkManager/]: ThreadedAnvilChunkStorage (Planet Bobbyjanks): All chunks are saved
+[30Jan2020 21:04:46.121] [Client thread/INFO] [com.mojang.realmsclient.plugin.RealmsPluginImpl/]: Built for minecraft version 1.14.2
+[30Jan2020 21:04:47.411] [Client thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[30Jan2020 21:04:47.463] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE
+[30Jan2020 21:04:47.464] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE
+[30Jan2020 21:04:47.465] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE
+[30Jan2020 21:04:47.465] [Client thread/INFO] [net.minecraft.client.renderer.GlDebugTextUtils/]: OpenGL debug message, id=1281, source=API, type=ERROR, severity=HIGH, message=GL error GL_INVALID_VALUE

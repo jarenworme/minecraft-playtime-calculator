@@ -1,0 +1,56 @@
+[21:43:38] [main/INFO]: Setting user: bobbyjanks
+[21:43:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:43:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[21:43:44] [Sound Library Loader/INFO]: Sound engine started
+[21:43:48] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[21:43:49] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[21:43:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[21:43:50] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[21:43:52] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[21:43:52] [Sound Library Loader/INFO]: Sound engine started
+[21:44:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:44:08] [Server thread/INFO]: Generating keypair
+[21:44:09] [Server thread/INFO]: Preparing start region for level 0
+[21:44:10] [Server thread/INFO]: Preparing spawn area: 60%
+[21:44:11] [Server thread/INFO]: Changing view distance to 16, from 10
+[21:44:11] [Server thread/INFO]: bobbyjanks[local:E:ae199ddc] logged in with entity id 141 at (5094.621445038278, 87.5, 5046.057337225241)
+[21:44:11] [Server thread/INFO]: bobbyjanks joined the game
+[21:47:54] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -499.5,65.5,-1389.5]
+[21:47:54] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -499.5,65.5,-1389.5
+[21:47:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2067ms behind, skipping 41 tick(s)
+[21:54:39] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -809.5,65.5,-799.5]
+[21:54:39] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -809.5,65.5,-799.5
+[21:55:41] [Client thread/INFO]: [CHAT] §dLeft click: select pos #1; Right click: select pos #2
+[21:55:46] [Client thread/INFO]: [CHAT] §dFirst position set to (-1194.0, 63.0, -837.0).
+[21:56:08] [Client thread/INFO]: [CHAT] §dFirst position set to (-1125.0, 63.0, -848.0).
+[21:56:23] [Client thread/INFO]: [CHAT] §dSecond position set to (-1047.0, 57.0, -753.0) (53088).
+[21:56:33] [Client thread/INFO]: [CHAT] §d45504 block(s) have been changed.
+[21:57:11] [Client thread/INFO]: [CHAT] §dFirst position set to (-1115.0, 63.0, -753.0) (483).
+[21:57:24] [Client thread/INFO]: [CHAT] §dSecond position set to (-1047.0, 63.0, -848.0) (6624).
+[21:57:31] [Client thread/INFO]: [CHAT] §d6624 block(s) have been changed.
+[21:57:37] [Client thread/INFO]: [CHAT] §dFirst position set to (-1047.0, 63.0, -841.0) (8).
+[21:57:39] [Client thread/INFO]: [CHAT] §dSecond position set to (-1055.0, 63.0, -847.0) (63).
+[21:57:39] [Client thread/INFO]: [CHAT] §dSecond position set to (-1055.0, 63.0, -848.0) (72).
+[21:57:42] [Client thread/INFO]: [CHAT] §d72 block(s) have been changed.
+[22:06:28] [Server thread/INFO]: [bobbyjanks: Set the time to 3000]
+[22:06:28] [Client thread/INFO]: [CHAT] Set the time to 3000
+[22:14:37] [Server thread/INFO]: [bobbyjanks: Set the time to 3000]
+[22:14:37] [Client thread/INFO]: [CHAT] Set the time to 3000
+[22:22:18] [Server thread/INFO]: [bobbyjanks: Set the time to 3000]
+[22:22:18] [Client thread/INFO]: [CHAT] Set the time to 3000
+[22:30:37] [Server thread/INFO]: [bobbyjanks: Set the time to 3000]
+[22:30:37] [Client thread/INFO]: [CHAT] Set the time to 3000
+[22:43:32] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[22:43:35] [Server thread/INFO]: [bobbyjanks: Set the time to 3000]
+[22:43:35] [Client thread/INFO]: [CHAT] Set the time to 3000
+[22:48:13] [Server thread/INFO]: Saving and pausing game...
+[22:48:13] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[22:48:14] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[22:48:14] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[22:48:15] [Server thread/INFO]: Stopping server
+[22:48:15] [Server thread/INFO]: Saving players
+[22:48:15] [Server thread/INFO]: Saving worlds
+[22:48:15] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[22:48:15] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[22:48:15] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[22:48:17] [Client thread/INFO]: Stopping!

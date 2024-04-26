@@ -1,0 +1,46 @@
+[18:29:09] [main/INFO]: Setting user: bobbyjanks
+[18:29:09] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:29:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[18:29:13] [Sound Library Loader/INFO]: Sound engine started
+[18:29:15] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[18:29:16] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[18:29:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:WorldEdit, [1.7.10] Flow's HD 64x
+[18:29:16] [Client thread/INFO]: Created: 1024x1024 textures/items-atlas
+[18:29:18] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[18:29:19] [Sound Library Loader/INFO]: Sound engine started
+[18:29:28] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:29:28] [Server thread/INFO]: Generating keypair
+[18:29:29] [Server thread/INFO]: Preparing start region for level 0
+[18:29:30] [Server thread/INFO]: Preparing spawn area: 76%
+[18:29:30] [Server thread/INFO]: Changing view distance to 16, from 10
+[18:29:31] [Server thread/INFO]: bobbyjanks[local:E:75fb1792] logged in with entity id 120 at (-666.4428461011338, 68.13796860429633, -1309.1660292747713)
+[18:29:31] [Server thread/INFO]: bobbyjanks joined the game
+[18:31:19] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to 123.5,65.5,-1163.5]
+[18:31:19] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to 123.5,65.5,-1163.5
+[18:34:35] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -499.5,65.5,-1299.5]
+[18:34:35] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -499.5,65.5,-1299.5
+[18:40:57] [Server thread/INFO]: [bobbyjanks: Given Speed (ID 1) * 140 to bobbyjanks for 30 seconds]
+[18:40:57] [Client thread/INFO]: [CHAT] Given Speed (ID 1) * 140 to bobbyjanks for 30 seconds
+[18:41:17] [Server thread/INFO]: Saving and pausing game...
+[18:41:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[18:41:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[18:41:17] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[19:05:39] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to 123.5,65.5,-1163.5]
+[19:05:40] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to 123.5,65.5,-1163.5
+[19:06:45] [Server thread/INFO]: [bobbyjanks: Teleported bobbyjanks to -499.5,70.5,-1319.5]
+[19:06:45] [Client thread/INFO]: [CHAT] Teleported bobbyjanks to -499.5,70.5,-1319.5
+[19:25:50] [Server thread/INFO]: Saving and pausing game...
+[19:25:50] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[19:25:50] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[19:25:50] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[19:25:57] [Server thread/INFO]: Saving and pausing game...
+[19:25:57] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[19:25:57] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[19:25:57] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[19:25:59] [Server thread/INFO]: Stopping server
+[19:25:59] [Server thread/INFO]: Saving players
+[19:25:59] [Server thread/INFO]: Saving worlds
+[19:25:59] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Overworld
+[19:25:59] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/Nether
+[19:25:59] [Server thread/INFO]: Saving chunks for level 'Planet Bobbyjanks'/The End
+[19:26:07] [Client thread/INFO]: Stopping!
